@@ -6,7 +6,9 @@ from django.conf.urls.defaults import *
 
 urlpatterns = patterns('',
     # Example:
-    (r'^feed/', 'pico.views.feed'),
+    (r'^rooms', 'pico.views.rooms'),
+    (r'^info/(?P<room>\w+)/$', 'pico.views.info'),
+    (r'^feed/(?P<room>\w+)/$', 'pico.views.feed'),
 
     # Uncomment the admin/doc line below and add 'django.contrib.admindocs' 
     # to INSTALLED_APPS to enable admin documentation:
