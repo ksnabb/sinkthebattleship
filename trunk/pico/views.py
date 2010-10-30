@@ -1,5 +1,11 @@
+"""
+The pico views is supposed to mimic a pico server
+"""
+
 from django.http import HttpResponse
 import time
+
+
 
 def feed(request):
     return HttpResponse(xml_feed())
@@ -14,7 +20,7 @@ def xml_feed():
         yield test_xml
         time.sleep(3)
         
-        
+      
         
 """
 <?xml version="1.0" encoding="iso-8859-1"?>
