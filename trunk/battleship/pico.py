@@ -1,8 +1,13 @@
-from xml.sax.xmlreader import IncrementalParser
+from xml.sax import parse
 from xml.sax.handler import ContentHandler
 import urllib
 
-PICO_URL = "http://localhost:8000/pico"
+"""
+http://10.10.10.254:8081/feed/danceroom
+http://localhost:8000/pico
+"""
+
+PICO_URL = "http://10.10.10.254:8081"
 
 class pico_feed_handler(ContentHandler):
     

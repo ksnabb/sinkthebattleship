@@ -1,0 +1,2976 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<stream version="1.2">
+<room id="danceroom" time="128887747390">
+ <cluster id="99" name="" x="0.68" y="2.29" vx="0.00" vy="0.00" size="0.00" magnitude="43.00" zones="">
+  <m mcu="40976" sid="18" id="31" value="43.00"/>
+ </cluster>
+ <cluster id="100" name="" x="0.22" y="0.15" vx="0.00" vy="0.00" size="0.00" magnitude="54.00" zones="">
+  <m mcu="40976" sid="0" id="18" value="54.00"/>
+ </cluster>
+</room>
+<room id="danceroom" time="128887747423">
+ <cluster id="99" name="" x="0.68" y="2.29" vx="0.00" vy="0.00" size="0.00" magnitude="43.00" zones="">
+  <m mcu="40976" sid="18" id="31" value="43.00"/>
+ </cluster>
+ <cluster id="100" name="" x="0.22" y="0.15" vx="0.00" vy="0.00" size="0.00" magnitude="54.00" zones="">
+  <m mcu="40976" sid="0" id="18" value="54.00"/>
+ </cluster>
+</room>
+<room id="danceroom" time="128887747457">
+ <cluster id="99" name="" x="0.68" y="2.29" vx="0.00" vy="0.00" size="0.00" magnitude="43.00" zones="">
+  <m mcu="40976" sid="18" id="31" value="43.00"/>
+ </cluster>
+ <cluster id="100" name="" x="0.22" y="0.15" vx="0.00" vy="0.00" size="0.00" magnitude="54.00" zones="">
+  <m mcu="40976" sid="0" id="18" value="54.00"/>
+ </cluster>
+</room>
+<room id="danceroom" time="128887747490">
+ <cluster id="99" name="" x="0.68" y="2.29" vx="0.00" vy="0.00" size="0.00" magnitude="43.00" zones="">
+  <m mcu="40976" sid="18" id="31" value="43.00"/>
+ </cluster>
+ <cluster id="100" name="" x="0.22" y="0.15" vx="0.00" vy="0.00" size="0.00" magnitude="54.00" zones="">
+  <m mcu="40976" sid="0" id="18" value="54.00"/>
+ </cluster>
+</room>
+<room id="danceroom" time="128887747523">
+ <cluster id="99" name="" x="0.68" y="2.29" vx="0.00" vy="0.00" size="0.00" magnitude="43.00" zones="">
+  <m mcu="40976" sid="18" id="31" value="43.00"/>
+ </cluster>
+ <cluster id="100" name="" x="0.22" y="0.15" vx="0.00" vy="0.00" size="0.00" magnitude="54.00" zones="">
+  <m mcu="40976" sid="0" id="18" value="54.00"/>
+ </cluster>
+</room>
+<room id="danceroom" time="128887747557">
+ <cluster id="99" name="" x="0.68" y="2.29" vx="0.00" vy="0.00" size="0.00" magnitude="43.00" zones="">
+  <m mcu="40976" sid="18" id="31" value="43.00"/>
+ </cluster>
+ <cluster id="100" name="" x="0.22" y="0.15" vx="0.00" vy="0.00" size="0.00" magnitude="54.00" zones="">
+  <m mcu="40976" sid="0" id="18" value="54.00"/>
+ </cluster>
+</room>
+<room id="danceroom" time="128887747590">
+ <cluster id="99" name="" x="0.68" y="2.29" vx="0.00" vy="0.00" size="0.00" magnitude="43.00" zones="">
+  <m mcu="40976" sid="18" id="31" value="43.00"/>
+ </cluster>
+ <cluster id="100" name="" x="0.22" y="0.15" vx="0.00" vy="0.00" size="0.00" magnitude="54.00" zones="">
+  <m mcu="40976" sid="0" id="18" value="54.00"/>
+ </cluster>
+</room>
+<room id="danceroom" time="128887747623">
+ <cluster id="99" name="" x="0.68" y="2.29" vx="0.00" vy="0.00" size="0.00" magnitude="43.00" zones="">
+  <m mcu="40976" sid="18" id="31" value="43.00"/>
+ </cluster>
+ <cluster id="100" name="" x="0.22" y="0.15" vx="0.00" vy="0.00" size="0.00" magnitude="54.00" zones="">
+  <m mcu="40976" sid="0" id="18" value="54.00"/>
+ </cluster>
+</room>
+<room id="danceroom" time="128887747657">
+ <cluster id="99" name="" x="0.68" y="2.29" vx="0.00" vy="0.00" size="0.00" magnitude="43.00" zones="">
+  <m mcu="40976" sid="18" id="31" value="43.00"/>
+ </cluster>
+ <cluster id="100" name="" x="0.22" y="0.15" vx="0.00" vy="0.00" size="0.00" magnitude="54.00" zones="">
+  <m mcu="40976" sid="0" id="18" value="54.00"/>
+ </cluster>
+</room>
+<room id="danceroom" time="128887747690">
+ <cluster id="99" name="" x="0.68" y="2.29" vx="0.00" vy="0.00" size="0.00" magnitude="43.00" zones="">
+  <m mcu="40976" sid="18" id="31" value="43.00"/>
+ </cluster>
+ <cluster id="100" name="" x="0.22" y="0.15" vx="0.00" vy="0.00" size="0.00" magnitude="54.00" zones="">
+  <m mcu="40976" sid="0" id="18" value="54.00"/>
+ </cluster>
+</room>
+<room id="danceroom" time="128887747723">
+ <cluster id="99" name="" x="0.68" y="2.29" vx="0.00" vy="0.00" size="0.00" magnitude="43.00" zones="">
+  <m mcu="40976" sid="18" id="31" value="43.00"/>
+ </cluster>
+ <cluster id="100" name="" x="0.22" y="0.15" vx="0.00" vy="0.00" size="0.00" magnitude="54.00" zones="">
+  <m mcu="40976" sid="0" id="18" value="54.00"/>
+ </cluster>
+</room>
+<room id="danceroom" time="128887747757">
+ <cluster id="99" name="" x="0.68" y="2.29" vx="0.00" vy="0.00" size="0.00" magnitude="43.00" zones="">
+  <m mcu="40976" sid="18" id="31" value="43.00"/>
+ </cluster>
+ <cluster id="100" name="" x="0.22" y="0.15" vx="0.00" vy="0.00" size="0.00" magnitude="54.00" zones="">
+  <m mcu="40976" sid="0" id="18" value="54.00"/>
+ </cluster>
+</room>
+<room id="danceroom" time="128887747790">
+ <cluster id="99" name="" x="0.68" y="2.29" vx="0.00" vy="0.00" size="0.00" magnitude="43.00" zones="">
+  <m mcu="40976" sid="18" id="31" value="43.00"/>
+ </cluster>
+ <cluster id="100" name="" x="0.22" y="0.15" vx="0.00" vy="0.00" size="0.00" magnitude="54.00" zones="">
+  <m mcu="40976" sid="0" id="18" value="54.00"/>
+ </cluster>
+</room>
+<room id="danceroom" time="128887747823">
+ <cluster id="99" name="" x="0.68" y="2.29" vx="0.00" vy="0.00" size="0.00" magnitude="43.00" zones="">
+  <m mcu="40976" sid="18" id="31" value="43.00"/>
+ </cluster>
+ <cluster id="100" name="" x="0.22" y="0.15" vx="0.00" vy="0.00" size="0.00" magnitude="54.00" zones="">
+  <m mcu="40976" sid="0" id="18" value="54.00"/>
+ </cluster>
+</room>
+<room id="danceroom" time="128887747857">
+ <cluster id="99" name="" x="0.68" y="2.29" vx="0.00" vy="0.00" size="0.00" magnitude="43.00" zones="">
+  <m mcu="40976" sid="18" id="31" value="43.00"/>
+ </cluster>
+ <cluster id="100" name="" x="0.22" y="0.15" vx="0.00" vy="0.00" size="0.00" magnitude="54.00" zones="">
+  <m mcu="40976" sid="0" id="18" value="54.00"/>
+ </cluster>
+</room>
+<room id="danceroom" time="128887747890">
+ <cluster id="99" name="" x="0.68" y="2.29" vx="0.00" vy="0.00" size="0.00" magnitude="43.00" zones="">
+  <m mcu="40976" sid="18" id="31" value="43.00"/>
+ </cluster>
+ <cluster id="100" name="" x="0.22" y="0.15" vx="0.00" vy="0.00" size="0.00" magnitude="54.00" zones="">
+  <m mcu="40976" sid="0" id="18" value="54.00"/>
+ </cluster>
+</room>
+<room id="danceroom" time="128887747923">
+ <cluster id="99" name="" x="0.68" y="2.29" vx="0.00" vy="0.00" size="0.00" magnitude="43.00" zones="">
+  <m mcu="40976" sid="18" id="31" value="43.00"/>
+ </cluster>
+ <cluster id="100" name="" x="0.22" y="0.15" vx="0.00" vy="0.00" size="0.00" magnitude="54.00" zones="">
+  <m mcu="40976" sid="0" id="18" value="54.00"/>
+ </cluster>
+</room>
+<room id="danceroom" time="128887747957">
+ <cluster id="99" name="" x="0.68" y="2.29" vx="0.00" vy="0.00" size="0.00" magnitude="43.00" zones="">
+  <m mcu="40976" sid="18" id="31" value="43.00"/>
+ </cluster>
+ <cluster id="100" name="" x="0.22" y="0.15" vx="0.00" vy="0.00" size="0.00" magnitude="54.00" zones="">
+  <m mcu="40976" sid="0" id="18" value="54.00"/>
+ </cluster>
+</room>
+<room id="danceroom" time="128887747990">
+ <cluster id="99" name="" x="0.68" y="2.29" vx="0.00" vy="0.00" size="0.00" magnitude="43.00" zones="">
+  <m mcu="40976" sid="18" id="31" value="43.00"/>
+ </cluster>
+ <cluster id="100" name="" x="0.22" y="0.15" vx="0.00" vy="0.00" size="0.00" magnitude="54.00" zones="">
+  <m mcu="40976" sid="0" id="18" value="54.00"/>
+ </cluster>
+</room>
+<room id="danceroom" time="128887748023">
+ <cluster id="99" name="" x="0.68" y="2.29" vx="0.00" vy="0.00" size="0.00" magnitude="43.00" zones="">
+  <m mcu="40976" sid="18" id="31" value="43.00"/>
+ </cluster>
+ <cluster id="100" name="" x="0.22" y="0.15" vx="0.00" vy="0.00" size="0.00" magnitude="54.00" zones="">
+  <m mcu="40976" sid="0" id="18" value="54.00"/>
+ </cluster>
+</room>
+<room id="danceroom" time="128887748057">
+ <cluster id="99" name="" x="0.68" y="2.29" vx="0.00" vy="0.00" size="0.00" magnitude="43.00" zones="">
+  <m mcu="40976" sid="18" id="31" value="43.00"/>
+ </cluster>
+ <cluster id="100" name="" x="0.22" y="0.15" vx="0.00" vy="0.00" size="0.00" magnitude="54.00" zones="">
+  <m mcu="40976" sid="0" id="18" value="54.00"/>
+ </cluster>
+</room>
+<room id="danceroom" time="128887748090">
+ <cluster id="99" name="" x="0.68" y="2.29" vx="0.00" vy="0.00" size="0.00" magnitude="43.00" zones="">
+  <m mcu="40976" sid="18" id="31" value="43.00"/>
+ </cluster>
+ <cluster id="100" name="" x="0.22" y="0.15" vx="0.00" vy="0.00" size="0.00" magnitude="54.00" zones="">
+  <m mcu="40976" sid="0" id="18" value="54.00"/>
+ </cluster>
+</room>
+<room id="danceroom" time="128887748123">
+ <cluster id="99" name="" x="0.68" y="2.29" vx="0.00" vy="0.00" size="0.00" magnitude="43.00" zones="">
+  <m mcu="40976" sid="18" id="31" value="43.00"/>
+ </cluster>
+ <cluster id="100" name="" x="0.22" y="0.15" vx="0.00" vy="0.00" size="0.00" magnitude="54.00" zones="">
+  <m mcu="40976" sid="0" id="18" value="54.00"/>
+ </cluster>
+</room>
+<room id="danceroom" time="128887748157">
+ <cluster id="99" name="" x="0.68" y="2.29" vx="0.00" vy="0.00" size="0.00" magnitude="43.00" zones="">
+  <m mcu="40976" sid="18" id="31" value="43.00"/>
+ </cluster>
+ <cluster id="100" name="" x="0.22" y="0.15" vx="0.00" vy="0.00" size="0.00" magnitude="54.00" zones="">
+  <m mcu="40976" sid="0" id="18" value="54.00"/>
+ </cluster>
+</room>
+<room id="danceroom" time="128887748190">
+ <cluster id="99" name="" x="0.68" y="2.29" vx="0.00" vy="0.00" size="0.00" magnitude="43.00" zones="">
+  <m mcu="40976" sid="18" id="31" value="43.00"/>
+ </cluster>
+ <cluster id="100" name="" x="0.22" y="0.15" vx="0.00" vy="0.00" size="0.00" magnitude="54.00" zones="">
+  <m mcu="40976" sid="0" id="18" value="54.00"/>
+ </cluster>
+</room>
+<room id="danceroom" time="128887748223">
+ <cluster id="99" name="" x="0.68" y="2.29" vx="0.00" vy="0.00" size="0.00" magnitude="43.00" zones="">
+  <m mcu="40976" sid="18" id="31" value="43.00"/>
+ </cluster>
+ <cluster id="100" name="" x="0.22" y="0.15" vx="0.00" vy="0.00" size="0.00" magnitude="54.00" zones="">
+  <m mcu="40976" sid="0" id="18" value="54.00"/>
+ </cluster>
+</room>
+<room id="danceroom" time="128887748257">
+ <cluster id="99" name="" x="0.68" y="2.29" vx="0.00" vy="0.00" size="0.00" magnitude="43.00" zones="">
+  <m mcu="40976" sid="18" id="31" value="43.00"/>
+ </cluster>
+ <cluster id="100" name="" x="0.22" y="0.15" vx="0.00" vy="0.00" size="0.00" magnitude="54.00" zones="">
+  <m mcu="40976" sid="0" id="18" value="54.00"/>
+ </cluster>
+</room>
+<room id="danceroom" time="128887748290">
+ <cluster id="99" name="" x="0.68" y="2.29" vx="0.00" vy="0.00" size="0.00" magnitude="43.00" zones="">
+  <m mcu="40976" sid="18" id="31" value="43.00"/>
+ </cluster>
+ <cluster id="100" name="" x="0.22" y="0.15" vx="0.00" vy="0.00" size="0.00" magnitude="54.00" zones="">
+  <m mcu="40976" sid="0" id="18" value="54.00"/>
+ </cluster>
+</room>
+<room id="danceroom" time="128887748323">
+ <cluster id="99" name="" x="0.68" y="2.29" vx="0.00" vy="0.00" size="0.00" magnitude="43.00" zones="">
+  <m mcu="40976" sid="18" id="31" value="43.00"/>
+ </cluster>
+ <cluster id="100" name="" x="0.22" y="0.15" vx="0.00" vy="0.00" size="0.00" magnitude="54.00" zones="">
+  <m mcu="40976" sid="0" id="18" value="54.00"/>
+ </cluster>
+</room>
+<room id="danceroom" time="128887748357">
+ <cluster id="99" name="" x="0.68" y="2.29" vx="0.00" vy="0.00" size="0.00" magnitude="43.00" zones="">
+  <m mcu="40976" sid="18" id="31" value="43.00"/>
+ </cluster>
+ <cluster id="100" name="" x="0.22" y="0.15" vx="0.00" vy="0.00" size="0.00" magnitude="54.00" zones="">
+  <m mcu="40976" sid="0" id="18" value="54.00"/>
+ </cluster>
+</room>
+<room id="danceroom" time="128887748390">
+ <cluster id="99" name="" x="0.68" y="2.29" vx="0.00" vy="0.00" size="0.00" magnitude="43.00" zones="">
+  <m mcu="40976" sid="18" id="31" value="43.00"/>
+ </cluster>
+ <cluster id="100" name="" x="0.22" y="0.15" vx="0.00" vy="0.00" size="0.00" magnitude="54.00" zones="">
+  <m mcu="40976" sid="0" id="18" value="54.00"/>
+ </cluster>
+</room>
+<room id="danceroom" time="128887748423">
+ <cluster id="99" name="" x="0.68" y="2.29" vx="0.00" vy="0.00" size="0.00" magnitude="43.00" zones="">
+  <m mcu="40976" sid="18" id="31" value="43.00"/>
+ </cluster>
+ <cluster id="100" name="" x="0.22" y="0.15" vx="0.00" vy="0.00" size="0.00" magnitude="54.00" zones="">
+  <m mcu="40976" sid="0" id="18" value="54.00"/>
+ </cluster>
+</room>
+<room id="danceroom" time="128887748457">
+ <cluster id="99" name="" x="0.68" y="2.29" vx="0.00" vy="0.00" size="0.00" magnitude="43.00" zones="">
+  <m mcu="40976" sid="18" id="31" value="43.00"/>
+ </cluster>
+ <cluster id="100" name="" x="0.22" y="0.15" vx="0.00" vy="0.00" size="0.00" magnitude="54.00" zones="">
+  <m mcu="40976" sid="0" id="18" value="54.00"/>
+ </cluster>
+</room>
+<room id="danceroom" time="128887748490">
+ <cluster id="99" name="" x="0.68" y="2.29" vx="0.00" vy="0.00" size="0.00" magnitude="43.00" zones="">
+  <m mcu="40976" sid="18" id="31" value="43.00"/>
+ </cluster>
+ <cluster id="100" name="" x="0.22" y="0.15" vx="0.00" vy="0.00" size="0.00" magnitude="54.00" zones="">
+  <m mcu="40976" sid="0" id="18" value="54.00"/>
+ </cluster>
+</room>
+<room id="danceroom" time="128887748523">
+ <cluster id="99" name="" x="0.68" y="2.29" vx="0.00" vy="0.00" size="0.00" magnitude="43.00" zones="">
+  <m mcu="40976" sid="18" id="31" value="43.00"/>
+ </cluster>
+ <cluster id="100" name="" x="0.22" y="0.15" vx="0.00" vy="0.00" size="0.00" magnitude="54.00" zones="">
+  <m mcu="40976" sid="0" id="18" value="54.00"/>
+ </cluster>
+</room>
+<room id="danceroom" time="128887748557">
+ <cluster id="99" name="" x="0.68" y="2.29" vx="0.00" vy="0.00" size="0.00" magnitude="43.00" zones="">
+  <m mcu="40976" sid="18" id="31" value="43.00"/>
+ </cluster>
+ <cluster id="100" name="" x="0.22" y="0.15" vx="0.00" vy="0.00" size="0.00" magnitude="54.00" zones="">
+  <m mcu="40976" sid="0" id="18" value="54.00"/>
+ </cluster>
+</room>
+<room id="danceroom" time="128887748590">
+ <cluster id="99" name="" x="0.68" y="2.29" vx="0.00" vy="0.00" size="0.00" magnitude="43.00" zones="">
+  <m mcu="40976" sid="18" id="31" value="43.00"/>
+ </cluster>
+ <cluster id="100" name="" x="0.22" y="0.15" vx="0.00" vy="0.00" size="0.00" magnitude="54.00" zones="">
+  <m mcu="40976" sid="0" id="18" value="54.00"/>
+ </cluster>
+</room>
+<room id="danceroom" time="128887748623">
+ <cluster id="99" name="" x="0.68" y="2.29" vx="0.00" vy="0.00" size="0.00" magnitude="43.00" zones="">
+  <m mcu="40976" sid="18" id="31" value="43.00"/>
+ </cluster>
+ <cluster id="100" name="" x="0.22" y="0.15" vx="0.00" vy="0.00" size="0.00" magnitude="54.00" zones="">
+  <m mcu="40976" sid="0" id="18" value="54.00"/>
+ </cluster>
+</room>
+<room id="danceroom" time="128887748657">
+ <cluster id="99" name="" x="0.68" y="2.29" vx="0.00" vy="0.00" size="0.00" magnitude="43.00" zones="">
+  <m mcu="40976" sid="18" id="31" value="43.00"/>
+ </cluster>
+ <cluster id="100" name="" x="0.22" y="0.15" vx="0.00" vy="0.00" size="0.00" magnitude="54.00" zones="">
+  <m mcu="40976" sid="0" id="18" value="54.00"/>
+ </cluster>
+</room>
+<room id="danceroom" time="128887748690">
+ <cluster id="99" name="" x="0.68" y="2.29" vx="0.00" vy="0.00" size="0.00" magnitude="43.00" zones="">
+  <m mcu="40976" sid="18" id="31" value="43.00"/>
+ </cluster>
+ <cluster id="100" name="" x="0.22" y="0.15" vx="0.00" vy="0.00" size="0.00" magnitude="54.00" zones="">
+  <m mcu="40976" sid="0" id="18" value="54.00"/>
+ </cluster>
+</room>
+<room id="danceroom" time="128887748723">
+ <cluster id="99" name="" x="0.68" y="2.29" vx="0.00" vy="0.00" size="0.00" magnitude="43.00" zones="">
+  <m mcu="40976" sid="18" id="31" value="43.00"/>
+ </cluster>
+ <cluster id="100" name="" x="0.22" y="0.15" vx="0.00" vy="0.00" size="0.00" magnitude="54.00" zones="">
+  <m mcu="40976" sid="0" id="18" value="54.00"/>
+ </cluster>
+</room>
+<room id="danceroom" time="128887748757">
+ <cluster id="99" name="" x="0.68" y="2.29" vx="0.00" vy="0.00" size="0.00" magnitude="43.00" zones="">
+  <m mcu="40976" sid="18" id="31" value="43.00"/>
+ </cluster>
+ <cluster id="100" name="" x="0.22" y="0.15" vx="0.00" vy="0.00" size="0.00" magnitude="54.00" zones="">
+  <m mcu="40976" sid="0" id="18" value="54.00"/>
+ </cluster>
+</room>
+<room id="danceroom" time="128887748790">
+ <cluster id="99" name="" x="0.68" y="2.29" vx="0.00" vy="0.00" size="0.00" magnitude="43.00" zones="">
+  <m mcu="40976" sid="18" id="31" value="43.00"/>
+ </cluster>
+ <cluster id="100" name="" x="0.22" y="0.15" vx="0.00" vy="0.00" size="0.00" magnitude="54.00" zones="">
+  <m mcu="40976" sid="0" id="18" value="54.00"/>
+ </cluster>
+</room>
+<room id="danceroom" time="128887748823">
+ <cluster id="99" name="" x="0.68" y="2.29" vx="0.00" vy="0.00" size="0.00" magnitude="43.00" zones="">
+  <m mcu="40976" sid="18" id="31" value="43.00"/>
+ </cluster>
+ <cluster id="100" name="" x="0.22" y="0.15" vx="0.00" vy="0.00" size="0.00" magnitude="54.00" zones="">
+  <m mcu="40976" sid="0" id="18" value="54.00"/>
+ </cluster>
+</room>
+<room id="danceroom" time="128887748857">
+ <cluster id="99" name="" x="0.68" y="2.29" vx="0.00" vy="0.00" size="0.00" magnitude="43.00" zones="">
+  <m mcu="40976" sid="18" id="31" value="43.00"/>
+ </cluster>
+ <cluster id="100" name="" x="0.22" y="0.15" vx="0.00" vy="0.00" size="0.00" magnitude="54.00" zones="">
+  <m mcu="40976" sid="0" id="18" value="54.00"/>
+ </cluster>
+</room>
+<room id="danceroom" time="128887748890">
+ <cluster id="99" name="" x="0.68" y="2.29" vx="0.00" vy="0.00" size="0.00" magnitude="43.00" zones="">
+  <m mcu="40976" sid="18" id="31" value="43.00"/>
+ </cluster>
+ <cluster id="100" name="" x="0.22" y="0.15" vx="0.00" vy="0.00" size="0.00" magnitude="54.00" zones="">
+  <m mcu="40976" sid="0" id="18" value="54.00"/>
+ </cluster>
+</room>
+<room id="danceroom" time="128887748923">
+ <cluster id="99" name="" x="0.68" y="2.29" vx="0.00" vy="0.00" size="0.00" magnitude="43.00" zones="">
+  <m mcu="40976" sid="18" id="31" value="43.00"/>
+ </cluster>
+ <cluster id="100" name="" x="0.22" y="0.15" vx="0.00" vy="0.00" size="0.00" magnitude="54.00" zones="">
+  <m mcu="40976" sid="0" id="18" value="54.00"/>
+ </cluster>
+</room>
+<room id="danceroom" time="128887748957">
+ <cluster id="99" name="" x="0.68" y="2.29" vx="0.00" vy="0.00" size="0.00" magnitude="43.00" zones="">
+  <m mcu="40976" sid="18" id="31" value="43.00"/>
+ </cluster>
+ <cluster id="100" name="" x="0.22" y="0.15" vx="0.00" vy="0.00" size="0.00" magnitude="54.00" zones="">
+  <m mcu="40976" sid="0" id="18" value="54.00"/>
+ </cluster>
+</room>
+<room id="danceroom" time="128887748990">
+ <cluster id="99" name="" x="0.68" y="2.29" vx="0.00" vy="0.00" size="0.00" magnitude="43.00" zones="">
+  <m mcu="40976" sid="18" id="31" value="43.00"/>
+ </cluster>
+ <cluster id="100" name="" x="0.22" y="0.15" vx="0.00" vy="0.00" size="0.00" magnitude="54.00" zones="">
+  <m mcu="40976" sid="0" id="18" value="54.00"/>
+ </cluster>
+</room>
+<room id="danceroom" time="128887749023">
+ <cluster id="99" name="" x="0.68" y="2.29" vx="0.00" vy="0.00" size="0.00" magnitude="43.00" zones="">
+  <m mcu="40976" sid="18" id="31" value="43.00"/>
+ </cluster>
+ <cluster id="100" name="" x="0.22" y="0.15" vx="0.00" vy="0.00" size="0.00" magnitude="54.00" zones="">
+  <m mcu="40976" sid="0" id="18" value="54.00"/>
+ </cluster>
+</room>
+<room id="danceroom" time="128887749057">
+ <cluster id="99" name="" x="0.68" y="2.29" vx="0.00" vy="0.00" size="0.00" magnitude="43.00" zones="">
+  <m mcu="40976" sid="18" id="31" value="43.00"/>
+ </cluster>
+ <cluster id="100" name="" x="0.22" y="0.15" vx="0.00" vy="0.00" size="0.00" magnitude="54.00" zones="">
+  <m mcu="40976" sid="0" id="18" value="54.00"/>
+ </cluster>
+</room>
+<room id="danceroom" time="128887749090">
+ <cluster id="99" name="" x="0.68" y="2.29" vx="0.00" vy="0.00" size="0.00" magnitude="43.00" zones="">
+  <m mcu="40976" sid="18" id="31" value="43.00"/>
+ </cluster>
+ <cluster id="100" name="" x="0.22" y="0.15" vx="0.00" vy="0.00" size="0.00" magnitude="54.00" zones="">
+  <m mcu="40976" sid="0" id="18" value="54.00"/>
+ </cluster>
+</room>
+<room id="danceroom" time="128887749123">
+ <cluster id="99" name="" x="0.68" y="2.29" vx="0.00" vy="0.00" size="0.00" magnitude="43.00" zones="">
+  <m mcu="40976" sid="18" id="31" value="43.00"/>
+ </cluster>
+ <cluster id="100" name="" x="0.22" y="0.15" vx="0.00" vy="0.00" size="0.00" magnitude="54.00" zones="">
+  <m mcu="40976" sid="0" id="18" value="54.00"/>
+ </cluster>
+</room>
+<room id="danceroom" time="128887749157">
+ <cluster id="99" name="" x="0.68" y="2.29" vx="0.00" vy="0.00" size="0.00" magnitude="43.00" zones="">
+  <m mcu="40976" sid="18" id="31" value="43.00"/>
+ </cluster>
+ <cluster id="100" name="" x="0.22" y="0.15" vx="0.00" vy="0.00" size="0.00" magnitude="54.00" zones="">
+  <m mcu="40976" sid="0" id="18" value="54.00"/>
+ </cluster>
+</room>
+<room id="danceroom" time="128887749190">
+ <cluster id="99" name="" x="0.68" y="2.29" vx="0.00" vy="0.00" size="0.00" magnitude="43.00" zones="">
+  <m mcu="40976" sid="18" id="31" value="43.00"/>
+ </cluster>
+ <cluster id="100" name="" x="0.22" y="0.15" vx="0.00" vy="0.00" size="0.00" magnitude="54.00" zones="">
+  <m mcu="40976" sid="0" id="18" value="54.00"/>
+ </cluster>
+</room>
+<room id="danceroom" time="128887749223">
+ <cluster id="99" name="" x="0.68" y="2.29" vx="0.00" vy="0.00" size="0.00" magnitude="43.00" zones="">
+  <m mcu="40976" sid="18" id="31" value="43.00"/>
+ </cluster>
+ <cluster id="100" name="" x="0.22" y="0.15" vx="0.00" vy="0.00" size="0.00" magnitude="54.00" zones="">
+  <m mcu="40976" sid="0" id="18" value="54.00"/>
+ </cluster>
+</room>
+<room id="danceroom" time="128887749257">
+ <cluster id="99" name="" x="0.68" y="2.29" vx="0.00" vy="0.00" size="0.00" magnitude="43.00" zones="">
+  <m mcu="40976" sid="18" id="31" value="43.00"/>
+ </cluster>
+ <cluster id="100" name="" x="0.22" y="0.15" vx="0.00" vy="0.00" size="0.00" magnitude="54.00" zones="">
+  <m mcu="40976" sid="0" id="18" value="54.00"/>
+ </cluster>
+</room>
+<room id="danceroom" time="128887749290">
+ <cluster id="99" name="" x="0.68" y="2.29" vx="0.00" vy="0.00" size="0.00" magnitude="43.00" zones="">
+  <m mcu="40976" sid="18" id="31" value="43.00"/>
+ </cluster>
+ <cluster id="100" name="" x="0.22" y="0.15" vx="0.00" vy="0.00" size="0.00" magnitude="54.00" zones="">
+  <m mcu="40976" sid="0" id="18" value="54.00"/>
+ </cluster>
+</room>
+<room id="danceroom" time="128887749323">
+ <cluster id="99" name="" x="0.68" y="2.29" vx="0.00" vy="0.00" size="0.00" magnitude="43.00" zones="">
+  <m mcu="40976" sid="18" id="31" value="43.00"/>
+ </cluster>
+ <cluster id="100" name="" x="0.22" y="0.15" vx="0.00" vy="0.00" size="0.00" magnitude="54.00" zones="">
+  <m mcu="40976" sid="0" id="18" value="54.00"/>
+ </cluster>
+</room>
+<room id="danceroom" time="128887749357">
+ <cluster id="99" name="" x="0.68" y="2.29" vx="0.00" vy="0.00" size="0.00" magnitude="41.00" zones="">
+  <m mcu="40976" sid="18" id="31" value="41.00"/>
+ </cluster>
+ <cluster id="100" name="" x="0.22" y="0.15" vx="0.00" vy="0.00" size="0.00" magnitude="53.00" zones="">
+  <m mcu="40976" sid="0" id="18" value="53.00"/>
+ </cluster>
+</room>
+<room id="danceroom" time="128887749390">
+ <cluster id="99" name="" x="0.68" y="2.29" vx="0.00" vy="0.00" size="0.00" magnitude="34.00" zones="">
+  <m mcu="40976" sid="18" id="31" value="34.00"/>
+ </cluster>
+ <cluster id="100" name="" x="0.22" y="0.15" vx="0.00" vy="0.00" size="0.00" magnitude="53.00" zones="">
+  <m mcu="40976" sid="0" id="18" value="53.00"/>
+ </cluster>
+</room>
+<room id="danceroom" time="128887749423">
+ <cluster id="99" name="" x="0.68" y="2.29" vx="0.00" vy="0.00" size="0.00" magnitude="27.00" zones="">
+  <m mcu="40976" sid="18" id="31" value="27.00"/>
+ </cluster>
+ <cluster id="100" name="" x="0.22" y="0.15" vx="0.00" vy="0.00" size="0.00" magnitude="53.00" zones="">
+  <m mcu="40976" sid="0" id="18" value="53.00"/>
+ </cluster>
+</room>
+<room id="danceroom" time="128887749457">
+ <cluster id="99" name="" x="0.68" y="2.29" vx="0.00" vy="0.00" size="0.00" magnitude="26.00" zones="">
+  <m mcu="40976" sid="18" id="31" value="26.00"/>
+ </cluster>
+ <cluster id="100" name="" x="0.22" y="0.15" vx="0.00" vy="0.00" size="0.00" magnitude="52.00" zones="">
+  <m mcu="40976" sid="0" id="18" value="52.00"/>
+ </cluster>
+</room>
+<room id="danceroom" time="128887749490">
+ <cluster id="99" name="" x="0.68" y="2.29" vx="0.00" vy="0.00" size="0.00" magnitude="23.00" zones="">
+  <m mcu="40976" sid="18" id="31" value="23.00"/>
+ </cluster>
+ <cluster id="100" name="" x="0.22" y="0.15" vx="0.00" vy="0.00" size="0.00" magnitude="52.00" zones="">
+  <m mcu="40976" sid="0" id="18" value="52.00"/>
+ </cluster>
+</room>
+<room id="danceroom" time="128887749523">
+ <cluster id="99" name="" x="0.68" y="2.29" vx="0.00" vy="0.00" size="0.00" magnitude="5.00" zones="">
+  <m mcu="40976" sid="18" id="31" value="5.00"/>
+ </cluster>
+ <cluster id="100" name="" x="0.22" y="0.15" vx="0.00" vy="0.00" size="0.00" magnitude="52.00" zones="">
+  <m mcu="40976" sid="0" id="18" value="52.00"/>
+ </cluster>
+</room>
+<room id="danceroom" time="128887749557">
+ <cluster id="99" name="" x="0.68" y="2.29" vx="0.00" vy="0.00" size="-1.00" magnitude="0.00" zones="">
+ </cluster>
+ <cluster id="100" name="" x="0.22" y="0.15" vx="0.00" vy="0.00" size="0.00" magnitude="51.00" zones="">
+  <m mcu="40976" sid="0" id="18" value="51.00"/>
+ </cluster>
+</room>
+<room id="danceroom" time="128887749590">
+ <cluster id="99" name="" x="1.15" y="2.29" vx="0.00" vy="0.00" size="0.00" magnitude="32.00" zones="">
+  <m mcu="40976" sid="29" id="51" value="32.00"/>
+ </cluster>
+ <cluster id="100" name="" x="0.22" y="0.15" vx="0.00" vy="0.00" size="0.00" magnitude="51.00" zones="">
+  <m mcu="40976" sid="0" id="18" value="51.00"/>
+ </cluster>
+</room>
+<room id="danceroom" time="128887749623">
+ <cluster id="99" name="" x="1.15" y="2.29" vx="0.00" vy="0.00" size="0.00" magnitude="40.00" zones="">
+  <m mcu="40976" sid="29" id="51" value="40.00"/>
+ </cluster>
+ <cluster id="100" name="" x="0.22" y="0.15" vx="0.00" vy="0.00" size="0.00" magnitude="51.00" zones="">
+  <m mcu="40976" sid="0" id="18" value="51.00"/>
+ </cluster>
+</room>
+<room id="danceroom" time="128887749657">
+ <cluster id="99" name="" x="1.15" y="2.29" vx="0.00" vy="0.00" size="0.00" magnitude="42.00" zones="">
+  <m mcu="40976" sid="29" id="51" value="42.00"/>
+ </cluster>
+ <cluster id="100" name="" x="0.22" y="0.15" vx="0.00" vy="0.00" size="0.00" magnitude="50.00" zones="">
+  <m mcu="40976" sid="0" id="18" value="50.00"/>
+ </cluster>
+</room>
+<room id="danceroom" time="128887749690">
+ <cluster id="99" name="" x="1.15" y="2.29" vx="0.00" vy="0.00" size="0.00" magnitude="44.00" zones="">
+  <m mcu="40976" sid="29" id="51" value="44.00"/>
+ </cluster>
+ <cluster id="100" name="" x="0.22" y="0.15" vx="0.00" vy="0.00" size="0.00" magnitude="39.00" zones="">
+  <m mcu="40976" sid="0" id="18" value="39.00"/>
+ </cluster>
+</room>
+<room id="danceroom" time="128887749723">
+ <cluster id="99" name="" x="1.15" y="2.29" vx="0.00" vy="0.00" size="0.00" magnitude="43.00" zones="">
+  <m mcu="40976" sid="29" id="51" value="43.00"/>
+ </cluster>
+ <cluster id="100" name="" x="0.22" y="0.37" vx="0.00" vy="0.00" size="0.61" magnitude="67.00" zones="">
+  <m mcu="40976" sid="0" id="18" value="43.00"/>
+  <m mcu="40976" sid="2" id="16" value="24.00"/>
+ </cluster>
+</room>
+<room id="danceroom" time="128887749757">
+ <cluster id="99" name="" x="1.15" y="2.29" vx="0.00" vy="0.00" size="0.00" magnitude="45.00" zones="">
+  <m mcu="40976" sid="29" id="51" value="45.00"/>
+ </cluster>
+ <cluster id="100" name="" x="0.22" y="0.40" vx="0.00" vy="0.00" size="0.61" magnitude="66.00" zones="">
+  <m mcu="40976" sid="0" id="18" value="39.00"/>
+  <m mcu="40976" sid="2" id="16" value="27.00"/>
+ </cluster>
+</room>
+<room id="danceroom" time="128887749790">
+ <cluster id="99" name="" x="1.15" y="2.29" vx="0.00" vy="0.00" size="0.00" magnitude="45.00" zones="">
+  <m mcu="40976" sid="29" id="51" value="45.00"/>
+ </cluster>
+ <cluster id="100" name="" x="0.22" y="0.39" vx="0.00" vy="0.00" size="0.61" magnitude="65.00" zones="">
+  <m mcu="40976" sid="0" id="18" value="39.00"/>
+  <m mcu="40976" sid="2" id="16" value="26.00"/>
+ </cluster>
+</room>
+<room id="danceroom" time="128887749823">
+ <cluster id="99" name="" x="1.15" y="2.15" vx="0.00" vy="0.00" size="0.31" magnitude="87.00" zones="">
+  <m mcu="40976" sid="29" id="51" value="48.00"/>
+  <m mcu="40976" sid="28" id="52" value="39.00"/>
+ </cluster>
+ <cluster id="100" name="" x="0.22" y="0.39" vx="0.00" vy="0.00" size="0.61" magnitude="67.00" zones="">
+  <m mcu="40976" sid="0" id="18" value="41.00"/>
+  <m mcu="40976" sid="2" id="16" value="26.00"/>
+ </cluster>
+</room>
+<room id="danceroom" time="128887749857">
+ <cluster id="99" name="" x="1.15" y="2.15" vx="0.00" vy="0.00" size="0.31" magnitude="88.00" zones="">
+  <m mcu="40976" sid="29" id="51" value="48.00"/>
+  <m mcu="40976" sid="28" id="52" value="40.00"/>
+ </cluster>
+ <cluster id="100" name="" x="0.22" y="0.38" vx="0.00" vy="0.00" size="0.61" magnitude="67.00" zones="">
+  <m mcu="40976" sid="0" id="18" value="42.00"/>
+  <m mcu="40976" sid="2" id="16" value="25.00"/>
+ </cluster>
+</room>
+<room id="danceroom" time="128887749890">
+ <cluster id="99" name="" x="1.15" y="2.15" vx="0.00" vy="0.00" size="0.31" magnitude="88.00" zones="">
+  <m mcu="40976" sid="29" id="51" value="47.00"/>
+  <m mcu="40976" sid="28" id="52" value="41.00"/>
+ </cluster>
+ <cluster id="100" name="" x="0.22" y="0.38" vx="0.00" vy="0.00" size="0.61" magnitude="66.00" zones="">
+  <m mcu="40976" sid="0" id="18" value="41.00"/>
+  <m mcu="40976" sid="2" id="16" value="25.00"/>
+ </cluster>
+</room>
+<room id="danceroom" time="128887749923">
+ <cluster id="99" name="" x="1.15" y="2.15" vx="0.00" vy="0.00" size="0.31" magnitude="88.00" zones="">
+  <m mcu="40976" sid="29" id="51" value="47.00"/>
+  <m mcu="40976" sid="28" id="52" value="41.00"/>
+ </cluster>
+ <cluster id="100" name="" x="0.22" y="0.38" vx="0.00" vy="0.00" size="0.61" magnitude="64.00" zones="">
+  <m mcu="40976" sid="0" id="18" value="40.00"/>
+  <m mcu="40976" sid="2" id="16" value="24.00"/>
+ </cluster>
+</room>
+<room id="danceroom" time="128887749957">
+ <cluster id="99" name="" x="1.15" y="2.14" vx="0.00" vy="0.00" size="0.31" magnitude="89.00" zones="">
+  <m mcu="40976" sid="29" id="51" value="46.00"/>
+  <m mcu="40976" sid="28" id="52" value="43.00"/>
+ </cluster>
+ <cluster id="100" name="" x="0.22" y="0.76" vx="0.00" vy="0.00" size="0.00" magnitude="24.00" zones="">
+  <m mcu="40976" sid="2" id="16" value="24.00"/>
+ </cluster>
+</room>
+<room id="danceroom" time="128887749990">
+ <cluster id="99" name="" x="1.15" y="2.06" vx="0.00" vy="0.00" size="0.31" magnitude="59.00" zones="">
+  <m mcu="40976" sid="29" id="51" value="15.00"/>
+  <m mcu="40976" sid="28" id="52" value="44.00"/>
+ </cluster>
+ <cluster id="100" name="" x="0.22" y="0.76" vx="0.00" vy="0.00" size="0.00" magnitude="24.00" zones="">
+  <m mcu="40976" sid="2" id="16" value="24.00"/>
+ </cluster>
+</room>
+<room id="danceroom" time="128887750023">
+ <cluster id="99" name="" x="1.15" y="2.11" vx="0.00" vy="0.00" size="0.31" magnitude="80.00" zones="">
+  <m mcu="40976" sid="28" id="52" value="47.00"/>
+  <m mcu="40976" sid="29" id="51" value="33.00"/>
+ </cluster>
+ <cluster id="100" name="" x="0.22" y="0.76" vx="0.00" vy="0.00" size="0.00" magnitude="24.00" zones="">
+  <m mcu="40976" sid="2" id="16" value="24.00"/>
+ </cluster>
+</room>
+<room id="danceroom" time="128887750057">
+ <cluster id="99" name="" x="1.15" y="2.13" vx="0.00" vy="0.00" size="0.31" magnitude="90.00" zones="">
+  <m mcu="40976" sid="28" id="52" value="47.00"/>
+  <m mcu="40976" sid="29" id="51" value="43.00"/>
+ </cluster>
+ <cluster id="100" name="" x="0.22" y="0.76" vx="0.00" vy="0.00" size="0.00" magnitude="23.00" zones="">
+  <m mcu="40976" sid="2" id="16" value="23.00"/>
+ </cluster>
+</room>
+<room id="danceroom" time="128887750090">
+ <cluster id="99" name="" x="1.15" y="2.14" vx="0.00" vy="0.00" size="0.31" magnitude="84.00" zones="">
+  <m mcu="40976" sid="28" id="52" value="41.00"/>
+  <m mcu="40976" sid="29" id="51" value="43.00"/>
+ </cluster>
+ <cluster id="100" name="" x="0.22" y="0.76" vx="0.00" vy="0.00" size="0.00" magnitude="23.00" zones="">
+  <m mcu="40976" sid="2" id="16" value="23.00"/>
+ </cluster>
+</room>
+<room id="danceroom" time="128887750123">
+ <cluster id="99" name="" x="1.15" y="2.14" vx="0.00" vy="0.00" size="0.31" magnitude="81.00" zones="">
+  <m mcu="40976" sid="29" id="51" value="42.00"/>
+  <m mcu="40976" sid="28" id="52" value="39.00"/>
+ </cluster>
+ <cluster id="100" name="" x="0.22" y="0.76" vx="0.00" vy="0.00" size="0.00" magnitude="23.00" zones="">
+  <m mcu="40976" sid="2" id="16" value="23.00"/>
+ </cluster>
+</room>
+<room id="danceroom" time="128887750157">
+ <cluster id="99" name="" x="1.15" y="2.25" vx="0.00" vy="0.00" size="0.31" magnitude="46.00" zones="">
+  <m mcu="40976" sid="29" id="51" value="40.00"/>
+  <m mcu="40976" sid="28" id="52" value="6.00"/>
+ </cluster>
+ <cluster id="100" name="" x="0.22" y="0.76" vx="0.00" vy="0.00" size="0.00" magnitude="22.00" zones="">
+  <m mcu="40976" sid="2" id="16" value="22.00"/>
+ </cluster>
+</room>
+<room id="danceroom" time="128887750190">
+ <cluster id="99" name="" x="1.15" y="2.11" vx="0.00" vy="0.00" size="0.31" magnitude="92.00" zones="">
+  <m mcu="40976" sid="29" id="51" value="40.00"/>
+  <m mcu="40976" sid="28" id="52" value="52.00"/>
+ </cluster>
+ <cluster id="100" name="" x="0.22" y="0.76" vx="0.00" vy="0.00" size="0.00" magnitude="22.00" zones="">
+  <m mcu="40976" sid="2" id="16" value="22.00"/>
+ </cluster>
+</room>
+<room id="danceroom" time="128887750226">
+ <cluster id="99" name="" x="1.15" y="2.11" vx="0.00" vy="0.00" size="0.31" magnitude="93.00" zones="">
+  <m mcu="40976" sid="28" id="52" value="54.00"/>
+  <m mcu="40976" sid="29" id="51" value="39.00"/>
+ </cluster>
+ <cluster id="100" name="" x="0.93" y="0.53" vx="0.00" vy="0.00" size="0.98" magnitude="92.00" zones="">
+  <m mcu="40976" sid="2" id="16" value="22.00"/>
+  <m mcu="40976" sid="23" id="57" value="70.00"/>
+ </cluster>
+</room>
+<room id="danceroom" time="128887750257">
+ <cluster id="99" name="" x="1.15" y="2.09" vx="0.00" vy="0.00" size="0.31" magnitude="88.00" zones="">
+  <m mcu="40976" sid="28" id="52" value="56.00"/>
+  <m mcu="40976" sid="29" id="51" value="32.00"/>
+ </cluster>
+ <cluster id="100" name="" x="0.92" y="0.53" vx="0.00" vy="0.00" size="0.98" magnitude="90.00" zones="">
+  <m mcu="40976" sid="23" id="57" value="68.00"/>
+  <m mcu="40976" sid="2" id="16" value="22.00"/>
+ </cluster>
+</room>
+<room id="danceroom" time="128887750290">
+ <cluster id="99" name="" x="1.15" y="1.98" vx="0.00" vy="0.00" size="0.00" magnitude="52.00" zones="">
+  <m mcu="40976" sid="28" id="52" value="52.00"/>
+ </cluster>
+ <cluster id="100" name="" x="0.92" y="0.53" vx="0.00" vy="0.00" size="0.98" magnitude="89.00" zones="">
+  <m mcu="40976" sid="23" id="57" value="67.00"/>
+  <m mcu="40976" sid="2" id="16" value="22.00"/>
+ </cluster>
+</room>
+<room id="danceroom" time="128887750323">
+ <cluster id="99" name="" x="1.15" y="1.98" vx="0.00" vy="0.00" size="0.00" magnitude="53.00" zones="">
+  <m mcu="40976" sid="28" id="52" value="53.00"/>
+ </cluster>
+ <cluster id="100" name="" x="0.93" y="0.53" vx="0.00" vy="0.00" size="0.98" magnitude="87.00" zones="">
+  <m mcu="40976" sid="23" id="57" value="66.00"/>
+  <m mcu="40976" sid="2" id="16" value="21.00"/>
+ </cluster>
+</room>
+<room id="danceroom" time="128887750357">
+ <cluster id="99" name="" x="1.15" y="1.98" vx="0.00" vy="0.00" size="0.00" magnitude="58.00" zones="">
+  <m mcu="40976" sid="28" id="52" value="58.00"/>
+ </cluster>
+ <cluster id="100" name="" x="0.83" y="0.56" vx="0.00" vy="0.00" size="0.98" magnitude="61.00" zones="">
+  <m mcu="40976" sid="23" id="57" value="40.00"/>
+  <m mcu="40976" sid="2" id="16" value="21.00"/>
+ </cluster>
+</room>
+<room id="danceroom" time="128887750390">
+ <cluster id="99" name="" x="1.15" y="1.98" vx="0.00" vy="0.00" size="0.00" magnitude="58.00" zones="">
+  <m mcu="40976" sid="28" id="52" value="58.00"/>
+ </cluster>
+ <cluster id="100" name="" x="1.15" y="0.46" vx="0.00" vy="0.00" size="0.00" magnitude="41.00" zones="1">
+  <m mcu="40976" sid="23" id="57" value="41.00"/>
+ </cluster>
+</room>
+<room id="danceroom" time="128887750423">
+ <cluster id="99" name="" x="1.15" y="1.98" vx="0.00" vy="0.00" size="0.00" magnitude="57.00" zones="">
+  <m mcu="40976" sid="28" id="52" value="57.00"/>
+ </cluster>
+ <cluster id="100" name="" x="1.15" y="0.46" vx="0.00" vy="0.00" size="0.00" magnitude="65.00" zones="1">
+  <m mcu="40976" sid="23" id="57" value="65.00"/>
+ </cluster>
+</room>
+<room id="danceroom" time="128887750457">
+ <cluster id="99" name="" x="1.15" y="1.98" vx="0.00" vy="0.00" size="0.00" magnitude="49.00" zones="">
+  <m mcu="40976" sid="28" id="52" value="49.00"/>
+ </cluster>
+ <cluster id="100" name="" x="1.15" y="0.46" vx="0.00" vy="0.00" size="0.00" magnitude="64.00" zones="1">
+  <m mcu="40976" sid="23" id="57" value="64.00"/>
+ </cluster>
+</room>
+<room id="danceroom" time="128887750490">
+ <cluster id="99" name="" x="1.15" y="1.98" vx="0.00" vy="0.00" size="0.00" magnitude="45.00" zones="">
+  <m mcu="40976" sid="28" id="52" value="45.00"/>
+ </cluster>
+ <cluster id="100" name="" x="1.15" y="0.46" vx="0.00" vy="0.00" size="0.00" magnitude="64.00" zones="1">
+  <m mcu="40976" sid="23" id="57" value="64.00"/>
+ </cluster>
+</room>
+<room id="danceroom" time="128887750523">
+ <cluster id="99" name="" x="1.15" y="1.98" vx="0.00" vy="0.00" size="0.00" magnitude="50.00" zones="">
+  <m mcu="40976" sid="28" id="52" value="50.00"/>
+ </cluster>
+ <cluster id="100" name="" x="1.15" y="0.46" vx="0.00" vy="0.00" size="0.00" magnitude="63.00" zones="1">
+  <m mcu="40976" sid="23" id="57" value="63.00"/>
+ </cluster>
+</room>
+<room id="danceroom" time="128887750557">
+ <cluster id="99" name="" x="1.15" y="1.98" vx="0.00" vy="0.00" size="0.00" magnitude="49.00" zones="">
+  <m mcu="40976" sid="28" id="52" value="49.00"/>
+ </cluster>
+ <cluster id="100" name="" x="1.15" y="0.46" vx="0.00" vy="0.00" size="0.00" magnitude="62.00" zones="1">
+  <m mcu="40976" sid="23" id="57" value="62.00"/>
+ </cluster>
+</room>
+<room id="danceroom" time="128887750590">
+ <cluster id="99" name="" x="1.15" y="1.98" vx="0.00" vy="0.00" size="0.00" magnitude="35.00" zones="">
+  <m mcu="40976" sid="28" id="52" value="35.00"/>
+ </cluster>
+ <cluster id="100" name="" x="1.15" y="0.46" vx="0.00" vy="0.00" size="0.00" magnitude="50.00" zones="1">
+  <m mcu="40976" sid="23" id="57" value="50.00"/>
+ </cluster>
+</room>
+<room id="danceroom" time="128887750623">
+ <cluster id="99" name="" x="1.15" y="1.98" vx="0.00" vy="0.00" size="0.00" magnitude="42.00" zones="">
+  <m mcu="40976" sid="28" id="52" value="42.00"/>
+ </cluster>
+ <cluster id="100" name="" x="1.15" y="0.46" vx="0.00" vy="0.00" size="0.00" magnitude="55.00" zones="1">
+  <m mcu="40976" sid="23" id="57" value="55.00"/>
+ </cluster>
+</room>
+<room id="danceroom" time="128887750657">
+ <cluster id="99" name="" x="1.15" y="1.91" vx="0.00" vy="0.00" size="0.30" magnitude="61.00" zones="">
+  <m mcu="40976" sid="28" id="52" value="47.00"/>
+  <m mcu="40976" sid="27" id="53" value="14.00"/>
+ </cluster>
+ <cluster id="100" name="" x="1.15" y="0.46" vx="0.00" vy="0.00" size="0.00" magnitude="59.00" zones="1">
+  <m mcu="40976" sid="23" id="57" value="59.00"/>
+ </cluster>
+</room>
+<room id="danceroom" time="128887750690">
+ <cluster id="99" name="" x="1.15" y="1.94" vx="0.00" vy="0.00" size="0.30" magnitude="35.00" zones="">
+  <m mcu="40976" sid="28" id="52" value="30.00"/>
+  <m mcu="40976" sid="27" id="53" value="5.00"/>
+ </cluster>
+ <cluster id="100" name="" x="1.15" y="0.46" vx="0.00" vy="0.00" size="0.00" magnitude="60.00" zones="1">
+  <m mcu="40976" sid="23" id="57" value="60.00"/>
+ </cluster>
+</room>
+<room id="danceroom" time="128887750723">
+ <cluster id="99" name="" x="1.15" y="1.98" vx="0.00" vy="0.00" size="0.00" magnitude="19.00" zones="">
+  <m mcu="40976" sid="28" id="52" value="19.00"/>
+ </cluster>
+ <cluster id="100" name="" x="1.15" y="0.46" vx="0.00" vy="0.00" size="0.00" magnitude="51.00" zones="1">
+  <m mcu="40976" sid="23" id="57" value="51.00"/>
+ </cluster>
+</room>
+<room id="danceroom" time="128887750757">
+ <cluster id="99" name="" x="1.15" y="1.98" vx="0.00" vy="0.00" size="0.00" magnitude="15.00" zones="">
+  <m mcu="40976" sid="28" id="52" value="15.00"/>
+ </cluster>
+ <cluster id="100" name="" x="1.15" y="0.46" vx="0.00" vy="0.00" size="0.00" magnitude="51.00" zones="1">
+  <m mcu="40976" sid="23" id="57" value="51.00"/>
+ </cluster>
+</room>
+<room id="danceroom" time="128887750790">
+ <cluster id="99" name="" x="0.68" y="1.68" vx="0.00" vy="0.00" size="0.00" magnitude="21.00" zones="">
+  <m mcu="40976" sid="16" id="33" value="21.00"/>
+ </cluster>
+ <cluster id="100" name="" x="1.15" y="0.39" vx="0.00" vy="0.00" size="0.31" magnitude="76.00" zones="1">
+  <m mcu="40976" sid="23" id="57" value="60.00"/>
+  <m mcu="40976" sid="22" id="58" value="16.00"/>
+ </cluster>
+</room>
+<room id="danceroom" time="128887750823">
+ <cluster id="99" name="" x="0.68" y="1.68" vx="0.00" vy="0.00" size="0.00" magnitude="22.00" zones="">
+  <m mcu="40976" sid="16" id="33" value="22.00"/>
+ </cluster>
+ <cluster id="100" name="" x="1.15" y="0.41" vx="0.00" vy="0.00" size="0.31" magnitude="60.00" zones="1">
+  <m mcu="40976" sid="23" id="57" value="51.00"/>
+  <m mcu="40976" sid="22" id="58" value="9.00"/>
+ </cluster>
+</room>
+<room id="danceroom" time="128887750857">
+ <cluster id="99" name="" x="0.68" y="1.68" vx="0.00" vy="0.00" size="0.00" magnitude="23.00" zones="">
+  <m mcu="40976" sid="16" id="33" value="23.00"/>
+ </cluster>
+ <cluster id="100" name="" x="1.15" y="0.46" vx="0.00" vy="0.00" size="0.00" magnitude="50.00" zones="1">
+  <m mcu="40976" sid="23" id="57" value="50.00"/>
+ </cluster>
+</room>
+<room id="danceroom" time="128887750890">
+ <cluster id="99" name="" x="0.68" y="1.68" vx="0.00" vy="0.00" size="0.00" magnitude="21.00" zones="">
+  <m mcu="40976" sid="16" id="33" value="21.00"/>
+ </cluster>
+ <cluster id="100" name="" x="1.15" y="0.46" vx="0.00" vy="0.00" size="-1.00" magnitude="0.00" zones="1">
+ </cluster>
+</room>
+<room id="danceroom" time="128887750923">
+ <cluster id="99" name="" x="0.74" y="1.68" vx="0.00" vy="0.00" size="0.47" magnitude="25.00" zones="">
+  <m mcu="40976" sid="16" id="33" value="22.00"/>
+  <m mcu="40976" sid="27" id="53" value="3.00"/>
+ </cluster>
+ <cluster id="100" name="" x="1.15" y="0.46" vx="0.00" vy="0.00" size="-1.00" magnitude="0.00" zones="1">
+ </cluster>
+</room>
+<room id="danceroom" time="128887750957">
+ <cluster id="99" name="" x="0.83" y="1.68" vx="0.00" vy="0.00" size="0.47" magnitude="31.00" zones="">
+  <m mcu="40976" sid="16" id="33" value="21.00"/>
+  <m mcu="40976" sid="27" id="53" value="10.00"/>
+ </cluster>
+ <cluster id="100" name="" x="1.15" y="0.46" vx="0.00" vy="0.00" size="-1.00" magnitude="0.00" zones="1">
+ </cluster>
+</room>
+<room id="danceroom" time="128887750990">
+ <cluster id="99" name="" x="0.87" y="1.68" vx="0.00" vy="0.00" size="0.47" magnitude="27.00" zones="">
+  <m mcu="40976" sid="16" id="33" value="16.00"/>
+  <m mcu="40976" sid="27" id="53" value="11.00"/>
+ </cluster>
+ <cluster id="100" name="" x="1.15" y="0.46" vx="0.00" vy="0.00" size="-1.00" magnitude="0.00" zones="1">
+ </cluster>
+</room>
+<room id="danceroom" time="128887751023">
+ <cluster id="99" name="" x="1.15" y="1.68" vx="0.00" vy="0.00" size="0.00" magnitude="14.00" zones="">
+  <m mcu="40976" sid="27" id="53" value="14.00"/>
+ </cluster>
+ <cluster id="100" name="" x="1.15" y="0.46" vx="0.00" vy="0.00" size="-1.00" magnitude="0.00" zones="1">
+ </cluster>
+</room>
+<event time="128887751057" room="danceroom" type="EXITROOM" zone="1"></event><room id="danceroom" time="128887751057">
+ <cluster id="99" name="" x="1.15" y="1.68" vx="0.00" vy="0.00" size="0.00" magnitude="13.00" zones="">
+  <m mcu="40976" sid="27" id="53" value="13.00"/>
+ </cluster>
+</room>
+<room id="danceroom" time="128887751090">
+ <cluster id="99" name="" x="0.68" y="1.68" vx="0.00" vy="0.00" size="0.00" magnitude="26.00" zones="">
+  <m mcu="40976" sid="16" id="33" value="26.00"/>
+ </cluster>
+</room>
+<room id="danceroom" time="128887751123">
+ <cluster id="99" name="" x="0.68" y="1.68" vx="0.00" vy="0.00" size="0.00" magnitude="50.00" zones="">
+  <m mcu="40976" sid="16" id="33" value="50.00"/>
+ </cluster>
+ <clutter>
+  <m mcu="40976" sid="23" id="57" value="24.00"/>
+ </clutter>
+</room>
+<room id="danceroom" time="128887751157">
+ <cluster id="99" name="" x="0.68" y="1.68" vx="0.00" vy="0.00" size="0.00" magnitude="63.00" zones="">
+  <m mcu="40976" sid="16" id="33" value="63.00"/>
+ </cluster>
+ <clutter>
+  <m mcu="40976" sid="23" id="57" value="21.00"/>
+ </clutter>
+</room>
+<room id="danceroom" time="128887751190">
+ <cluster id="99" name="" x="0.68" y="1.68" vx="0.00" vy="0.00" size="0.00" magnitude="65.00" zones="">
+  <m mcu="40976" sid="16" id="33" value="65.00"/>
+ </cluster>
+ <clutter>
+  <m mcu="40976" sid="23" id="57" value="22.00"/>
+  <m mcu="40976" sid="22" id="58" value="33.00"/>
+ </clutter>
+</room>
+<room id="danceroom" time="128887751223">
+ <cluster id="99" name="" x="0.68" y="1.68" vx="0.00" vy="0.00" size="0.00" magnitude="63.00" zones="">
+  <m mcu="40976" sid="16" id="33" value="63.00"/>
+ </cluster>
+ <clutter>
+  <m mcu="40976" sid="22" id="58" value="42.00"/>
+  <m mcu="40976" sid="23" id="57" value="18.00"/>
+ </clutter>
+</room>
+<room id="danceroom" time="128887751257">
+ <cluster id="99" name="" x="0.68" y="1.68" vx="0.00" vy="0.00" size="0.00" magnitude="62.00" zones="">
+  <m mcu="40976" sid="16" id="33" value="62.00"/>
+ </cluster>
+ <cluster id="101" name="" x="1.15" y="0.15" vx="0.00" vy="0.00" size="0.00" magnitude="37.00" zones="1">
+  <m mcu="40976" sid="22" id="58" value="37.00"/>
+ </cluster>
+</room>
+<room id="danceroom" time="128887751290">
+ <cluster id="99" name="" x="0.68" y="1.68" vx="0.00" vy="0.00" size="0.00" magnitude="63.00" zones="">
+  <m mcu="40976" sid="16" id="33" value="63.00"/>
+ </cluster>
+ <cluster id="101" name="" x="1.15" y="0.15" vx="0.00" vy="0.00" size="0.00" magnitude="42.00" zones="1">
+  <m mcu="40976" sid="22" id="58" value="42.00"/>
+ </cluster>
+</room>
+<room id="danceroom" time="128887751323">
+ <cluster id="99" name="" x="0.68" y="1.68" vx="0.00" vy="0.00" size="0.00" magnitude="61.00" zones="">
+  <m mcu="40976" sid="16" id="33" value="61.00"/>
+ </cluster>
+ <cluster id="101" name="" x="1.15" y="0.28" vx="0.00" vy="0.00" size="0.61" magnitude="42.00" zones="1">
+  <m mcu="40976" sid="22" id="58" value="33.00"/>
+  <m mcu="40976" sid="24" id="56" value="9.00"/>
+ </cluster>
+</room>
+<room id="danceroom" time="128887751357">
+ <cluster id="99" name="" x="0.68" y="1.68" vx="0.00" vy="0.00" size="0.00" magnitude="61.00" zones="">
+  <m mcu="40976" sid="16" id="33" value="61.00"/>
+ </cluster>
+ <cluster id="101" name="" x="1.15" y="0.28" vx="0.00" vy="0.00" size="-1.00" magnitude="0.00" zones="1">
+ </cluster>
+</room>
+<room id="danceroom" time="128887751390">
+ <cluster id="99" name="" x="0.68" y="1.68" vx="0.00" vy="0.00" size="0.00" magnitude="60.00" zones="">
+  <m mcu="40976" sid="16" id="33" value="60.00"/>
+ </cluster>
+ <cluster id="101" name="" x="1.15" y="0.50" vx="0.00" vy="0.00" size="0.30" magnitude="49.00" zones="1">
+  <m mcu="40976" sid="23" id="57" value="43.00"/>
+  <m mcu="40976" sid="24" id="56" value="6.00"/>
+ </cluster>
+</room>
+<room id="danceroom" time="128887751423">
+ <cluster id="99" name="" x="0.68" y="1.68" vx="0.00" vy="0.00" size="0.00" magnitude="59.00" zones="">
+  <m mcu="40976" sid="16" id="33" value="59.00"/>
+ </cluster>
+ <cluster id="101" name="" x="1.15" y="0.51" vx="0.00" vy="0.00" size="0.30" magnitude="51.00" zones="1">
+  <m mcu="40976" sid="23" id="57" value="43.00"/>
+  <m mcu="40976" sid="24" id="56" value="8.00"/>
+ </cluster>
+</room>
+<room id="danceroom" time="128887751457">
+ <cluster id="99" name="" x="0.68" y="1.68" vx="0.00" vy="0.00" size="0.00" magnitude="61.00" zones="">
+  <m mcu="40976" sid="16" id="33" value="61.00"/>
+ </cluster>
+ <cluster id="101" name="" x="1.15" y="0.50" vx="0.00" vy="0.00" size="0.30" magnitude="49.00" zones="1">
+  <m mcu="40976" sid="23" id="57" value="43.00"/>
+  <m mcu="40976" sid="24" id="56" value="6.00"/>
+ </cluster>
+</room>
+<room id="danceroom" time="128887751490">
+ <cluster id="99" name="" x="0.68" y="1.68" vx="0.00" vy="0.00" size="0.00" magnitude="61.00" zones="">
+  <m mcu="40976" sid="16" id="33" value="61.00"/>
+ </cluster>
+ <cluster id="101" name="" x="1.15" y="0.50" vx="0.00" vy="0.00" size="0.30" magnitude="49.00" zones="1">
+  <m mcu="40976" sid="23" id="57" value="42.00"/>
+  <m mcu="40976" sid="24" id="56" value="7.00"/>
+ </cluster>
+</room>
+<room id="danceroom" time="128887751523">
+ <cluster id="99" name="" x="0.68" y="1.68" vx="0.00" vy="0.00" size="0.00" magnitude="49.00" zones="">
+  <m mcu="40976" sid="16" id="33" value="49.00"/>
+ </cluster>
+ <cluster id="101" name="" x="1.15" y="0.51" vx="0.00" vy="0.00" size="0.30" magnitude="50.00" zones="1">
+  <m mcu="40976" sid="23" id="57" value="42.00"/>
+  <m mcu="40976" sid="24" id="56" value="8.00"/>
+ </cluster>
+</room>
+<room id="danceroom" time="128887751557">
+ <cluster id="99" name="" x="0.68" y="1.68" vx="0.00" vy="0.00" size="0.00" magnitude="29.00" zones="">
+  <m mcu="40976" sid="16" id="33" value="29.00"/>
+ </cluster>
+ <cluster id="101" name="" x="1.15" y="0.46" vx="0.00" vy="0.00" size="0.00" magnitude="36.00" zones="1">
+  <m mcu="40976" sid="23" id="57" value="36.00"/>
+ </cluster>
+</room>
+<room id="danceroom" time="128887751590">
+ <cluster id="99" name="" x="0.55" y="1.68" vx="0.00" vy="0.00" size="0.46" magnitude="48.00" zones="">
+  <m mcu="40976" sid="16" id="33" value="34.00"/>
+  <m mcu="40976" sid="5" id="13" value="14.00"/>
+ </cluster>
+ <cluster id="101" name="" x="1.15" y="0.46" vx="0.00" vy="0.00" size="0.00" magnitude="31.00" zones="1">
+  <m mcu="40976" sid="23" id="57" value="31.00"/>
+ </cluster>
+</room>
+<room id="danceroom" time="128887751623">
+ <cluster id="99" name="" x="0.22" y="1.68" vx="0.00" vy="0.00" size="0.00" magnitude="20.00" zones="">
+  <m mcu="40976" sid="5" id="13" value="20.00"/>
+ </cluster>
+ <cluster id="101" name="" x="1.15" y="0.46" vx="0.00" vy="0.00" size="0.00" magnitude="40.00" zones="1">
+  <m mcu="40976" sid="23" id="57" value="40.00"/>
+ </cluster>
+</room>
+<room id="danceroom" time="128887751657">
+ <cluster id="99" name="" x="0.22" y="1.68" vx="0.00" vy="0.00" size="0.00" magnitude="38.00" zones="">
+  <m mcu="40976" sid="5" id="13" value="38.00"/>
+ </cluster>
+ <cluster id="101" name="" x="1.15" y="0.46" vx="0.00" vy="0.00" size="0.00" magnitude="18.00" zones="1">
+  <m mcu="40976" sid="23" id="57" value="18.00"/>
+ </cluster>
+</room>
+<room id="danceroom" time="128887751690">
+ <cluster id="99" name="" x="0.22" y="1.68" vx="0.00" vy="0.00" size="0.00" magnitude="42.00" zones="">
+  <m mcu="40976" sid="5" id="13" value="42.00"/>
+ </cluster>
+ <cluster id="101" name="" x="1.15" y="0.46" vx="0.00" vy="0.00" size="0.00" magnitude="44.00" zones="1">
+  <m mcu="40976" sid="23" id="57" value="44.00"/>
+ </cluster>
+</room>
+<room id="danceroom" time="128887751723">
+ <cluster id="99" name="" x="0.22" y="1.68" vx="0.00" vy="0.00" size="0.00" magnitude="44.00" zones="">
+  <m mcu="40976" sid="5" id="13" value="44.00"/>
+ </cluster>
+ <cluster id="101" name="" x="1.15" y="0.46" vx="0.00" vy="0.00" size="0.00" magnitude="44.00" zones="1">
+  <m mcu="40976" sid="23" id="57" value="44.00"/>
+ </cluster>
+</room>
+<room id="danceroom" time="128887751757">
+ <cluster id="99" name="" x="0.22" y="1.68" vx="0.00" vy="0.00" size="0.00" magnitude="40.00" zones="">
+  <m mcu="40976" sid="5" id="13" value="40.00"/>
+ </cluster>
+ <cluster id="101" name="" x="1.15" y="0.46" vx="0.00" vy="0.00" size="0.00" magnitude="40.00" zones="1">
+  <m mcu="40976" sid="23" id="57" value="40.00"/>
+ </cluster>
+</room>
+<event time="128887751791" room="danceroom" type="ENTERROOM" zone="None"></event><room id="danceroom" time="128887751790">
+ <cluster id="99" name="" x="0.22" y="1.68" vx="0.00" vy="0.00" size="0.00" magnitude="43.00" zones="">
+  <m mcu="40976" sid="5" id="13" value="43.00"/>
+ </cluster>
+ <cluster id="101" name="" x="1.15" y="0.46" vx="0.00" vy="0.00" size="0.00" magnitude="43.00" zones="1">
+  <m mcu="40976" sid="23" id="57" value="43.00"/>
+ </cluster>
+</room>
+<room id="danceroom" time="128887751823">
+ <cluster id="99" name="" x="0.22" y="1.68" vx="0.00" vy="0.00" size="0.00" magnitude="40.00" zones="">
+  <m mcu="40976" sid="5" id="13" value="40.00"/>
+ </cluster>
+ <cluster id="101" name="" x="1.15" y="0.46" vx="0.00" vy="0.00" size="-1.00" magnitude="0.00" zones="1">
+ </cluster>
+</room>
+<room id="danceroom" time="128887751857">
+ <cluster id="99" name="" x="0.22" y="1.68" vx="0.00" vy="0.00" size="0.00" magnitude="41.00" zones="">
+  <m mcu="40976" sid="5" id="13" value="41.00"/>
+ </cluster>
+ <cluster id="101" name="" x="1.61" y="0.46" vx="0.00" vy="0.00" size="0.00" magnitude="47.00" zones="1">
+  <m mcu="40976" sid="34" id="77" value="47.00"/>
+ </cluster>
+</room>
+<room id="danceroom" time="128887751890">
+ <cluster id="99" name="" x="0.22" y="1.68" vx="0.00" vy="0.00" size="0.00" magnitude="22.00" zones="">
+  <m mcu="40976" sid="5" id="13" value="22.00"/>
+ </cluster>
+ <cluster id="101" name="" x="1.61" y="0.46" vx="0.00" vy="0.00" size="0.00" magnitude="48.00" zones="1">
+  <m mcu="40976" sid="34" id="77" value="48.00"/>
+ </cluster>
+</room>
+<room id="danceroom" time="128887751923">
+ <cluster id="99" name="" x="0.22" y="1.68" vx="0.00" vy="0.00" size="-1.00" magnitude="0.00" zones="">
+ </cluster>
+ <cluster id="101" name="" x="1.61" y="0.46" vx="0.00" vy="0.00" size="0.00" magnitude="45.00" zones="1">
+  <m mcu="40976" sid="34" id="77" value="45.00"/>
+ </cluster>
+</room>
+<room id="danceroom" time="128887751957">
+ <cluster id="99" name="" x="0.22" y="1.37" vx="0.00" vy="0.00" size="0.00" magnitude="28.00" zones="">
+  <m mcu="40976" sid="4" id="14" value="28.00"/>
+ </cluster>
+ <cluster id="101" name="" x="1.61" y="0.46" vx="0.00" vy="0.00" size="0.00" magnitude="59.00" zones="1">
+  <m mcu="40976" sid="34" id="77" value="59.00"/>
+ </cluster>
+</room>
+<room id="danceroom" time="128887751990">
+ <cluster id="99" name="" x="0.22" y="1.30" vx="0.00" vy="0.00" size="0.30" magnitude="41.00" zones="">
+  <m mcu="40976" sid="4" id="14" value="31.00"/>
+  <m mcu="40976" sid="3" id="15" value="10.00"/>
+ </cluster>
+ <cluster id="101" name="" x="1.61" y="0.46" vx="0.00" vy="0.00" size="0.00" magnitude="62.00" zones="1">
+  <m mcu="40976" sid="34" id="77" value="62.00"/>
+ </cluster>
+</room>
+<room id="danceroom" time="128887752023">
+ <cluster id="99" name="" x="0.22" y="1.28" vx="0.00" vy="0.00" size="0.30" magnitude="47.00" zones="">
+  <m mcu="40976" sid="4" id="14" value="33.00"/>
+  <m mcu="40976" sid="3" id="15" value="14.00"/>
+ </cluster>
+ <cluster id="101" name="" x="1.61" y="0.46" vx="0.00" vy="0.00" size="0.00" magnitude="62.00" zones="1">
+  <m mcu="40976" sid="34" id="77" value="62.00"/>
+ </cluster>
+</room>
+<room id="danceroom" time="128887752057">
+ <cluster id="99" name="" x="0.22" y="1.27" vx="0.00" vy="0.00" size="0.30" magnitude="55.00" zones="">
+  <m mcu="40976" sid="4" id="14" value="37.00"/>
+  <m mcu="40976" sid="3" id="15" value="18.00"/>
+ </cluster>
+ <cluster id="101" name="" x="1.61" y="0.46" vx="0.00" vy="0.00" size="0.00" magnitude="62.00" zones="1">
+  <m mcu="40976" sid="34" id="77" value="62.00"/>
+ </cluster>
+</room>
+<room id="danceroom" time="128887752090">
+ <cluster id="99" name="" x="0.22" y="1.29" vx="0.00" vy="0.00" size="0.30" magnitude="70.00" zones="">
+  <m mcu="40976" sid="4" id="14" value="51.00"/>
+  <m mcu="40976" sid="3" id="15" value="19.00"/>
+ </cluster>
+ <cluster id="101" name="" x="1.61" y="0.46" vx="0.00" vy="0.00" size="0.00" magnitude="34.00" zones="1">
+  <m mcu="40976" sid="34" id="77" value="34.00"/>
+ </cluster>
+</room>
+<room id="danceroom" time="128887752123">
+ <cluster id="99" name="" x="0.22" y="1.30" vx="0.00" vy="0.00" size="0.30" magnitude="64.00" zones="">
+  <m mcu="40976" sid="4" id="14" value="50.00"/>
+  <m mcu="40976" sid="3" id="15" value="14.00"/>
+ </cluster>
+ <cluster id="101" name="" x="1.61" y="0.46" vx="0.00" vy="0.00" size="0.00" magnitude="46.00" zones="1">
+  <m mcu="40976" sid="34" id="77" value="46.00"/>
+ </cluster>
+</room>
+<room id="danceroom" time="128887752157">
+ <cluster id="99" name="" x="0.22" y="1.31" vx="0.00" vy="0.00" size="0.30" magnitude="63.00" zones="">
+  <m mcu="40976" sid="4" id="14" value="50.00"/>
+  <m mcu="40976" sid="3" id="15" value="13.00"/>
+ </cluster>
+ <cluster id="101" name="" x="1.61" y="0.46" vx="0.00" vy="0.00" size="0.00" magnitude="8.00" zones="1">
+  <m mcu="40976" sid="34" id="77" value="8.00"/>
+ </cluster>
+</room>
+<room id="danceroom" time="128887752190">
+ <cluster id="99" name="" x="0.22" y="1.31" vx="0.00" vy="0.00" size="0.30" magnitude="62.00" zones="">
+  <m mcu="40976" sid="4" id="14" value="49.00"/>
+  <m mcu="40976" sid="3" id="15" value="13.00"/>
+ </cluster>
+ <cluster id="101" name="" x="1.61" y="0.46" vx="0.00" vy="0.00" size="0.00" magnitude="7.00" zones="1">
+  <m mcu="40976" sid="34" id="77" value="7.00"/>
+ </cluster>
+</room>
+<room id="danceroom" time="128887752223">
+ <cluster id="99" name="" x="0.22" y="1.31" vx="0.00" vy="0.00" size="0.30" magnitude="62.00" zones="">
+  <m mcu="40976" sid="4" id="14" value="49.00"/>
+  <m mcu="40976" sid="3" id="15" value="13.00"/>
+ </cluster>
+ <cluster id="101" name="" x="1.17" y="0.76" vx="0.00" vy="0.00" size="0.46" magnitude="19.00" zones="1">
+  <m mcu="40976" sid="35" id="76" value="1.00"/>
+  <m mcu="40976" sid="24" id="56" value="18.00"/>
+ </cluster>
+</room>
+<room id="danceroom" time="128887752257">
+ <cluster id="99" name="" x="0.22" y="1.31" vx="0.00" vy="0.00" size="0.30" magnitude="60.00" zones="">
+  <m mcu="40976" sid="4" id="14" value="48.00"/>
+  <m mcu="40976" sid="3" id="15" value="12.00"/>
+ </cluster>
+ <cluster id="101" name="" x="1.34" y="0.76" vx="0.00" vy="0.00" size="0.46" magnitude="49.00" zones="1">
+  <m mcu="40976" sid="24" id="56" value="29.00"/>
+  <m mcu="40976" sid="35" id="76" value="20.00"/>
+ </cluster>
+</room>
+<room id="danceroom" time="128887752290">
+ <cluster id="99" name="" x="0.22" y="1.30" vx="0.00" vy="0.00" size="0.30" magnitude="62.00" zones="">
+  <m mcu="40976" sid="4" id="14" value="48.00"/>
+  <m mcu="40976" sid="3" id="15" value="14.00"/>
+ </cluster>
+ <cluster id="101" name="" x="1.25" y="0.76" vx="0.00" vy="0.00" size="0.46" magnitude="32.00" zones="1">
+  <m mcu="40976" sid="24" id="56" value="25.00"/>
+  <m mcu="40976" sid="35" id="76" value="7.00"/>
+ </cluster>
+</room>
+<room id="danceroom" time="128887752323">
+ <cluster id="99" name="" x="0.22" y="1.31" vx="0.00" vy="0.00" size="0.30" magnitude="59.00" zones="">
+  <m mcu="40976" sid="4" id="14" value="48.00"/>
+  <m mcu="40976" sid="3" id="15" value="11.00"/>
+ </cluster>
+ <cluster id="101" name="" x="1.38" y="0.76" vx="0.00" vy="0.00" size="0.46" magnitude="12.00" zones="1">
+  <m mcu="40976" sid="24" id="56" value="6.00"/>
+  <m mcu="40976" sid="35" id="76" value="6.00"/>
+ </cluster>
+</room>
+<room id="danceroom" time="128887752357">
+ <cluster id="99" name="" x="0.22" y="1.32" vx="0.00" vy="0.00" size="0.30" magnitude="57.00" zones="">
+  <m mcu="40976" sid="4" id="14" value="47.00"/>
+  <m mcu="40976" sid="3" id="15" value="10.00"/>
+ </cluster>
+ <cluster id="101" name="" x="1.61" y="1.04" vx="0.00" vy="0.00" size="0.31" magnitude="59.00" zones="1">
+  <m mcu="40976" sid="35" id="76" value="6.00"/>
+  <m mcu="40976" sid="36" id="75" value="53.00"/>
+ </cluster>
+</room>
+<room id="danceroom" time="128887752390">
+ <cluster id="99" name="" x="0.22" y="1.37" vx="0.00" vy="0.00" size="0.00" magnitude="47.00" zones="">
+  <m mcu="40976" sid="4" id="14" value="47.00"/>
+ </cluster>
+ <cluster id="101" name="" x="1.51" y="1.07" vx="0.00" vy="0.00" size="0.46" magnitude="66.00" zones="1">
+  <m mcu="40976" sid="36" id="75" value="52.00"/>
+  <m mcu="40976" sid="25" id="55" value="14.00"/>
+ </cluster>
+</room>
+<room id="danceroom" time="128887752423">
+ <cluster id="99" name="" x="0.22" y="1.37" vx="0.00" vy="0.00" size="0.00" magnitude="47.00" zones="">
+  <m mcu="40976" sid="4" id="14" value="47.00"/>
+ </cluster>
+ <cluster id="101" name="" x="1.35" y="1.07" vx="0.00" vy="0.00" size="0.46" magnitude="92.00" zones="1">
+  <m mcu="40976" sid="36" id="75" value="39.00"/>
+  <m mcu="40976" sid="25" id="55" value="53.00"/>
+ </cluster>
+</room>
+<room id="danceroom" time="128887752457">
+ <cluster id="99" name="" x="0.22" y="1.37" vx="0.00" vy="0.00" size="0.00" magnitude="46.00" zones="">
+  <m mcu="40976" sid="4" id="14" value="46.00"/>
+ </cluster>
+ <cluster id="101" name="" x="1.29" y="1.16" vx="0.00" vy="0.00" size="0.55" magnitude="49.00" zones="1">
+  <m mcu="40976" sid="25" id="55" value="34.00"/>
+  <m mcu="40976" sid="37" id="74" value="15.00"/>
+ </cluster>
+</room>
+<room id="danceroom" time="128887752490">
+ <cluster id="99" name="" x="0.22" y="1.34" vx="0.00" vy="0.00" size="0.61" magnitude="38.00" zones="">
+  <m mcu="40976" sid="4" id="14" value="36.00"/>
+  <m mcu="40976" sid="2" id="16" value="2.00"/>
+ </cluster>
+ <cluster id="101" name="" x="1.48" y="1.49" vx="0.00" vy="0.00" size="0.76" magnitude="101.00" zones="">
+  <m mcu="40976" sid="25" id="55" value="29.00"/>
+  <m mcu="40976" sid="36" id="75" value="3.00"/>
+  <m mcu="40976" sid="38" id="73" value="69.00"/>
+ </cluster>
+</room>
+<room id="danceroom" time="128887752523">
+ <cluster id="99" name="" x="0.22" y="0.76" vx="0.00" vy="0.00" size="0.00" magnitude="3.00" zones="">
+  <m mcu="40976" sid="2" id="16" value="3.00"/>
+ </cluster>
+ <cluster id="101" name="" x="1.61" y="1.68" vx="0.00" vy="0.00" size="0.00" magnitude="82.00" zones="">
+  <m mcu="40976" sid="38" id="73" value="82.00"/>
+ </cluster>
+</room>
+<room id="danceroom" time="128887752557">
+ <cluster id="99" name="" x="0.22" y="0.76" vx="0.00" vy="0.00" size="0.00" magnitude="4.00" zones="">
+  <m mcu="40976" sid="2" id="16" value="4.00"/>
+ </cluster>
+ <cluster id="101" name="" x="1.61" y="1.68" vx="0.00" vy="0.00" size="0.00" magnitude="90.00" zones="">
+  <m mcu="40976" sid="38" id="73" value="90.00"/>
+ </cluster>
+</room>
+<room id="danceroom" time="128887752590">
+ <cluster id="99" name="" x="0.22" y="0.76" vx="0.00" vy="0.00" size="0.00" magnitude="21.00" zones="">
+  <m mcu="40976" sid="2" id="16" value="21.00"/>
+ </cluster>
+ <cluster id="101" name="" x="1.61" y="1.68" vx="0.00" vy="0.00" size="0.00" magnitude="81.00" zones="">
+  <m mcu="40976" sid="38" id="73" value="81.00"/>
+ </cluster>
+</room>
+<room id="danceroom" time="128887752623">
+ <cluster id="99" name="" x="0.22" y="0.76" vx="0.00" vy="0.00" size="0.00" magnitude="21.00" zones="">
+  <m mcu="40976" sid="2" id="16" value="21.00"/>
+ </cluster>
+ <cluster id="101" name="" x="1.61" y="1.68" vx="0.00" vy="0.00" size="0.00" magnitude="38.00" zones="">
+  <m mcu="40976" sid="38" id="73" value="38.00"/>
+ </cluster>
+</room>
+<room id="danceroom" time="128887752657">
+ <cluster id="99" name="" x="0.22" y="0.76" vx="0.00" vy="0.00" size="0.00" magnitude="20.00" zones="">
+  <m mcu="40976" sid="2" id="16" value="20.00"/>
+ </cluster>
+ <cluster id="101" name="" x="1.61" y="1.89" vx="0.00" vy="0.00" size="0.30" magnitude="83.00" zones="">
+  <m mcu="40976" sid="38" id="73" value="26.00"/>
+  <m mcu="40976" sid="39" id="72" value="57.00"/>
+ </cluster>
+</room>
+<room id="danceroom" time="128887752690">
+ <cluster id="99" name="" x="0.22" y="0.76" vx="0.00" vy="0.00" size="0.00" magnitude="20.00" zones="">
+  <m mcu="40976" sid="2" id="16" value="20.00"/>
+ </cluster>
+ <cluster id="101" name="" x="1.61" y="1.98" vx="0.00" vy="0.00" size="0.00" magnitude="64.00" zones="">
+  <m mcu="40976" sid="39" id="72" value="64.00"/>
+ </cluster>
+</room>
+<room id="danceroom" time="128887752723">
+ <cluster id="99" name="" x="0.22" y="0.76" vx="0.00" vy="0.00" size="0.00" magnitude="20.00" zones="">
+  <m mcu="40976" sid="2" id="16" value="20.00"/>
+ </cluster>
+ <cluster id="101" name="" x="1.61" y="1.98" vx="0.00" vy="0.00" size="0.00" magnitude="91.00" zones="">
+  <m mcu="40976" sid="39" id="72" value="91.00"/>
+ </cluster>
+</room>
+<room id="danceroom" time="128887752757">
+ <cluster id="99" name="" x="0.22" y="0.76" vx="0.00" vy="0.00" size="0.00" magnitude="19.00" zones="">
+  <m mcu="40976" sid="2" id="16" value="19.00"/>
+ </cluster>
+ <cluster id="101" name="" x="1.61" y="1.98" vx="0.00" vy="0.00" size="0.00" magnitude="94.00" zones="">
+  <m mcu="40976" sid="39" id="72" value="94.00"/>
+ </cluster>
+</room>
+<room id="danceroom" time="128887752790">
+ <cluster id="99" name="" x="0.22" y="0.76" vx="0.00" vy="0.00" size="0.00" magnitude="19.00" zones="">
+  <m mcu="40976" sid="2" id="16" value="19.00"/>
+ </cluster>
+ <cluster id="101" name="" x="1.61" y="1.98" vx="0.00" vy="0.00" size="0.00" magnitude="74.00" zones="">
+  <m mcu="40976" sid="39" id="72" value="74.00"/>
+ </cluster>
+</room>
+<room id="danceroom" time="128887752823">
+ <cluster id="99" name="" x="0.22" y="0.76" vx="0.00" vy="0.00" size="0.00" magnitude="19.00" zones="">
+  <m mcu="40976" sid="2" id="16" value="19.00"/>
+ </cluster>
+ <cluster id="101" name="" x="1.61" y="2.13" vx="0.00" vy="0.00" size="0.31" magnitude="146.00" zones="">
+  <m mcu="40976" sid="39" id="72" value="74.00"/>
+  <m mcu="40976" sid="40" id="71" value="72.00"/>
+ </cluster>
+</room>
+<room id="danceroom" time="128887752857">
+ <cluster id="99" name="" x="0.22" y="0.76" vx="0.00" vy="0.00" size="0.00" magnitude="18.00" zones="">
+  <m mcu="40976" sid="2" id="16" value="18.00"/>
+ </cluster>
+ <cluster id="101" name="" x="1.61" y="2.21" vx="0.00" vy="0.00" size="0.31" magnitude="95.00" zones="">
+  <m mcu="40976" sid="39" id="72" value="25.00"/>
+  <m mcu="40976" sid="40" id="71" value="70.00"/>
+ </cluster>
+</room>
+<room id="danceroom" time="128887752890">
+ <cluster id="99" name="" x="0.22" y="0.76" vx="0.00" vy="0.00" size="0.00" magnitude="18.00" zones="">
+  <m mcu="40976" sid="2" id="16" value="18.00"/>
+ </cluster>
+ <cluster id="101" name="" x="1.61" y="2.29" vx="0.00" vy="0.00" size="0.00" magnitude="79.00" zones="">
+  <m mcu="40976" sid="40" id="71" value="79.00"/>
+ </cluster>
+</room>
+<room id="danceroom" time="128887752923">
+ <cluster id="99" name="" x="0.22" y="0.76" vx="0.00" vy="0.00" size="0.00" magnitude="18.00" zones="">
+  <m mcu="40976" sid="2" id="16" value="18.00"/>
+ </cluster>
+ <cluster id="101" name="" x="1.61" y="2.29" vx="0.00" vy="0.00" size="0.00" magnitude="78.00" zones="">
+  <m mcu="40976" sid="40" id="71" value="78.00"/>
+ </cluster>
+</room>
+<room id="danceroom" time="128887752957">
+ <cluster id="99" name="" x="0.22" y="0.76" vx="0.00" vy="0.00" size="0.00" magnitude="18.00" zones="">
+  <m mcu="40976" sid="2" id="16" value="18.00"/>
+ </cluster>
+ <cluster id="101" name="" x="1.61" y="2.29" vx="0.00" vy="0.00" size="0.00" magnitude="71.00" zones="">
+  <m mcu="40976" sid="40" id="71" value="71.00"/>
+ </cluster>
+</room>
+<room id="danceroom" time="128887752990">
+ <cluster id="99" name="" x="0.22" y="0.15" vx="0.00" vy="0.00" size="0.00" magnitude="32.00" zones="">
+  <m mcu="40976" sid="0" id="18" value="32.00"/>
+ </cluster>
+ <cluster id="101" name="" x="1.61" y="2.19" vx="0.00" vy="0.00" size="0.31" magnitude="112.00" zones="">
+  <m mcu="40976" sid="40" id="71" value="75.00"/>
+  <m mcu="40976" sid="39" id="72" value="37.00"/>
+ </cluster>
+</room>
+<room id="danceroom" time="128887753023">
+ <cluster id="99" name="" x="0.22" y="0.15" vx="0.00" vy="0.00" size="0.00" magnitude="47.00" zones="">
+  <m mcu="40976" sid="0" id="18" value="47.00"/>
+ </cluster>
+ <cluster id="101" name="" x="1.61" y="2.18" vx="0.00" vy="0.00" size="0.31" magnitude="108.00" zones="">
+  <m mcu="40976" sid="40" id="71" value="69.00"/>
+  <m mcu="40976" sid="39" id="72" value="39.00"/>
+ </cluster>
+</room>
+<room id="danceroom" time="128887753057">
+ <cluster id="99" name="" x="0.22" y="0.15" vx="0.00" vy="0.00" size="0.00" magnitude="50.00" zones="">
+  <m mcu="40976" sid="0" id="18" value="50.00"/>
+ </cluster>
+ <cluster id="101" name="" x="1.61" y="2.29" vx="0.00" vy="0.00" size="0.00" magnitude="69.00" zones="">
+  <m mcu="40976" sid="40" id="71" value="69.00"/>
+ </cluster>
+</room>
+<room id="danceroom" time="128887753090">
+ <cluster id="99" name="" x="0.22" y="0.15" vx="0.00" vy="0.00" size="0.00" magnitude="50.00" zones="">
+  <m mcu="40976" sid="0" id="18" value="50.00"/>
+ </cluster>
+ <cluster id="101" name="" x="1.61" y="2.29" vx="0.00" vy="0.00" size="0.00" magnitude="69.00" zones="">
+  <m mcu="40976" sid="40" id="71" value="69.00"/>
+ </cluster>
+</room>
+<room id="danceroom" time="128887753123">
+ <cluster id="99" name="" x="0.22" y="0.15" vx="0.00" vy="0.00" size="0.00" magnitude="49.00" zones="">
+  <m mcu="40976" sid="0" id="18" value="49.00"/>
+ </cluster>
+ <cluster id="101" name="" x="1.49" y="2.25" vx="0.00" vy="0.00" size="0.55" magnitude="97.00" zones="">
+  <m mcu="40976" sid="40" id="71" value="72.00"/>
+  <m mcu="40976" sid="29" id="51" value="13.00"/>
+  <m mcu="40976" sid="28" id="52" value="12.00"/>
+ </cluster>
+</room>
+<room id="danceroom" time="128887753157">
+ <cluster id="99" name="" x="0.22" y="0.15" vx="0.00" vy="0.00" size="0.00" magnitude="48.00" zones="">
+  <m mcu="40976" sid="0" id="18" value="48.00"/>
+ </cluster>
+ <cluster id="101" name="" x="1.43" y="2.23" vx="0.00" vy="0.00" size="0.55" magnitude="115.00" zones="">
+  <m mcu="40976" sid="40" id="71" value="70.00"/>
+  <m mcu="40976" sid="29" id="51" value="24.00"/>
+  <m mcu="40976" sid="28" id="52" value="21.00"/>
+ </cluster>
+</room>
+<room id="danceroom" time="128887753190">
+ <cluster id="99" name="" x="0.22" y="0.15" vx="0.00" vy="0.00" size="0.00" magnitude="48.00" zones="">
+  <m mcu="40976" sid="0" id="18" value="48.00"/>
+ </cluster>
+ <cluster id="101" name="" x="1.45" y="2.25" vx="0.00" vy="0.00" size="0.55" magnitude="109.00" zones="">
+  <m mcu="40976" sid="40" id="71" value="71.00"/>
+  <m mcu="40976" sid="29" id="51" value="23.00"/>
+  <m mcu="40976" sid="28" id="52" value="15.00"/>
+ </cluster>
+</room>
+<room id="danceroom" time="128887753223">
+ <cluster id="99" name="" x="0.22" y="0.15" vx="0.00" vy="0.00" size="0.00" magnitude="47.00" zones="">
+  <m mcu="40976" sid="0" id="18" value="47.00"/>
+ </cluster>
+ <cluster id="101" name="" x="1.43" y="2.25" vx="0.00" vy="0.00" size="0.55" magnitude="109.00" zones="">
+  <m mcu="40976" sid="40" id="71" value="66.00"/>
+  <m mcu="40976" sid="29" id="51" value="28.00"/>
+  <m mcu="40976" sid="28" id="52" value="15.00"/>
+ </cluster>
+</room>
+<room id="danceroom" time="128887753257">
+ <cluster id="99" name="" x="0.22" y="0.15" vx="0.00" vy="0.00" size="0.00" magnitude="47.00" zones="">
+  <m mcu="40976" sid="0" id="18" value="47.00"/>
+ </cluster>
+ <cluster id="101" name="" x="1.44" y="2.24" vx="0.00" vy="0.00" size="0.55" magnitude="108.00" zones="">
+  <m mcu="40976" sid="40" id="71" value="69.00"/>
+  <m mcu="40976" sid="29" id="51" value="21.00"/>
+  <m mcu="40976" sid="28" id="52" value="18.00"/>
+ </cluster>
+</room>
+<room id="danceroom" time="128887753290">
+ <cluster id="99" name="" x="0.22" y="0.15" vx="0.00" vy="0.00" size="0.00" magnitude="46.00" zones="">
+  <m mcu="40976" sid="0" id="18" value="46.00"/>
+ </cluster>
+ <cluster id="101" name="" x="1.61" y="2.29" vx="0.00" vy="0.00" size="0.00" magnitude="59.00" zones="">
+  <m mcu="40976" sid="40" id="71" value="59.00"/>
+ </cluster>
+</room>
+<room id="danceroom" time="128887753323">
+ <cluster id="99" name="" x="0.22" y="0.15" vx="0.00" vy="0.00" size="0.00" magnitude="46.00" zones="">
+  <m mcu="40976" sid="0" id="18" value="46.00"/>
+ </cluster>
+ <cluster id="101" name="" x="1.61" y="2.29" vx="0.00" vy="0.00" size="0.00" magnitude="60.00" zones="">
+  <m mcu="40976" sid="40" id="71" value="60.00"/>
+ </cluster>
+</room>
+<room id="danceroom" time="128887753357">
+ <cluster id="99" name="" x="0.22" y="0.15" vx="0.00" vy="0.00" size="0.00" magnitude="46.00" zones="">
+  <m mcu="40976" sid="0" id="18" value="46.00"/>
+ </cluster>
+ <cluster id="101" name="" x="1.61" y="2.29" vx="0.00" vy="0.00" size="0.00" magnitude="71.00" zones="">
+  <m mcu="40976" sid="40" id="71" value="71.00"/>
+ </cluster>
+</room>
+<room id="danceroom" time="128887753390">
+ <cluster id="99" name="" x="0.22" y="0.15" vx="0.00" vy="0.00" size="0.00" magnitude="45.00" zones="">
+  <m mcu="40976" sid="0" id="18" value="45.00"/>
+ </cluster>
+ <cluster id="101" name="" x="1.61" y="2.29" vx="0.00" vy="0.00" size="0.00" magnitude="71.00" zones="">
+  <m mcu="40976" sid="40" id="71" value="71.00"/>
+ </cluster>
+</room>
+<room id="danceroom" time="128887753423">
+ <cluster id="99" name="" x="0.22" y="0.15" vx="0.00" vy="0.00" size="0.00" magnitude="45.00" zones="">
+  <m mcu="40976" sid="0" id="18" value="45.00"/>
+ </cluster>
+ <cluster id="101" name="" x="1.61" y="2.29" vx="0.00" vy="0.00" size="0.00" magnitude="65.00" zones="">
+  <m mcu="40976" sid="40" id="71" value="65.00"/>
+ </cluster>
+</room>
+<room id="danceroom" time="128887753457">
+ <cluster id="99" name="" x="0.22" y="0.15" vx="0.00" vy="0.00" size="0.00" magnitude="31.00" zones="">
+  <m mcu="40976" sid="0" id="18" value="31.00"/>
+ </cluster>
+ <cluster id="101" name="" x="1.61" y="2.29" vx="0.00" vy="0.00" size="0.00" magnitude="66.00" zones="">
+  <m mcu="40976" sid="40" id="71" value="66.00"/>
+ </cluster>
+</room>
+<room id="danceroom" time="128887753490">
+ <cluster id="99" name="" x="0.22" y="0.15" vx="0.00" vy="0.00" size="-1.00" magnitude="0.00" zones="">
+ </cluster>
+ <cluster id="101" name="" x="1.61" y="2.42" vx="0.00" vy="0.00" size="0.30" magnitude="120.00" zones="">
+  <m mcu="40976" sid="40" id="71" value="68.00"/>
+  <m mcu="40976" sid="41" id="70" value="52.00"/>
+ </cluster>
+</room>
+<room id="danceroom" time="128887753523">
+ <cluster id="99" name="" x="0.22" y="0.15" vx="0.00" vy="0.00" size="-1.00" magnitude="0.00" zones="">
+ </cluster>
+ <cluster id="101" name="" x="1.61" y="2.43" vx="0.00" vy="0.00" size="0.30" magnitude="124.00" zones="">
+  <m mcu="40976" sid="40" id="71" value="65.00"/>
+  <m mcu="40976" sid="41" id="70" value="59.00"/>
+ </cluster>
+</room>
+<room id="danceroom" time="128887753557">
+ <cluster id="99" name="" x="0.22" y="0.15" vx="0.00" vy="0.00" size="-1.00" magnitude="0.00" zones="">
+ </cluster>
+ <cluster id="101" name="" x="1.61" y="2.42" vx="0.00" vy="0.00" size="0.30" magnitude="118.00" zones="">
+  <m mcu="40976" sid="40" id="71" value="66.00"/>
+  <m mcu="40976" sid="41" id="70" value="52.00"/>
+ </cluster>
+</room>
+<room id="danceroom" time="128887753590">
+ <cluster id="99" name="" x="0.22" y="0.15" vx="0.00" vy="0.00" size="-1.00" magnitude="0.00" zones="">
+ </cluster>
+ <cluster id="101" name="" x="1.61" y="2.29" vx="0.00" vy="0.00" size="0.00" magnitude="63.00" zones="">
+  <m mcu="40976" sid="40" id="71" value="63.00"/>
+ </cluster>
+</room>
+<room id="danceroom" time="128887753623">
+ <cluster id="99" name="" x="0.22" y="0.15" vx="0.00" vy="0.00" size="0.00" magnitude="4.00" zones="">
+  <m mcu="40976" sid="0" id="18" value="4.00"/>
+ </cluster>
+ <cluster id="101" name="" x="1.61" y="2.45" vx="0.00" vy="0.00" size="0.30" magnitude="139.00" zones="">
+  <m mcu="40976" sid="40" id="71" value="66.00"/>
+  <m mcu="40976" sid="41" id="70" value="73.00"/>
+ </cluster>
+</room>
+<room id="danceroom" time="128887753657">
+ <cluster id="99" name="" x="0.22" y="0.15" vx="0.00" vy="0.00" size="0.00" magnitude="1.00" zones="">
+  <m mcu="40976" sid="0" id="18" value="1.00"/>
+ </cluster>
+ <cluster id="101" name="" x="1.61" y="2.37" vx="0.00" vy="0.00" size="0.30" magnitude="79.00" zones="">
+  <m mcu="40976" sid="41" id="70" value="21.00"/>
+  <m mcu="40976" sid="40" id="71" value="58.00"/>
+ </cluster>
+</room>
+<room id="danceroom" time="128887753690">
+ <cluster id="99" name="" x="0.22" y="0.15" vx="0.00" vy="0.00" size="-1.00" magnitude="0.00" zones="">
+ </cluster>
+ <cluster id="101" name="" x="1.61" y="2.39" vx="0.00" vy="0.00" size="0.30" magnitude="85.00" zones="">
+  <m mcu="40976" sid="40" id="71" value="58.00"/>
+  <m mcu="40976" sid="41" id="70" value="27.00"/>
+ </cluster>
+</room>
+<room id="danceroom" time="128887753723">
+ <cluster id="99" name="" x="0.22" y="0.15" vx="0.00" vy="0.00" size="-1.00" magnitude="0.00" zones="">
+ </cluster>
+ <cluster id="101" name="" x="1.61" y="2.40" vx="0.00" vy="0.00" size="0.30" magnitude="91.00" zones="">
+  <m mcu="40976" sid="40" id="71" value="59.00"/>
+  <m mcu="40976" sid="41" id="70" value="32.00"/>
+ </cluster>
+</room>
+<room id="danceroom" time="128887753757">
+ <cluster id="99" name="" x="0.68" y="0.76" vx="0.00" vy="0.00" size="0.00" magnitude="25.00" zones="">
+  <m mcu="40976" sid="13" id="36" value="25.00"/>
+ </cluster>
+ <cluster id="101" name="" x="1.61" y="2.38" vx="0.00" vy="0.00" size="0.30" magnitude="90.00" zones="">
+  <m mcu="40976" sid="40" id="71" value="62.00"/>
+  <m mcu="40976" sid="41" id="70" value="28.00"/>
+ </cluster>
+</room>
+<room id="danceroom" time="128887753790">
+ <cluster id="99" name="" x="0.68" y="0.76" vx="0.00" vy="0.00" size="0.00" magnitude="24.00" zones="">
+  <m mcu="40976" sid="13" id="36" value="24.00"/>
+ </cluster>
+ <cluster id="101" name="" x="1.61" y="2.39" vx="0.00" vy="0.00" size="0.30" magnitude="88.00" zones="">
+  <m mcu="40976" sid="40" id="71" value="60.00"/>
+  <m mcu="40976" sid="41" id="70" value="28.00"/>
+ </cluster>
+</room>
+<room id="danceroom" time="128887753823">
+ <cluster id="99" name="" x="0.68" y="0.76" vx="0.00" vy="0.00" size="0.00" magnitude="27.00" zones="">
+  <m mcu="40976" sid="13" id="36" value="27.00"/>
+ </cluster>
+ <cluster id="101" name="" x="1.61" y="2.39" vx="0.00" vy="0.00" size="0.30" magnitude="87.00" zones="">
+  <m mcu="40976" sid="40" id="71" value="58.00"/>
+  <m mcu="40976" sid="41" id="70" value="29.00"/>
+ </cluster>
+</room>
+<room id="danceroom" time="128887753857">
+ <cluster id="99" name="" x="0.84" y="0.76" vx="0.00" vy="0.00" size="0.47" magnitude="48.00" zones="">
+  <m mcu="40976" sid="13" id="36" value="32.00"/>
+  <m mcu="40976" sid="24" id="56" value="16.00"/>
+ </cluster>
+ <cluster id="101" name="" x="1.61" y="2.38" vx="0.00" vy="0.00" size="0.30" magnitude="86.00" zones="">
+  <m mcu="40976" sid="40" id="71" value="60.00"/>
+  <m mcu="40976" sid="41" id="70" value="26.00"/>
+ </cluster>
+</room>
+<room id="danceroom" time="128887753890">
+ <cluster id="99" name="" x="0.89" y="0.76" vx="0.00" vy="0.00" size="0.47" magnitude="50.00" zones="">
+  <m mcu="40976" sid="13" id="36" value="28.00"/>
+  <m mcu="40976" sid="24" id="56" value="22.00"/>
+ </cluster>
+ <cluster id="101" name="" x="1.61" y="2.38" vx="0.00" vy="0.00" size="0.30" magnitude="81.00" zones="">
+  <m mcu="40976" sid="40" id="71" value="57.00"/>
+  <m mcu="40976" sid="41" id="70" value="24.00"/>
+ </cluster>
+</room>
+<room id="danceroom" time="128887753923">
+ <cluster id="99" name="" x="0.91" y="0.76" vx="0.00" vy="0.00" size="0.47" magnitude="51.00" zones="">
+  <m mcu="40976" sid="13" id="36" value="26.00"/>
+  <m mcu="40976" sid="24" id="56" value="25.00"/>
+ </cluster>
+ <cluster id="101" name="" x="1.61" y="2.59" vx="0.00" vy="0.00" size="0.00" magnitude="31.00" zones="">
+  <m mcu="40976" sid="41" id="70" value="31.00"/>
+ </cluster>
+</room>
+<room id="danceroom" time="128887753957">
+ <cluster id="99" name="" x="0.91" y="0.76" vx="0.00" vy="0.00" size="0.47" magnitude="51.00" zones="">
+  <m mcu="40976" sid="13" id="36" value="26.00"/>
+  <m mcu="40976" sid="24" id="56" value="25.00"/>
+ </cluster>
+ <cluster id="101" name="" x="1.61" y="2.59" vx="0.00" vy="0.00" size="0.00" magnitude="28.00" zones="">
+  <m mcu="40976" sid="41" id="70" value="28.00"/>
+ </cluster>
+</room>
+<room id="danceroom" time="128887753990">
+ <cluster id="99" name="" x="0.93" y="0.76" vx="0.00" vy="0.00" size="0.47" magnitude="49.00" zones="">
+  <m mcu="40976" sid="13" id="36" value="23.00"/>
+  <m mcu="40976" sid="24" id="56" value="26.00"/>
+ </cluster>
+ <cluster id="101" name="" x="1.46" y="2.59" vx="0.00" vy="0.00" size="0.46" magnitude="42.00" zones="">
+  <m mcu="40976" sid="41" id="70" value="28.00"/>
+  <m mcu="40976" sid="30" id="50" value="14.00"/>
+ </cluster>
+</room>
+<room id="danceroom" time="128887754023">
+ <cluster id="99" name="" x="0.97" y="0.76" vx="0.00" vy="0.00" size="0.47" magnitude="47.00" zones="">
+  <m mcu="40976" sid="24" id="56" value="29.00"/>
+  <m mcu="40976" sid="13" id="36" value="18.00"/>
+ </cluster>
+ <cluster id="101" name="" x="1.29" y="2.59" vx="0.00" vy="0.00" size="0.46" magnitude="72.00" zones="">
+  <m mcu="40976" sid="41" id="70" value="22.00"/>
+  <m mcu="40976" sid="30" id="50" value="50.00"/>
+ </cluster>
+</room>
+<room id="danceroom" time="128887754057">
+ <cluster id="99" name="" x="0.68" y="0.76" vx="0.00" vy="0.00" size="0.00" magnitude="23.00" zones="">
+  <m mcu="40976" sid="13" id="36" value="23.00"/>
+ </cluster>
+ <cluster id="101" name="" x="1.28" y="2.59" vx="0.00" vy="0.00" size="0.46" magnitude="69.00" zones="">
+  <m mcu="40976" sid="30" id="50" value="49.00"/>
+  <m mcu="40976" sid="41" id="70" value="20.00"/>
+ </cluster>
+</room>
+<room id="danceroom" time="128887754090">
+ <cluster id="99" name="" x="0.68" y="0.76" vx="0.00" vy="0.00" size="0.00" magnitude="20.00" zones="">
+  <m mcu="40976" sid="13" id="36" value="20.00"/>
+ </cluster>
+ <cluster id="101" name="" x="1.30" y="2.59" vx="0.00" vy="0.00" size="0.46" magnitude="71.00" zones="">
+  <m mcu="40976" sid="30" id="50" value="48.00"/>
+  <m mcu="40976" sid="41" id="70" value="23.00"/>
+ </cluster>
+</room>
+<room id="danceroom" time="128887754123">
+ <cluster id="99" name="" x="0.68" y="0.76" vx="0.00" vy="0.00" size="0.00" magnitude="13.00" zones="">
+  <m mcu="40976" sid="13" id="36" value="13.00"/>
+ </cluster>
+ <cluster id="101" name="" x="1.15" y="2.59" vx="0.00" vy="0.00" size="0.00" magnitude="47.00" zones="">
+  <m mcu="40976" sid="30" id="50" value="47.00"/>
+ </cluster>
+</room>
+<room id="danceroom" time="128887754157">
+ <cluster id="99" name="" x="0.68" y="0.76" vx="0.00" vy="0.00" size="-1.00" magnitude="0.00" zones="">
+ </cluster>
+ <cluster id="101" name="" x="1.15" y="2.43" vx="0.00" vy="0.00" size="0.61" magnitude="72.00" zones="">
+  <m mcu="40976" sid="30" id="50" value="47.00"/>
+  <m mcu="40976" sid="29" id="51" value="13.00"/>
+  <m mcu="40976" sid="28" id="52" value="12.00"/>
+ </cluster>
+</room>
+<room id="danceroom" time="128887754190">
+ <cluster id="99" name="" x="0.68" y="0.76" vx="0.00" vy="0.00" size="-1.00" magnitude="0.00" zones="">
+ </cluster>
+ <cluster id="101" name="" x="1.15" y="2.34" vx="0.00" vy="0.00" size="0.61" magnitude="105.00" zones="">
+  <m mcu="40976" sid="29" id="51" value="32.00"/>
+  <m mcu="40976" sid="30" id="50" value="46.00"/>
+  <m mcu="40976" sid="28" id="52" value="27.00"/>
+ </cluster>
+</room>
+<room id="danceroom" time="128887754223">
+ <cluster id="99" name="" x="0.68" y="0.76" vx="0.00" vy="0.00" size="-1.00" magnitude="0.00" zones="">
+ </cluster>
+ <cluster id="101" name="" x="1.15" y="2.35" vx="0.00" vy="0.00" size="0.61" magnitude="103.00" zones="">
+  <m mcu="40976" sid="29" id="51" value="31.00"/>
+  <m mcu="40976" sid="30" id="50" value="46.00"/>
+  <m mcu="40976" sid="28" id="52" value="26.00"/>
+ </cluster>
+</room>
+<room id="danceroom" time="128887754257">
+ <cluster id="99" name="" x="0.68" y="0.76" vx="0.00" vy="0.00" size="-1.00" magnitude="0.00" zones="">
+ </cluster>
+ <cluster id="101" name="" x="1.15" y="2.34" vx="0.00" vy="0.00" size="0.61" magnitude="102.00" zones="">
+  <m mcu="40976" sid="29" id="51" value="27.00"/>
+  <m mcu="40976" sid="30" id="50" value="46.00"/>
+  <m mcu="40976" sid="28" id="52" value="29.00"/>
+ </cluster>
+</room>
+<room id="danceroom" time="128887754290">
+ <cluster id="99" name="" x="0.68" y="0.76" vx="0.00" vy="0.00" size="-1.00" magnitude="0.00" zones="">
+ </cluster>
+ <cluster id="101" name="" x="1.15" y="2.59" vx="0.00" vy="0.00" size="0.00" magnitude="45.00" zones="">
+  <m mcu="40976" sid="30" id="50" value="45.00"/>
+ </cluster>
+</room>
+<room id="danceroom" time="128887754323">
+ <cluster id="99" name="" x="0.68" y="0.76" vx="0.00" vy="0.00" size="-1.00" magnitude="0.00" zones="">
+ </cluster>
+ <cluster id="101" name="" x="0.95" y="2.47" vx="0.00" vy="0.00" size="0.56" magnitude="77.00" zones="">
+  <m mcu="40976" sid="30" id="50" value="45.00"/>
+  <m mcu="40976" sid="18" id="31" value="32.00"/>
+ </cluster>
+</room>
+<room id="danceroom" time="128887754357">
+ <cluster id="99" name="" x="0.68" y="0.76" vx="0.00" vy="0.00" size="-1.00" magnitude="0.00" zones="">
+ </cluster>
+ <cluster id="101" name="" x="0.94" y="2.45" vx="0.00" vy="0.00" size="0.56" magnitude="80.00" zones="">
+  <m mcu="40976" sid="30" id="50" value="44.00"/>
+  <m mcu="40976" sid="18" id="31" value="36.00"/>
+ </cluster>
+</room>
+<room id="danceroom" time="128887754390">
+ <cluster id="99" name="" x="0.68" y="0.76" vx="0.00" vy="0.00" size="-1.00" magnitude="0.00" zones="">
+ </cluster>
+ <cluster id="101" name="" x="0.95" y="2.46" vx="0.00" vy="0.00" size="0.56" magnitude="77.00" zones="">
+  <m mcu="40976" sid="30" id="50" value="44.00"/>
+  <m mcu="40976" sid="18" id="31" value="33.00"/>
+ </cluster>
+</room>
+<room id="danceroom" time="128887754423">
+ <cluster id="101" name="" x="1.15" y="2.59" vx="0.00" vy="0.00" size="0.00" magnitude="44.00" zones="">
+  <m mcu="40976" sid="30" id="50" value="44.00"/>
+ </cluster>
+</room>
+<room id="danceroom" time="128887754457">
+ <cluster id="101" name="" x="0.91" y="2.59" vx="0.00" vy="0.00" size="0.47" magnitude="86.00" zones="">
+  <m mcu="40976" sid="30" id="50" value="43.00"/>
+  <m mcu="40976" sid="19" id="30" value="43.00"/>
+ </cluster>
+</room>
+<room id="danceroom" time="128887754490">
+ <cluster id="101" name="" x="0.89" y="2.59" vx="0.00" vy="0.00" size="0.47" magnitude="95.00" zones="">
+  <m mcu="40976" sid="19" id="30" value="52.00"/>
+  <m mcu="40976" sid="30" id="50" value="43.00"/>
+ </cluster>
+</room>
+<room id="danceroom" time="128887754523">
+ <cluster id="101" name="" x="0.89" y="2.59" vx="0.00" vy="0.00" size="0.47" magnitude="94.00" zones="">
+  <m mcu="40976" sid="19" id="30" value="51.00"/>
+  <m mcu="40976" sid="30" id="50" value="43.00"/>
+ </cluster>
+</room>
+<room id="danceroom" time="128887754557">
+ <cluster id="101" name="" x="1.15" y="2.59" vx="0.00" vy="0.00" size="0.00" magnitude="42.00" zones="">
+  <m mcu="40976" sid="30" id="50" value="42.00"/>
+ </cluster>
+</room>
+<room id="danceroom" time="128887754590">
+ <cluster id="101" name="" x="0.97" y="2.59" vx="0.00" vy="0.00" size="0.47" magnitude="64.00" zones="">
+  <m mcu="40976" sid="30" id="50" value="40.00"/>
+  <m mcu="40976" sid="19" id="30" value="24.00"/>
+ </cluster>
+</room>
+<room id="danceroom" time="128887754623">
+ <cluster id="101" name="" x="0.89" y="2.59" vx="0.00" vy="0.00" size="0.47" magnitude="71.00" zones="">
+  <m mcu="40976" sid="30" id="50" value="32.00"/>
+  <m mcu="40976" sid="19" id="30" value="39.00"/>
+ </cluster>
+</room>
+<room id="danceroom" time="128887754657">
+ <cluster id="101" name="" x="0.89" y="2.59" vx="0.00" vy="0.00" size="0.47" magnitude="71.00" zones="">
+  <m mcu="40976" sid="19" id="30" value="40.00"/>
+  <m mcu="40976" sid="30" id="50" value="31.00"/>
+ </cluster>
+</room>
+<room id="danceroom" time="128887754690">
+ <cluster id="101" name="" x="0.68" y="2.59" vx="0.00" vy="0.00" size="0.00" magnitude="34.00" zones="">
+  <m mcu="40976" sid="19" id="30" value="34.00"/>
+ </cluster>
+</room>
+<room id="danceroom" time="128887754723">
+ <cluster id="101" name="" x="0.68" y="2.59" vx="0.00" vy="0.00" size="0.00" magnitude="10.00" zones="">
+  <m mcu="40976" sid="19" id="30" value="10.00"/>
+ </cluster>
+</room>
+<room id="danceroom" time="128887754757">
+ <cluster id="101" name="" x="0.68" y="2.59" vx="0.00" vy="0.00" size="0.00" magnitude="11.00" zones="">
+  <m mcu="40976" sid="19" id="30" value="11.00"/>
+ </cluster>
+</room>
+<room id="danceroom" time="128887754790">
+ <cluster id="101" name="" x="0.47" y="2.59" vx="0.00" vy="0.00" size="0.46" magnitude="44.00" zones="">
+  <m mcu="40976" sid="19" id="30" value="24.00"/>
+  <m mcu="40976" sid="8" id="10" value="20.00"/>
+ </cluster>
+</room>
+<room id="danceroom" time="128887754823">
+ <cluster id="101" name="" x="0.49" y="2.59" vx="0.00" vy="0.00" size="0.46" magnitude="46.00" zones="">
+  <m mcu="40976" sid="19" id="30" value="27.00"/>
+  <m mcu="40976" sid="8" id="10" value="19.00"/>
+ </cluster>
+ <clutter>
+  <m mcu="40976" sid="35" id="76" value="21.00"/>
+ </clutter>
+</room>
+<room id="danceroom" time="128887754857">
+ <cluster id="101" name="" x="0.44" y="2.59" vx="0.00" vy="0.00" size="0.46" magnitude="37.00" zones="">
+  <m mcu="40976" sid="19" id="30" value="18.00"/>
+  <m mcu="40976" sid="8" id="10" value="19.00"/>
+ </cluster>
+ <clutter>
+  <m mcu="40976" sid="35" id="76" value="31.00"/>
+ </clutter>
+</room>
+<room id="danceroom" time="128887754890">
+ <cluster id="101" name="" x="0.22" y="2.59" vx="0.00" vy="0.00" size="0.00" magnitude="18.00" zones="">
+  <m mcu="40976" sid="8" id="10" value="18.00"/>
+ </cluster>
+ <clutter>
+  <m mcu="40976" sid="35" id="76" value="38.00"/>
+ </clutter>
+</room>
+<room id="danceroom" time="128887754923">
+ <cluster id="101" name="" x="0.22" y="2.59" vx="0.00" vy="0.00" size="0.00" magnitude="18.00" zones="">
+  <m mcu="40976" sid="8" id="10" value="18.00"/>
+ </cluster>
+ <clutter>
+  <m mcu="40976" sid="35" id="76" value="40.00"/>
+ </clutter>
+</room>
+<room id="danceroom" time="128887754957">
+ <cluster id="101" name="" x="0.22" y="2.15" vx="0.00" vy="0.00" size="0.61" magnitude="87.00" zones="">
+  <m mcu="40976" sid="8" id="10" value="18.00"/>
+  <m mcu="40976" sid="7" id="11" value="11.00"/>
+  <m mcu="40976" sid="6" id="12" value="58.00"/>
+ </cluster>
+ <clutter>
+  <m mcu="40976" sid="35" id="76" value="38.00"/>
+ </clutter>
+</room>
+<room id="danceroom" time="128887754990">
+ <cluster id="101" name="" x="0.22" y="2.13" vx="0.00" vy="0.00" size="0.61" magnitude="81.00" zones="">
+  <m mcu="40976" sid="7" id="11" value="7.00"/>
+  <m mcu="40976" sid="8" id="10" value="17.00"/>
+  <m mcu="40976" sid="6" id="12" value="57.00"/>
+ </cluster>
+ <clutter>
+  <m mcu="40976" sid="35" id="76" value="38.00"/>
+ </clutter>
+</room>
+<room id="danceroom" time="128887755023">
+ <cluster id="101" name="" x="0.22" y="2.13" vx="0.00" vy="0.00" size="0.61" magnitude="76.00" zones="">
+  <m mcu="40976" sid="6" id="12" value="55.00"/>
+  <m mcu="40976" sid="7" id="11" value="4.00"/>
+  <m mcu="40976" sid="8" id="10" value="17.00"/>
+ </cluster>
+ <clutter>
+  <m mcu="40976" sid="35" id="76" value="6.00"/>
+ </clutter>
+</room>
+<room id="danceroom" time="128887755057">
+ <cluster id="101" name="" x="0.22" y="2.13" vx="0.00" vy="0.00" size="0.61" magnitude="73.00" zones="">
+  <m mcu="40976" sid="6" id="12" value="54.00"/>
+  <m mcu="40976" sid="7" id="11" value="2.00"/>
+  <m mcu="40976" sid="8" id="10" value="17.00"/>
+ </cluster>
+ <clutter>
+  <m mcu="40976" sid="35" id="76" value="13.00"/>
+ </clutter>
+</room>
+<room id="danceroom" time="128887755090">
+ <cluster id="101" name="" x="0.22" y="2.13" vx="0.00" vy="0.00" size="0.61" magnitude="70.00" zones="">
+  <m mcu="40976" sid="6" id="12" value="52.00"/>
+  <m mcu="40976" sid="7" id="11" value="1.00"/>
+  <m mcu="40976" sid="8" id="10" value="17.00"/>
+ </cluster>
+ <clutter>
+  <m mcu="40976" sid="35" id="76" value="20.00"/>
+ </clutter>
+</room>
+<room id="danceroom" time="128887755123">
+ <cluster id="101" name="" x="0.22" y="2.12" vx="0.00" vy="0.00" size="0.61" magnitude="68.00" zones="">
+  <m mcu="40976" sid="6" id="12" value="52.00"/>
+  <m mcu="40976" sid="8" id="10" value="16.00"/>
+ </cluster>
+ <cluster id="102" name="" x="1.15" y="1.37" vx="0.00" vy="0.00" size="0.00" magnitude="33.00" zones="1">
+  <m mcu="40976" sid="26" id="54" value="33.00"/>
+ </cluster>
+</room>
+<room id="danceroom" time="128887755157">
+ <cluster id="101" name="" x="0.22" y="2.59" vx="0.00" vy="0.00" size="0.00" magnitude="16.00" zones="">
+  <m mcu="40976" sid="8" id="10" value="16.00"/>
+ </cluster>
+ <cluster id="102" name="" x="1.15" y="1.37" vx="0.00" vy="0.00" size="0.00" magnitude="30.00" zones="">
+  <m mcu="40976" sid="26" id="54" value="30.00"/>
+ </cluster>
+</room>
+<room id="danceroom" time="128887755190">
+ <cluster id="101" name="" x="0.57" y="2.12" vx="0.00" vy="0.00" size="0.76" magnitude="70.00" zones="">
+  <m mcu="40976" sid="8" id="10" value="16.00"/>
+  <m mcu="40976" sid="17" id="32" value="54.00"/>
+ </cluster>
+ <cluster id="102" name="" x="1.35" y="1.11" vx="0.00" vy="0.00" size="0.76" magnitude="51.00" zones="1">
+  <m mcu="40976" sid="26" id="54" value="29.00"/>
+  <m mcu="40976" sid="35" id="76" value="22.00"/>
+ </cluster>
+</room>
+<room id="danceroom" time="128887755223">
+ <cluster id="101" name="" x="0.58" y="2.12" vx="0.00" vy="0.00" size="0.76" magnitude="71.00" zones="">
+  <m mcu="40976" sid="17" id="32" value="55.00"/>
+  <m mcu="40976" sid="8" id="10" value="16.00"/>
+ </cluster>
+ <cluster id="102" name="" x="1.36" y="1.09" vx="0.00" vy="0.00" size="0.76" magnitude="45.00" zones="1">
+  <m mcu="40976" sid="26" id="54" value="24.00"/>
+  <m mcu="40976" sid="35" id="76" value="21.00"/>
+ </cluster>
+</room>
+<room id="danceroom" time="128887755257">
+ <cluster id="101" name="" x="0.58" y="2.11" vx="0.00" vy="0.00" size="0.76" magnitude="70.00" zones="">
+  <m mcu="40976" sid="17" id="32" value="55.00"/>
+  <m mcu="40976" sid="8" id="10" value="15.00"/>
+ </cluster>
+ <cluster id="102" name="" x="1.39" y="1.05" vx="0.00" vy="0.00" size="0.76" magnitude="40.00" zones="1">
+  <m mcu="40976" sid="26" id="54" value="19.00"/>
+  <m mcu="40976" sid="35" id="76" value="21.00"/>
+ </cluster>
+</room>
+<room id="danceroom" time="128887755290">
+ <cluster id="101" name="" x="0.22" y="2.59" vx="0.00" vy="0.00" size="0.00" magnitude="15.00" zones="">
+  <m mcu="40976" sid="8" id="10" value="15.00"/>
+ </cluster>
+ <cluster id="102" name="" x="1.15" y="1.37" vx="0.00" vy="0.00" size="0.00" magnitude="40.00" zones="">
+  <m mcu="40976" sid="26" id="54" value="40.00"/>
+ </cluster>
+</room>
+<room id="danceroom" time="128887755323">
+ <cluster id="101" name="" x="0.22" y="2.59" vx="0.00" vy="0.00" size="0.00" magnitude="15.00" zones="">
+  <m mcu="40976" sid="8" id="10" value="15.00"/>
+ </cluster>
+ <cluster id="102" name="" x="1.15" y="1.37" vx="0.00" vy="0.00" size="0.00" magnitude="41.00" zones="">
+  <m mcu="40976" sid="26" id="54" value="41.00"/>
+ </cluster>
+</room>
+<room id="danceroom" time="128887755357">
+ <cluster id="101" name="" x="0.22" y="2.23" vx="0.00" vy="0.00" size="0.61" magnitude="68.00" zones="">
+  <m mcu="40976" sid="8" id="10" value="15.00"/>
+  <m mcu="40976" sid="7" id="11" value="25.00"/>
+  <m mcu="40976" sid="6" id="12" value="28.00"/>
+ </cluster>
+ <cluster id="102" name="" x="1.15" y="1.37" vx="0.00" vy="0.00" size="0.00" magnitude="37.00" zones="">
+  <m mcu="40976" sid="26" id="54" value="37.00"/>
+ </cluster>
+</room>
+<room id="danceroom" time="128887755390">
+ <cluster id="101" name="" x="0.22" y="2.59" vx="0.00" vy="0.00" size="0.00" magnitude="14.00" zones="">
+  <m mcu="40976" sid="8" id="10" value="14.00"/>
+ </cluster>
+ <cluster id="102" name="" x="1.53" y="1.63" vx="0.00" vy="0.00" size="0.55" magnitude="53.00" zones="">
+  <m mcu="40976" sid="26" id="54" value="9.00"/>
+  <m mcu="40976" sid="38" id="73" value="44.00"/>
+ </cluster>
+</room>
+<room id="danceroom" time="128887755428">
+ <cluster id="101" name="" x="0.22" y="2.59" vx="0.00" vy="0.00" size="0.30" magnitude="90.00" zones="">
+  <m mcu="40976" sid="8" id="10" value="89.00"/>
+  <m mcu="40976" sid="7" id="11" value="1.00"/>
+ </cluster>
+ <cluster id="102" name="" x="1.61" y="1.68" vx="0.00" vy="0.00" size="0.00" magnitude="55.00" zones="">
+  <m mcu="40976" sid="38" id="73" value="55.00"/>
+ </cluster>
+</room>
+<room id="danceroom" time="128887755457">
+ <cluster id="101" name="" x="0.22" y="2.07" vx="0.00" vy="0.00" size="0.31" magnitude="23.00" zones="">
+  <m mcu="40976" sid="7" id="11" value="7.00"/>
+  <m mcu="40976" sid="6" id="12" value="16.00"/>
+ </cluster>
+ <cluster id="102" name="" x="1.61" y="1.68" vx="0.00" vy="0.00" size="0.00" magnitude="48.00" zones="">
+  <m mcu="40976" sid="38" id="73" value="48.00"/>
+ </cluster>
+</room>
+<room id="danceroom" time="128887755490">
+ <cluster id="101" name="" x="0.22" y="2.29" vx="0.00" vy="0.00" size="0.00" magnitude="3.00" zones="">
+  <m mcu="40976" sid="7" id="11" value="3.00"/>
+ </cluster>
+ <cluster id="102" name="" x="1.61" y="1.68" vx="0.00" vy="0.00" size="0.00" magnitude="59.00" zones="">
+  <m mcu="40976" sid="38" id="73" value="59.00"/>
+ </cluster>
+</room>
+<room id="danceroom" time="128887755523">
+ <cluster id="101" name="" x="0.22" y="2.29" vx="0.00" vy="0.00" size="0.00" magnitude="6.00" zones="">
+  <m mcu="40976" sid="7" id="11" value="6.00"/>
+ </cluster>
+ <cluster id="102" name="" x="1.60" y="1.68" vx="0.00" vy="0.00" size="0.46" magnitude="65.00" zones="">
+  <m mcu="40976" sid="38" id="73" value="64.00"/>
+  <m mcu="40976" sid="27" id="53" value="1.00"/>
+ </cluster>
+</room>
+<room id="danceroom" time="128887755557">
+ <cluster id="101" name="" x="0.22" y="1.98" vx="0.00" vy="0.00" size="0.00" magnitude="7.00" zones="">
+  <m mcu="40976" sid="6" id="12" value="7.00"/>
+ </cluster>
+ <cluster id="102" name="" x="1.49" y="1.68" vx="0.00" vy="0.00" size="0.46" magnitude="57.00" zones="">
+  <m mcu="40976" sid="38" id="73" value="42.00"/>
+  <m mcu="40976" sid="27" id="53" value="15.00"/>
+ </cluster>
+</room>
+<room id="danceroom" time="128887755590">
+ <cluster id="101" name="" x="0.22" y="1.98" vx="0.00" vy="0.00" size="0.00" magnitude="16.00" zones="">
+  <m mcu="40976" sid="6" id="12" value="16.00"/>
+ </cluster>
+ <cluster id="102" name="" x="1.15" y="1.68" vx="0.00" vy="0.00" size="0.00" magnitude="15.00" zones="">
+  <m mcu="40976" sid="27" id="53" value="15.00"/>
+ </cluster>
+</room>
+<room id="danceroom" time="128887755623">
+ <cluster id="101" name="" x="0.22" y="1.70" vx="0.00" vy="0.00" size="0.61" magnitude="52.00" zones="">
+  <m mcu="40976" sid="6" id="12" value="15.00"/>
+  <m mcu="40976" sid="5" id="13" value="25.00"/>
+  <m mcu="40976" sid="4" id="14" value="12.00"/>
+ </cluster>
+ <cluster id="102" name="" x="1.15" y="1.68" vx="0.00" vy="0.00" size="0.00" magnitude="28.00" zones="">
+  <m mcu="40976" sid="27" id="53" value="28.00"/>
+ </cluster>
+</room>
+<event time="128887755658" room="danceroom" type="ENTERROOM" zone="None"></event><room id="danceroom" time="128887755657">
+ <cluster id="101" name="" x="0.22" y="1.54" vx="0.00" vy="0.00" size="0.31" magnitude="48.00" zones="">
+  <m mcu="40976" sid="5" id="13" value="27.00"/>
+  <m mcu="40976" sid="4" id="14" value="21.00"/>
+ </cluster>
+ <cluster id="102" name="" x="1.15" y="1.68" vx="0.00" vy="0.00" size="-1.00" magnitude="0.00" zones="">
+ </cluster>
+</room>
+<room id="danceroom" time="128887755690">
+ <cluster id="101" name="" x="0.22" y="1.60" vx="0.00" vy="0.00" size="0.31" magnitude="83.00" zones="">
+  <m mcu="40976" sid="5" id="13" value="62.00"/>
+  <m mcu="40976" sid="4" id="14" value="21.00"/>
+ </cluster>
+ <cluster id="102" name="" x="1.15" y="1.68" vx="0.00" vy="0.00" size="-1.00" magnitude="0.00" zones="">
+ </cluster>
+</room>
+<room id="danceroom" time="128887755723">
+ <cluster id="101" name="" x="0.22" y="1.60" vx="0.00" vy="0.00" size="0.31" magnitude="82.00" zones="">
+  <m mcu="40976" sid="5" id="13" value="62.00"/>
+  <m mcu="40976" sid="4" id="14" value="20.00"/>
+ </cluster>
+ <cluster id="102" name="" x="1.61" y="1.98" vx="0.00" vy="0.00" size="0.00" magnitude="36.00" zones="">
+  <m mcu="40976" sid="39" id="72" value="36.00"/>
+ </cluster>
+</room>
+<room id="danceroom" time="128887755757">
+ <cluster id="101" name="" x="0.22" y="1.60" vx="0.00" vy="0.00" size="0.31" magnitude="83.00" zones="">
+  <m mcu="40976" sid="5" id="13" value="61.00"/>
+  <m mcu="40976" sid="4" id="14" value="22.00"/>
+ </cluster>
+ <cluster id="102" name="" x="1.61" y="1.98" vx="0.00" vy="0.00" size="0.00" magnitude="39.00" zones="">
+  <m mcu="40976" sid="39" id="72" value="39.00"/>
+ </cluster>
+</room>
+<room id="danceroom" time="128887755790">
+ <cluster id="101" name="" x="0.22" y="1.60" vx="0.00" vy="0.00" size="0.31" magnitude="80.00" zones="">
+  <m mcu="40976" sid="5" id="13" value="60.00"/>
+  <m mcu="40976" sid="4" id="14" value="20.00"/>
+ </cluster>
+ <cluster id="102" name="" x="1.61" y="1.98" vx="0.00" vy="0.00" size="0.00" magnitude="41.00" zones="">
+  <m mcu="40976" sid="39" id="72" value="41.00"/>
+ </cluster>
+</room>
+<room id="danceroom" time="128887755823">
+ <cluster id="101" name="" x="0.22" y="1.68" vx="0.00" vy="0.00" size="0.00" magnitude="54.00" zones="">
+  <m mcu="40976" sid="5" id="13" value="54.00"/>
+ </cluster>
+ <cluster id="102" name="" x="1.61" y="1.98" vx="0.00" vy="0.00" size="0.00" magnitude="40.00" zones="">
+  <m mcu="40976" sid="39" id="72" value="40.00"/>
+ </cluster>
+</room>
+<room id="danceroom" time="128887755857">
+ <cluster id="101" name="" x="0.22" y="1.40" vx="0.00" vy="0.00" size="0.61" magnitude="100.00" zones="">
+  <m mcu="40976" sid="5" id="13" value="54.00"/>
+  <m mcu="40976" sid="3" id="15" value="46.00"/>
+ </cluster>
+ <cluster id="102" name="" x="1.61" y="1.98" vx="0.00" vy="0.00" size="0.00" magnitude="41.00" zones="">
+  <m mcu="40976" sid="39" id="72" value="41.00"/>
+ </cluster>
+</room>
+<room id="danceroom" time="128887755890">
+ <cluster id="101" name="" x="0.22" y="1.07" vx="0.00" vy="0.00" size="0.00" magnitude="72.00" zones="">
+  <m mcu="40976" sid="3" id="15" value="72.00"/>
+ </cluster>
+ <cluster id="102" name="" x="1.61" y="1.98" vx="0.00" vy="0.00" size="0.00" magnitude="39.00" zones="">
+  <m mcu="40976" sid="39" id="72" value="39.00"/>
+ </cluster>
+</room>
+<room id="danceroom" time="128887755923">
+ <cluster id="101" name="" x="0.22" y="1.14" vx="0.00" vy="0.00" size="0.30" magnitude="92.00" zones="">
+  <m mcu="40976" sid="3" id="15" value="71.00"/>
+  <m mcu="40976" sid="4" id="14" value="21.00"/>
+ </cluster>
+ <cluster id="102" name="" x="1.61" y="1.98" vx="0.00" vy="0.00" size="0.00" magnitude="42.00" zones="">
+  <m mcu="40976" sid="39" id="72" value="42.00"/>
+ </cluster>
+</room>
+<room id="danceroom" time="128887755957">
+ <cluster id="101" name="" x="0.22" y="1.22" vx="0.00" vy="0.00" size="0.30" magnitude="47.00" zones="">
+  <m mcu="40976" sid="3" id="15" value="23.00"/>
+  <m mcu="40976" sid="4" id="14" value="24.00"/>
+ </cluster>
+ <cluster id="102" name="" x="1.53" y="2.03" vx="0.00" vy="0.00" size="0.55" magnitude="18.00" zones="">
+  <m mcu="40976" sid="39" id="72" value="15.00"/>
+  <m mcu="40976" sid="29" id="51" value="3.00"/>
+ </cluster>
+</room>
+<room id="danceroom" time="128887755990">
+ <cluster id="101" name="" x="0.22" y="0.79" vx="0.00" vy="0.00" size="0.61" magnitude="51.00" zones="">
+  <m mcu="40976" sid="3" id="15" value="28.00"/>
+  <m mcu="40976" sid="1" id="17" value="23.00"/>
+ </cluster>
+ <cluster id="102" name="" x="1.15" y="2.29" vx="0.00" vy="0.00" size="0.00" magnitude="7.00" zones="">
+  <m mcu="40976" sid="29" id="51" value="7.00"/>
+ </cluster>
+</room>
+<room id="danceroom" time="128887756023">
+ <cluster id="101" name="" x="0.22" y="0.46" vx="0.00" vy="0.00" size="0.00" magnitude="44.00" zones="">
+  <m mcu="40976" sid="1" id="17" value="44.00"/>
+ </cluster>
+ <cluster id="102" name="" x="1.15" y="2.29" vx="0.00" vy="0.00" size="0.00" magnitude="17.00" zones="">
+  <m mcu="40976" sid="29" id="51" value="17.00"/>
+ </cluster>
+</room>
+<room id="danceroom" time="128887756057">
+ <cluster id="101" name="" x="0.22" y="0.46" vx="0.00" vy="0.00" size="0.00" magnitude="43.00" zones="">
+  <m mcu="40976" sid="1" id="17" value="43.00"/>
+ </cluster>
+ <cluster id="102" name="" x="1.15" y="2.29" vx="0.00" vy="0.00" size="0.00" magnitude="19.00" zones="">
+  <m mcu="40976" sid="29" id="51" value="19.00"/>
+ </cluster>
+</room>
+<room id="danceroom" time="128887756090">
+ <cluster id="101" name="" x="0.22" y="0.46" vx="0.00" vy="0.00" size="0.00" magnitude="43.00" zones="">
+  <m mcu="40976" sid="1" id="17" value="43.00"/>
+ </cluster>
+ <cluster id="102" name="" x="1.15" y="2.29" vx="0.00" vy="0.00" size="0.00" magnitude="19.00" zones="">
+  <m mcu="40976" sid="29" id="51" value="19.00"/>
+ </cluster>
+</room>
+<room id="danceroom" time="128887756123">
+ <cluster id="101" name="" x="0.22" y="0.46" vx="0.00" vy="0.00" size="0.00" magnitude="42.00" zones="">
+  <m mcu="40976" sid="1" id="17" value="42.00"/>
+ </cluster>
+ <cluster id="102" name="" x="1.15" y="2.29" vx="0.00" vy="0.00" size="0.00" magnitude="19.00" zones="">
+  <m mcu="40976" sid="29" id="51" value="19.00"/>
+ </cluster>
+</room>
+<room id="danceroom" time="128887756157">
+ <cluster id="101" name="" x="0.22" y="0.46" vx="0.00" vy="0.00" size="0.00" magnitude="42.00" zones="">
+  <m mcu="40976" sid="1" id="17" value="42.00"/>
+ </cluster>
+ <cluster id="102" name="" x="1.15" y="2.29" vx="0.00" vy="0.00" size="0.00" magnitude="19.00" zones="">
+  <m mcu="40976" sid="29" id="51" value="19.00"/>
+ </cluster>
+</room>
+<room id="danceroom" time="128887756190">
+ <cluster id="101" name="" x="0.22" y="0.46" vx="0.00" vy="0.00" size="0.00" magnitude="41.00" zones="">
+  <m mcu="40976" sid="1" id="17" value="41.00"/>
+ </cluster>
+ <cluster id="102" name="" x="1.15" y="2.29" vx="0.00" vy="0.00" size="0.00" magnitude="17.00" zones="">
+  <m mcu="40976" sid="29" id="51" value="17.00"/>
+ </cluster>
+</room>
+<room id="danceroom" time="128887756223">
+ <cluster id="101" name="" x="0.22" y="0.46" vx="0.00" vy="0.00" size="0.00" magnitude="41.00" zones="">
+  <m mcu="40976" sid="1" id="17" value="41.00"/>
+ </cluster>
+ <cluster id="102" name="" x="1.15" y="2.29" vx="0.00" vy="0.00" size="0.00" magnitude="17.00" zones="">
+  <m mcu="40976" sid="29" id="51" value="17.00"/>
+ </cluster>
+</room>
+<room id="danceroom" time="128887756257">
+ <cluster id="101" name="" x="0.22" y="0.46" vx="0.00" vy="0.00" size="-1.00" magnitude="0.00" zones="">
+ </cluster>
+ <cluster id="102" name="" x="1.15" y="2.29" vx="0.00" vy="0.00" size="0.00" magnitude="16.00" zones="">
+  <m mcu="40976" sid="29" id="51" value="16.00"/>
+ </cluster>
+</room>
+<room id="danceroom" time="128887756290">
+ <cluster id="101" name="" x="0.22" y="0.46" vx="0.00" vy="0.00" size="-1.00" magnitude="0.00" zones="">
+ </cluster>
+ <cluster id="102" name="" x="1.15" y="2.29" vx="0.00" vy="0.00" size="-1.00" magnitude="0.00" zones="">
+ </cluster>
+</room>
+<room id="danceroom" time="128887756340">
+ <cluster id="101" name="" x="0.22" y="0.46" vx="0.00" vy="0.00" size="-1.00" magnitude="0.00" zones="">
+ </cluster>
+ <cluster id="102" name="" x="1.15" y="2.29" vx="0.00" vy="0.00" size="-1.00" magnitude="0.00" zones="">
+ </cluster>
+</room>
+<room id="danceroom" time="128887756390">
+ <cluster id="101" name="" x="0.22" y="0.46" vx="0.00" vy="0.00" size="-1.00" magnitude="0.00" zones="">
+ </cluster>
+ <cluster id="102" name="" x="1.15" y="2.29" vx="0.00" vy="0.00" size="-1.00" magnitude="0.00" zones="">
+ </cluster>
+</room>
+<room id="danceroom" time="128887756440">
+ <cluster id="101" name="" x="0.22" y="0.46" vx="0.00" vy="0.00" size="-1.00" magnitude="0.00" zones="">
+ </cluster>
+ <cluster id="102" name="" x="1.15" y="2.29" vx="0.00" vy="0.00" size="-1.00" magnitude="0.00" zones="">
+ </cluster>
+</room>
+<room id="danceroom" time="128887756490">
+ <cluster id="101" name="" x="0.22" y="0.46" vx="0.00" vy="0.00" size="-1.00" magnitude="0.00" zones="">
+ </cluster>
+ <cluster id="102" name="" x="1.15" y="2.29" vx="0.00" vy="0.00" size="-1.00" magnitude="0.00" zones="">
+ </cluster>
+</room>
+<room id="danceroom" time="128887756540">
+ <cluster id="102" name="" x="1.15" y="2.29" vx="0.00" vy="0.00" size="-1.00" magnitude="0.00" zones="">
+ </cluster>
+</room>
+<room id="danceroom" time="128887756591">
+</room>
+<room id="danceroom" time="128887756623">
+ <clutter>
+  <m mcu="40976" sid="1" id="17" value="36.00"/>
+ </clutter>
+</room>
+<room id="danceroom" time="128887756657">
+ <clutter>
+  <m mcu="40976" sid="1" id="17" value="35.00"/>
+ </clutter>
+</room>
+<room id="danceroom" time="128887756690">
+ <clutter>
+  <m mcu="40976" sid="1" id="17" value="35.00"/>
+  <m mcu="40976" sid="0" id="18" value="47.00"/>
+ </clutter>
+ <clutter>
+  <m mcu="40976" sid="6" id="12" value="49.00"/>
+ </clutter>
+</room>
+<room id="danceroom" time="128887756723">
+ <clutter>
+  <m mcu="40976" sid="0" id="18" value="47.00"/>
+  <m mcu="40976" sid="1" id="17" value="34.00"/>
+ </clutter>
+ <clutter>
+  <m mcu="40976" sid="6" id="12" value="52.00"/>
+ </clutter>
+</room>
+<room id="danceroom" time="128887756757">
+ <clutter>
+  <m mcu="40976" sid="0" id="18" value="46.00"/>
+  <m mcu="40976" sid="1" id="17" value="34.00"/>
+ </clutter>
+ <clutter>
+  <m mcu="40976" sid="6" id="12" value="46.00"/>
+ </clutter>
+</room>
+<room id="danceroom" time="128887756790">
+ <clutter>
+  <m mcu="40976" sid="0" id="18" value="45.00"/>
+  <m mcu="40976" sid="1" id="17" value="33.00"/>
+ </clutter>
+ <clutter>
+  <m mcu="40976" sid="6" id="12" value="46.00"/>
+ </clutter>
+</room>
+<room id="danceroom" time="128887756823">
+ <clutter>
+  <m mcu="40976" sid="0" id="18" value="45.00"/>
+  <m mcu="40976" sid="1" id="17" value="33.00"/>
+ </clutter>
+ <clutter>
+  <m mcu="40976" sid="6" id="12" value="46.00"/>
+ </clutter>
+</room>
+<room id="danceroom" time="128887756857">
+ <clutter>
+  <m mcu="40976" sid="0" id="18" value="44.00"/>
+  <m mcu="40976" sid="1" id="17" value="32.00"/>
+ </clutter>
+ <clutter>
+  <m mcu="40976" sid="6" id="12" value="47.00"/>
+ </clutter>
+</room>
+<room id="danceroom" time="128887756890">
+ <clutter>
+  <m mcu="40976" sid="0" id="18" value="43.00"/>
+  <m mcu="40976" sid="1" id="17" value="25.00"/>
+ </clutter>
+ <clutter>
+  <m mcu="40976" sid="6" id="12" value="47.00"/>
+ </clutter>
+</room>
+<room id="danceroom" time="128887756923">
+ <cluster id="103" name="" x="0.22" y="0.15" vx="0.00" vy="0.00" size="0.00" magnitude="43.00" zones="">
+  <m mcu="40976" sid="0" id="18" value="43.00"/>
+ </cluster>
+ <clutter>
+  <m mcu="40976" sid="6" id="12" value="52.00"/>
+ </clutter>
+</room>
+<room id="danceroom" time="128887756957">
+ <cluster id="103" name="" x="0.22" y="0.15" vx="0.00" vy="0.00" size="0.00" magnitude="43.00" zones="">
+  <m mcu="40976" sid="0" id="18" value="43.00"/>
+ </cluster>
+ <clutter>
+  <m mcu="40976" sid="6" id="12" value="52.00"/>
+ </clutter>
+</room>
+<room id="danceroom" time="128887756990">
+ <cluster id="103" name="" x="0.22" y="0.15" vx="0.00" vy="0.00" size="0.00" magnitude="11.00" zones="">
+  <m mcu="40976" sid="0" id="18" value="11.00"/>
+ </cluster>
+ <clutter>
+  <m mcu="40976" sid="6" id="12" value="49.00"/>
+ </clutter>
+</room>
+<room id="danceroom" time="128887757023">
+ <cluster id="103" name="" x="0.22" y="0.15" vx="0.00" vy="0.00" size="-1.00" magnitude="0.00" zones="">
+ </cluster>
+ <clutter>
+ </clutter>
+</room>
+<room id="danceroom" time="128887757057">
+ <cluster id="103" name="" x="0.22" y="0.15" vx="0.00" vy="0.00" size="-1.00" magnitude="0.00" zones="">
+ </cluster>
+ <cluster id="104" name="" x="0.22" y="1.68" vx="0.00" vy="0.00" size="0.00" magnitude="49.00" zones="">
+  <m mcu="40976" sid="5" id="13" value="49.00"/>
+ </cluster>
+</room>
+<room id="danceroom" time="128887757090">
+ <cluster id="103" name="" x="0.22" y="0.15" vx="0.00" vy="0.00" size="-1.00" magnitude="0.00" zones="">
+ </cluster>
+ <cluster id="104" name="" x="0.22" y="1.68" vx="0.00" vy="0.00" size="0.00" magnitude="53.00" zones="">
+  <m mcu="40976" sid="5" id="13" value="53.00"/>
+ </cluster>
+</room>
+<room id="danceroom" time="128887757123">
+ <cluster id="103" name="" x="0.68" y="0.15" vx="0.00" vy="0.00" size="0.00" magnitude="32.00" zones="">
+  <m mcu="40976" sid="11" id="38" value="32.00"/>
+ </cluster>
+ <cluster id="104" name="" x="0.22" y="1.68" vx="0.00" vy="0.00" size="0.00" magnitude="53.00" zones="">
+  <m mcu="40976" sid="5" id="13" value="53.00"/>
+ </cluster>
+</room>
+<room id="danceroom" time="128887757157">
+ <cluster id="103" name="" x="0.68" y="0.15" vx="0.00" vy="0.00" size="0.00" magnitude="34.00" zones="">
+  <m mcu="40976" sid="11" id="38" value="34.00"/>
+ </cluster>
+ <cluster id="104" name="" x="0.22" y="1.68" vx="0.00" vy="0.00" size="0.00" magnitude="52.00" zones="">
+  <m mcu="40976" sid="5" id="13" value="52.00"/>
+ </cluster>
+</room>
+<room id="danceroom" time="128887757190">
+ <cluster id="103" name="" x="0.68" y="0.15" vx="0.00" vy="0.00" size="0.00" magnitude="32.00" zones="">
+  <m mcu="40976" sid="11" id="38" value="32.00"/>
+ </cluster>
+ <cluster id="104" name="" x="0.22" y="1.68" vx="0.00" vy="0.00" size="0.00" magnitude="51.00" zones="">
+  <m mcu="40976" sid="5" id="13" value="51.00"/>
+ </cluster>
+</room>
+<room id="danceroom" time="128887757223">
+ <cluster id="103" name="" x="0.68" y="0.15" vx="0.00" vy="0.00" size="0.00" magnitude="30.00" zones="">
+  <m mcu="40976" sid="11" id="38" value="30.00"/>
+ </cluster>
+ <cluster id="104" name="" x="0.22" y="1.68" vx="0.00" vy="0.00" size="0.00" magnitude="51.00" zones="">
+  <m mcu="40976" sid="5" id="13" value="51.00"/>
+ </cluster>
+</room>
+<room id="danceroom" time="128887757257">
+ <cluster id="103" name="" x="0.68" y="0.15" vx="0.00" vy="0.00" size="0.00" magnitude="32.00" zones="">
+  <m mcu="40976" sid="11" id="38" value="32.00"/>
+ </cluster>
+ <cluster id="104" name="" x="0.22" y="1.68" vx="0.00" vy="0.00" size="0.00" magnitude="50.00" zones="">
+  <m mcu="40976" sid="5" id="13" value="50.00"/>
+ </cluster>
+</room>
+<room id="danceroom" time="128887757290">
+ <cluster id="103" name="" x="0.68" y="0.15" vx="0.00" vy="0.00" size="0.00" magnitude="31.00" zones="">
+  <m mcu="40976" sid="11" id="38" value="31.00"/>
+ </cluster>
+ <cluster id="104" name="" x="0.22" y="1.68" vx="0.00" vy="0.00" size="0.00" magnitude="50.00" zones="">
+  <m mcu="40976" sid="5" id="13" value="50.00"/>
+ </cluster>
+</room>
+<room id="danceroom" time="128887757324">
+ <cluster id="103" name="" x="0.68" y="0.15" vx="0.00" vy="0.00" size="0.00" magnitude="29.00" zones="">
+  <m mcu="40976" sid="11" id="38" value="29.00"/>
+ </cluster>
+ <cluster id="104" name="" x="0.22" y="1.68" vx="0.00" vy="0.00" size="0.00" magnitude="49.00" zones="">
+  <m mcu="40976" sid="5" id="13" value="49.00"/>
+ </cluster>
+</room>
+<room id="danceroom" time="128887757357">
+ <cluster id="103" name="" x="0.68" y="0.15" vx="0.00" vy="0.00" size="0.00" magnitude="30.00" zones="">
+  <m mcu="40976" sid="11" id="38" value="30.00"/>
+ </cluster>
+ <cluster id="104" name="" x="0.22" y="1.68" vx="0.00" vy="0.00" size="0.00" magnitude="49.00" zones="">
+  <m mcu="40976" sid="5" id="13" value="49.00"/>
+ </cluster>
+</room>
+<room id="danceroom" time="128887757390">
+ <cluster id="103" name="" x="0.68" y="0.15" vx="0.00" vy="0.00" size="0.00" magnitude="29.00" zones="">
+  <m mcu="40976" sid="11" id="38" value="29.00"/>
+ </cluster>
+ <cluster id="104" name="" x="0.34" y="1.76" vx="0.00" vy="0.00" size="0.55" magnitude="50.00" zones="">
+  <m mcu="40976" sid="5" id="13" value="37.00"/>
+  <m mcu="40976" sid="17" id="32" value="13.00"/>
+ </cluster>
+</room>
+<room id="danceroom" time="128887757424">
+ <cluster id="103" name="" x="0.68" y="0.15" vx="0.00" vy="0.00" size="0.00" magnitude="29.00" zones="">
+  <m mcu="40976" sid="11" id="38" value="29.00"/>
+ </cluster>
+ <cluster id="104" name="" x="0.68" y="1.98" vx="0.00" vy="0.00" size="0.00" magnitude="14.00" zones="">
+  <m mcu="40976" sid="17" id="32" value="14.00"/>
+ </cluster>
+</room>
+<room id="danceroom" time="128887757457">
+ <cluster id="103" name="" x="0.68" y="0.15" vx="0.00" vy="0.00" size="0.00" magnitude="29.00" zones="">
+  <m mcu="40976" sid="11" id="38" value="29.00"/>
+ </cluster>
+ <cluster id="104" name="" x="0.68" y="1.76" vx="0.00" vy="0.00" size="0.30" magnitude="63.00" zones="">
+  <m mcu="40976" sid="17" id="32" value="16.00"/>
+  <m mcu="40976" sid="16" id="33" value="47.00"/>
+ </cluster>
+</room>
+<room id="danceroom" time="128887757490">
+ <cluster id="103" name="" x="0.68" y="0.15" vx="0.00" vy="0.00" size="0.00" magnitude="28.00" zones="">
+  <m mcu="40976" sid="11" id="38" value="28.00"/>
+ </cluster>
+ <cluster id="104" name="" x="0.68" y="1.75" vx="0.00" vy="0.00" size="0.30" magnitude="66.00" zones="">
+  <m mcu="40976" sid="16" id="33" value="51.00"/>
+  <m mcu="40976" sid="17" id="32" value="15.00"/>
+ </cluster>
+</room>
+<room id="danceroom" time="128887757524">
+ <cluster id="103" name="" x="0.68" y="0.15" vx="0.00" vy="0.00" size="0.00" magnitude="28.00" zones="">
+  <m mcu="40976" sid="11" id="38" value="28.00"/>
+ </cluster>
+ <cluster id="104" name="" x="0.68" y="1.74" vx="0.00" vy="0.00" size="0.30" magnitude="65.00" zones="">
+  <m mcu="40976" sid="16" id="33" value="52.00"/>
+  <m mcu="40976" sid="17" id="32" value="13.00"/>
+ </cluster>
+</room>
+<room id="danceroom" time="128887757557">
+ <cluster id="103" name="" x="0.68" y="0.15" vx="0.00" vy="0.00" size="0.00" magnitude="21.00" zones="">
+  <m mcu="40976" sid="11" id="38" value="21.00"/>
+ </cluster>
+ <cluster id="104" name="" x="0.68" y="1.73" vx="0.00" vy="0.00" size="0.30" magnitude="65.00" zones="">
+  <m mcu="40976" sid="16" id="33" value="54.00"/>
+  <m mcu="40976" sid="17" id="32" value="11.00"/>
+ </cluster>
+</room>
+<room id="danceroom" time="128887757590">
+ <cluster id="103" name="" x="0.68" y="0.15" vx="0.00" vy="0.00" size="0.00" magnitude="22.00" zones="">
+  <m mcu="40976" sid="11" id="38" value="22.00"/>
+ </cluster>
+ <cluster id="104" name="" x="0.68" y="1.74" vx="0.00" vy="0.00" size="0.30" magnitude="66.00" zones="">
+  <m mcu="40976" sid="16" id="33" value="53.00"/>
+  <m mcu="40976" sid="17" id="32" value="13.00"/>
+ </cluster>
+</room>
+<room id="danceroom" time="128887757624">
+ <cluster id="103" name="" x="0.68" y="0.15" vx="0.00" vy="0.00" size="0.00" magnitude="28.00" zones="">
+  <m mcu="40976" sid="11" id="38" value="28.00"/>
+ </cluster>
+ <cluster id="104" name="" x="0.68" y="1.74" vx="0.00" vy="0.00" size="0.30" magnitude="65.00" zones="">
+  <m mcu="40976" sid="16" id="33" value="53.00"/>
+  <m mcu="40976" sid="17" id="32" value="12.00"/>
+ </cluster>
+</room>
+<room id="danceroom" time="128887757657">
+ <cluster id="103" name="" x="0.68" y="0.15" vx="0.00" vy="0.00" size="0.00" magnitude="24.00" zones="">
+  <m mcu="40976" sid="11" id="38" value="24.00"/>
+ </cluster>
+ <cluster id="104" name="" x="0.68" y="1.72" vx="0.00" vy="0.00" size="0.30" magnitude="62.00" zones="">
+  <m mcu="40976" sid="16" id="33" value="53.00"/>
+  <m mcu="40976" sid="17" id="32" value="9.00"/>
+ </cluster>
+</room>
+<room id="danceroom" time="128887757690">
+ <cluster id="103" name="" x="0.68" y="0.15" vx="0.00" vy="0.00" size="0.00" magnitude="22.00" zones="">
+  <m mcu="40976" sid="11" id="38" value="22.00"/>
+ </cluster>
+ <cluster id="104" name="" x="0.68" y="1.75" vx="0.00" vy="0.00" size="0.30" magnitude="63.00" zones="">
+  <m mcu="40976" sid="16" id="33" value="49.00"/>
+  <m mcu="40976" sid="17" id="32" value="14.00"/>
+ </cluster>
+</room>
+<room id="danceroom" time="128887757724">
+ <cluster id="103" name="" x="0.68" y="0.15" vx="0.00" vy="0.00" size="0.00" magnitude="24.00" zones="">
+  <m mcu="40976" sid="11" id="38" value="24.00"/>
+ </cluster>
+ <cluster id="104" name="" x="0.68" y="1.73" vx="0.00" vy="0.00" size="0.30" magnitude="60.00" zones="">
+  <m mcu="40976" sid="16" id="33" value="50.00"/>
+  <m mcu="40976" sid="17" id="32" value="10.00"/>
+ </cluster>
+</room>
+<room id="danceroom" time="128887757757">
+ <cluster id="103" name="" x="0.68" y="0.15" vx="0.00" vy="0.00" size="0.00" magnitude="21.00" zones="">
+  <m mcu="40976" sid="11" id="38" value="21.00"/>
+ </cluster>
+ <cluster id="104" name="" x="0.68" y="1.73" vx="0.00" vy="0.00" size="0.30" magnitude="60.00" zones="">
+  <m mcu="40976" sid="16" id="33" value="49.00"/>
+  <m mcu="40976" sid="17" id="32" value="11.00"/>
+ </cluster>
+</room>
+<room id="danceroom" time="128887757790">
+ <cluster id="103" name="" x="0.68" y="0.15" vx="0.00" vy="0.00" size="0.00" magnitude="24.00" zones="">
+  <m mcu="40976" sid="11" id="38" value="24.00"/>
+ </cluster>
+ <cluster id="104" name="" x="0.68" y="1.73" vx="0.00" vy="0.00" size="0.30" magnitude="61.00" zones="">
+  <m mcu="40976" sid="16" id="33" value="50.00"/>
+  <m mcu="40976" sid="17" id="32" value="11.00"/>
+ </cluster>
+</room>
+<room id="danceroom" time="128887757824">
+ <cluster id="103" name="" x="0.68" y="0.15" vx="0.00" vy="0.00" size="0.00" magnitude="24.00" zones="">
+  <m mcu="40976" sid="11" id="38" value="24.00"/>
+ </cluster>
+ <cluster id="104" name="" x="0.68" y="1.72" vx="0.00" vy="0.00" size="0.30" magnitude="55.00" zones="">
+  <m mcu="40976" sid="16" id="33" value="47.00"/>
+  <m mcu="40976" sid="17" id="32" value="8.00"/>
+ </cluster>
+</room>
+<room id="danceroom" time="128887757857">
+ <cluster id="103" name="" x="0.68" y="0.15" vx="0.00" vy="0.00" size="0.00" magnitude="21.00" zones="">
+  <m mcu="40976" sid="11" id="38" value="21.00"/>
+ </cluster>
+ <cluster id="104" name="" x="0.68" y="1.74" vx="0.00" vy="0.00" size="0.30" magnitude="60.00" zones="">
+  <m mcu="40976" sid="16" id="33" value="48.00"/>
+  <m mcu="40976" sid="17" id="32" value="12.00"/>
+ </cluster>
+</room>
+<room id="danceroom" time="128887757890">
+ <cluster id="103" name="" x="0.68" y="0.15" vx="0.00" vy="0.00" size="0.00" magnitude="22.00" zones="">
+  <m mcu="40976" sid="11" id="38" value="22.00"/>
+ </cluster>
+ <cluster id="104" name="" x="0.68" y="1.73" vx="0.00" vy="0.00" size="0.30" magnitude="60.00" zones="">
+  <m mcu="40976" sid="16" id="33" value="49.00"/>
+  <m mcu="40976" sid="17" id="32" value="11.00"/>
+ </cluster>
+</room>
+<room id="danceroom" time="128887757924">
+ <cluster id="103" name="" x="0.68" y="0.15" vx="0.00" vy="0.00" size="0.00" magnitude="22.00" zones="">
+  <m mcu="40976" sid="11" id="38" value="22.00"/>
+ </cluster>
+ <cluster id="104" name="" x="0.68" y="1.73" vx="0.00" vy="0.00" size="0.30" magnitude="56.00" zones="">
+  <m mcu="40976" sid="16" id="33" value="47.00"/>
+  <m mcu="40976" sid="17" id="32" value="9.00"/>
+ </cluster>
+</room>
+<room id="danceroom" time="128887757957">
+ <cluster id="103" name="" x="0.68" y="0.15" vx="0.00" vy="0.00" size="0.00" magnitude="26.00" zones="">
+  <m mcu="40976" sid="11" id="38" value="26.00"/>
+ </cluster>
+ <cluster id="104" name="" x="0.68" y="1.74" vx="0.00" vy="0.00" size="0.30" magnitude="58.00" zones="">
+  <m mcu="40976" sid="16" id="33" value="47.00"/>
+  <m mcu="40976" sid="17" id="32" value="11.00"/>
+ </cluster>
+</room>
+<room id="danceroom" time="128887757990">
+ <cluster id="103" name="" x="0.68" y="0.15" vx="0.00" vy="0.00" size="0.00" magnitude="28.00" zones="">
+  <m mcu="40976" sid="11" id="38" value="28.00"/>
+ </cluster>
+ <cluster id="104" name="" x="0.68" y="1.73" vx="0.00" vy="0.00" size="0.30" magnitude="57.00" zones="">
+  <m mcu="40976" sid="16" id="33" value="48.00"/>
+  <m mcu="40976" sid="17" id="32" value="9.00"/>
+ </cluster>
+</room>
+<room id="danceroom" time="128887758024">
+ <cluster id="103" name="" x="0.68" y="0.15" vx="0.00" vy="0.00" size="0.00" magnitude="27.00" zones="">
+  <m mcu="40976" sid="11" id="38" value="27.00"/>
+ </cluster>
+ <cluster id="104" name="" x="0.68" y="1.71" vx="0.00" vy="0.00" size="0.30" magnitude="54.00" zones="">
+  <m mcu="40976" sid="16" id="33" value="48.00"/>
+  <m mcu="40976" sid="17" id="32" value="6.00"/>
+ </cluster>
+</room>
+<room id="danceroom" time="128887758057">
+ <cluster id="103" name="" x="0.68" y="0.15" vx="0.00" vy="0.00" size="0.00" magnitude="28.00" zones="">
+  <m mcu="40976" sid="11" id="38" value="28.00"/>
+ </cluster>
+ <cluster id="104" name="" x="0.68" y="1.68" vx="0.00" vy="0.00" size="0.00" magnitude="44.00" zones="">
+  <m mcu="40976" sid="16" id="33" value="44.00"/>
+ </cluster>
+</room>
+<room id="danceroom" time="128887758090">
+ <cluster id="103" name="" x="0.68" y="0.15" vx="0.00" vy="0.00" size="0.00" magnitude="27.00" zones="">
+  <m mcu="40976" sid="11" id="38" value="27.00"/>
+ </cluster>
+ <cluster id="104" name="" x="0.68" y="1.68" vx="0.00" vy="0.00" size="0.00" magnitude="48.00" zones="">
+  <m mcu="40976" sid="16" id="33" value="48.00"/>
+ </cluster>
+</room>
+<room id="danceroom" time="128887758124">
+ <cluster id="103" name="" x="0.68" y="0.15" vx="0.00" vy="0.00" size="0.00" magnitude="26.00" zones="">
+  <m mcu="40976" sid="11" id="38" value="26.00"/>
+ </cluster>
+ <cluster id="104" name="" x="0.91" y="1.82" vx="0.00" vy="0.00" size="0.56" magnitude="50.00" zones="">
+  <m mcu="40976" sid="16" id="33" value="26.00"/>
+  <m mcu="40976" sid="28" id="52" value="24.00"/>
+ </cluster>
+</room>
+<room id="danceroom" time="128887758157">
+ <cluster id="103" name="" x="0.68" y="0.15" vx="0.00" vy="0.00" size="0.00" magnitude="27.00" zones="">
+  <m mcu="40976" sid="11" id="38" value="27.00"/>
+ </cluster>
+ <cluster id="104" name="" x="1.15" y="1.98" vx="0.00" vy="0.00" size="0.00" magnitude="22.00" zones="">
+  <m mcu="40976" sid="28" id="52" value="22.00"/>
+ </cluster>
+</room>
+<room id="danceroom" time="128887758190">
+ <cluster id="103" name="" x="0.68" y="0.15" vx="0.00" vy="0.00" size="0.00" magnitude="26.00" zones="">
+  <m mcu="40976" sid="11" id="38" value="26.00"/>
+ </cluster>
+ <cluster id="104" name="" x="1.15" y="1.81" vx="0.00" vy="0.00" size="0.30" magnitude="64.00" zones="">
+  <m mcu="40976" sid="28" id="52" value="27.00"/>
+  <m mcu="40976" sid="27" id="53" value="37.00"/>
+ </cluster>
+</room>
+<room id="danceroom" time="128887758224">
+ <cluster id="103" name="" x="0.68" y="0.15" vx="0.00" vy="0.00" size="0.00" magnitude="26.00" zones="">
+  <m mcu="40976" sid="11" id="38" value="26.00"/>
+ </cluster>
+ <cluster id="104" name="" x="1.15" y="1.78" vx="0.00" vy="0.00" size="0.30" magnitude="69.00" zones="">
+  <m mcu="40976" sid="27" id="53" value="45.00"/>
+  <m mcu="40976" sid="28" id="52" value="24.00"/>
+ </cluster>
+</room>
+<room id="danceroom" time="128887758257">
+ <cluster id="103" name="" x="0.68" y="0.15" vx="0.00" vy="0.00" size="0.00" magnitude="25.00" zones="">
+  <m mcu="40976" sid="11" id="38" value="25.00"/>
+ </cluster>
+ <cluster id="104" name="" x="1.15" y="1.78" vx="0.00" vy="0.00" size="0.30" magnitude="71.00" zones="">
+  <m mcu="40976" sid="27" id="53" value="47.00"/>
+  <m mcu="40976" sid="28" id="52" value="24.00"/>
+ </cluster>
+</room>
+<room id="danceroom" time="128887758290">
+ <cluster id="103" name="" x="0.68" y="0.15" vx="0.00" vy="0.00" size="0.00" magnitude="25.00" zones="">
+  <m mcu="40976" sid="11" id="38" value="25.00"/>
+ </cluster>
+ <cluster id="104" name="" x="1.15" y="1.78" vx="0.00" vy="0.00" size="0.30" magnitude="73.00" zones="">
+  <m mcu="40976" sid="27" id="53" value="49.00"/>
+  <m mcu="40976" sid="28" id="52" value="24.00"/>
+ </cluster>
+</room>
+<room id="danceroom" time="128887758324">
+ <cluster id="103" name="" x="0.68" y="0.15" vx="0.00" vy="0.00" size="0.00" magnitude="25.00" zones="">
+  <m mcu="40976" sid="11" id="38" value="25.00"/>
+ </cluster>
+ <cluster id="104" name="" x="1.15" y="1.77" vx="0.00" vy="0.00" size="0.30" magnitude="68.00" zones="">
+  <m mcu="40976" sid="27" id="53" value="48.00"/>
+  <m mcu="40976" sid="28" id="52" value="20.00"/>
+ </cluster>
+</room>
+<room id="danceroom" time="128887758357">
+ <cluster id="103" name="" x="0.68" y="0.15" vx="0.00" vy="0.00" size="0.00" magnitude="25.00" zones="">
+  <m mcu="40976" sid="11" id="38" value="25.00"/>
+ </cluster>
+ <cluster id="104" name="" x="1.15" y="1.78" vx="0.00" vy="0.00" size="0.30" magnitude="71.00" zones="">
+  <m mcu="40976" sid="27" id="53" value="48.00"/>
+  <m mcu="40976" sid="28" id="52" value="23.00"/>
+ </cluster>
+</room>
+<room id="danceroom" time="128887758390">
+ <cluster id="103" name="" x="0.68" y="0.15" vx="0.00" vy="0.00" size="0.00" magnitude="22.00" zones="">
+  <m mcu="40976" sid="11" id="38" value="22.00"/>
+ </cluster>
+ <cluster id="104" name="" x="1.15" y="1.78" vx="0.00" vy="0.00" size="0.30" magnitude="68.00" zones="">
+  <m mcu="40976" sid="27" id="53" value="45.00"/>
+  <m mcu="40976" sid="28" id="52" value="23.00"/>
+ </cluster>
+</room>
+<room id="danceroom" time="128887758424">
+ <cluster id="103" name="" x="0.68" y="0.15" vx="0.00" vy="0.00" size="0.00" magnitude="25.00" zones="">
+  <m mcu="40976" sid="11" id="38" value="25.00"/>
+ </cluster>
+ <cluster id="104" name="" x="1.15" y="1.76" vx="0.00" vy="0.00" size="0.30" magnitude="66.00" zones="">
+  <m mcu="40976" sid="27" id="53" value="48.00"/>
+  <m mcu="40976" sid="28" id="52" value="18.00"/>
+ </cluster>
+</room>
+<room id="danceroom" time="128887758457">
+ <cluster id="103" name="" x="0.68" y="0.15" vx="0.00" vy="0.00" size="-1.00" magnitude="0.00" zones="">
+ </cluster>
+ <cluster id="104" name="" x="1.15" y="1.68" vx="0.00" vy="0.00" size="0.00" magnitude="51.00" zones="">
+  <m mcu="40976" sid="27" id="53" value="51.00"/>
+ </cluster>
+</room>
+<room id="danceroom" time="128887758490">
+ <cluster id="103" name="" x="0.68" y="0.15" vx="0.00" vy="0.00" size="-1.00" magnitude="0.00" zones="">
+ </cluster>
+ <cluster id="104" name="" x="1.15" y="1.68" vx="0.00" vy="0.00" size="0.00" magnitude="51.00" zones="">
+  <m mcu="40976" sid="27" id="53" value="51.00"/>
+ </cluster>
+</room>
+<room id="danceroom" time="128887758524">
+ <cluster id="103" name="" x="1.15" y="0.15" vx="0.00" vy="0.00" size="0.00" magnitude="69.00" zones="1">
+  <m mcu="40976" sid="22" id="58" value="69.00"/>
+ </cluster>
+ <cluster id="104" name="" x="1.15" y="1.68" vx="0.00" vy="0.00" size="0.00" magnitude="54.00" zones="">
+  <m mcu="40976" sid="27" id="53" value="54.00"/>
+ </cluster>
+</room>
+<room id="danceroom" time="128887758557">
+ <cluster id="103" name="" x="1.15" y="0.15" vx="0.00" vy="0.00" size="0.00" magnitude="71.00" zones="1">
+  <m mcu="40976" sid="22" id="58" value="71.00"/>
+ </cluster>
+ <cluster id="104" name="" x="1.15" y="1.68" vx="0.00" vy="0.00" size="0.00" magnitude="54.00" zones="">
+  <m mcu="40976" sid="27" id="53" value="54.00"/>
+ </cluster>
+</room>
+<room id="danceroom" time="128887758590">
+ <cluster id="103" name="" x="1.15" y="0.15" vx="0.00" vy="0.00" size="0.00" magnitude="68.00" zones="1">
+  <m mcu="40976" sid="22" id="58" value="68.00"/>
+ </cluster>
+ <cluster id="104" name="" x="1.15" y="1.68" vx="0.00" vy="0.00" size="0.00" magnitude="53.00" zones="">
+  <m mcu="40976" sid="27" id="53" value="53.00"/>
+ </cluster>
+</room>
+<room id="danceroom" time="128887758624">
+ <cluster id="103" name="" x="1.15" y="0.17" vx="0.00" vy="0.00" size="0.31" magnitude="75.00" zones="1">
+  <m mcu="40976" sid="22" id="58" value="69.00"/>
+  <m mcu="40976" sid="23" id="57" value="6.00"/>
+ </cluster>
+ <cluster id="104" name="" x="1.15" y="1.68" vx="0.00" vy="0.00" size="0.00" magnitude="31.00" zones="">
+  <m mcu="40976" sid="27" id="53" value="31.00"/>
+ </cluster>
+</room>
+<room id="danceroom" time="128887758657">
+ <cluster id="103" name="" x="1.15" y="0.15" vx="0.00" vy="0.00" size="0.00" magnitude="69.00" zones="1">
+  <m mcu="40976" sid="22" id="58" value="69.00"/>
+ </cluster>
+ <cluster id="104" name="" x="1.15" y="1.68" vx="0.00" vy="0.00" size="0.00" magnitude="4.00" zones="">
+  <m mcu="40976" sid="27" id="53" value="4.00"/>
+ </cluster>
+</room>
+<room id="danceroom" time="128887758690">
+ <cluster id="103" name="" x="1.15" y="0.15" vx="0.00" vy="0.00" size="0.00" magnitude="68.00" zones="1">
+  <m mcu="40976" sid="22" id="58" value="68.00"/>
+ </cluster>
+ <cluster id="104" name="" x="1.15" y="1.68" vx="0.00" vy="0.00" size="0.00" magnitude="9.00" zones="">
+  <m mcu="40976" sid="27" id="53" value="9.00"/>
+ </cluster>
+</room>
+<room id="danceroom" time="128887758724">
+ <cluster id="103" name="" x="1.15" y="0.15" vx="0.00" vy="0.00" size="0.00" magnitude="66.00" zones="1">
+  <m mcu="40976" sid="22" id="58" value="66.00"/>
+ </cluster>
+ <cluster id="104" name="" x="0.68" y="1.37" vx="0.00" vy="0.00" size="0.00" magnitude="89.00" zones="">
+  <m mcu="40976" sid="15" id="34" value="89.00"/>
+ </cluster>
+</room>
+<room id="danceroom" time="128887758757">
+ <cluster id="103" name="" x="1.15" y="0.15" vx="0.00" vy="0.00" size="0.00" magnitude="66.00" zones="1">
+  <m mcu="40976" sid="22" id="58" value="66.00"/>
+ </cluster>
+ <cluster id="104" name="" x="0.68" y="1.37" vx="0.00" vy="0.00" size="0.00" magnitude="88.00" zones="">
+  <m mcu="40976" sid="15" id="34" value="88.00"/>
+ </cluster>
+</room>
+<room id="danceroom" time="128887758790">
+ <cluster id="103" name="" x="1.15" y="0.15" vx="0.00" vy="0.00" size="0.00" magnitude="67.00" zones="1">
+  <m mcu="40976" sid="22" id="58" value="67.00"/>
+ </cluster>
+ <cluster id="104" name="" x="0.68" y="1.37" vx="0.00" vy="0.00" size="0.00" magnitude="86.00" zones="">
+  <m mcu="40976" sid="15" id="34" value="86.00"/>
+ </cluster>
+</room>
+<room id="danceroom" time="128887758824">
+ <cluster id="103" name="" x="1.15" y="0.15" vx="0.00" vy="0.00" size="0.00" magnitude="64.00" zones="1">
+  <m mcu="40976" sid="22" id="58" value="64.00"/>
+ </cluster>
+ <cluster id="104" name="" x="0.68" y="1.37" vx="0.00" vy="0.00" size="0.00" magnitude="85.00" zones="">
+  <m mcu="40976" sid="15" id="34" value="85.00"/>
+ </cluster>
+</room>
+<room id="danceroom" time="128887758857">
+ <cluster id="103" name="" x="1.15" y="0.20" vx="0.00" vy="0.00" size="0.31" magnitude="80.00" zones="1">
+  <m mcu="40976" sid="22" id="58" value="67.00"/>
+  <m mcu="40976" sid="23" id="57" value="13.00"/>
+ </cluster>
+ <cluster id="104" name="" x="0.68" y="1.37" vx="0.00" vy="0.00" size="0.00" magnitude="84.00" zones="">
+  <m mcu="40976" sid="15" id="34" value="84.00"/>
+ </cluster>
+</room>
+<room id="danceroom" time="128887758890">
+ <cluster id="103" name="" x="1.15" y="0.15" vx="0.00" vy="0.00" size="0.00" magnitude="73.00" zones="1">
+  <m mcu="40976" sid="22" id="58" value="73.00"/>
+ </cluster>
+ <cluster id="104" name="" x="0.68" y="1.37" vx="0.00" vy="0.00" size="0.00" magnitude="84.00" zones="">
+  <m mcu="40976" sid="15" id="34" value="84.00"/>
+ </cluster>
+</room>
+<room id="danceroom" time="128887758924">
+ <cluster id="103" name="" x="1.15" y="0.15" vx="0.00" vy="0.00" size="0.00" magnitude="67.00" zones="1">
+  <m mcu="40976" sid="22" id="58" value="67.00"/>
+ </cluster>
+ <cluster id="104" name="" x="0.68" y="1.37" vx="0.00" vy="0.00" size="0.00" magnitude="83.00" zones="">
+  <m mcu="40976" sid="15" id="34" value="83.00"/>
+ </cluster>
+</room>
+<room id="danceroom" time="128887758957">
+ <cluster id="103" name="" x="1.15" y="0.15" vx="0.00" vy="0.00" size="0.00" magnitude="64.00" zones="1">
+  <m mcu="40976" sid="22" id="58" value="64.00"/>
+ </cluster>
+ <cluster id="104" name="" x="0.68" y="1.37" vx="0.00" vy="0.00" size="0.00" magnitude="82.00" zones="">
+  <m mcu="40976" sid="15" id="34" value="82.00"/>
+ </cluster>
+</room>
+<room id="danceroom" time="128887758990">
+ <cluster id="103" name="" x="1.15" y="0.15" vx="0.00" vy="0.00" size="0.00" magnitude="68.00" zones="1">
+  <m mcu="40976" sid="22" id="58" value="68.00"/>
+ </cluster>
+ <cluster id="104" name="" x="0.68" y="1.37" vx="0.00" vy="0.00" size="0.00" magnitude="82.00" zones="">
+  <m mcu="40976" sid="15" id="34" value="82.00"/>
+ </cluster>
+</room>
+<room id="danceroom" time="128887759024">
+ <cluster id="103" name="" x="1.15" y="0.15" vx="0.00" vy="0.00" size="0.00" magnitude="64.00" zones="1">
+  <m mcu="40976" sid="22" id="58" value="64.00"/>
+ </cluster>
+ <cluster id="104" name="" x="0.68" y="1.37" vx="0.00" vy="0.00" size="0.00" magnitude="81.00" zones="">
+  <m mcu="40976" sid="15" id="34" value="81.00"/>
+ </cluster>
+</room>
+<room id="danceroom" time="128887759057">
+ <cluster id="103" name="" x="1.56" y="0.43" vx="0.00" vy="0.00" size="0.55" magnitude="78.00" zones="1">
+  <m mcu="40976" sid="22" id="58" value="8.00"/>
+  <m mcu="40976" sid="34" id="77" value="70.00"/>
+ </cluster>
+ <cluster id="104" name="" x="0.68" y="1.37" vx="0.00" vy="0.00" size="0.00" magnitude="76.00" zones="">
+  <m mcu="40976" sid="15" id="34" value="76.00"/>
+ </cluster>
+</room>
+<room id="danceroom" time="128887759090">
+ <cluster id="103" name="" x="1.61" y="0.46" vx="0.00" vy="0.00" size="0.00" magnitude="68.00" zones="1">
+  <m mcu="40976" sid="34" id="77" value="68.00"/>
+ </cluster>
+ <cluster id="104" name="" x="0.68" y="1.37" vx="0.00" vy="0.00" size="0.00" magnitude="63.00" zones="">
+  <m mcu="40976" sid="15" id="34" value="63.00"/>
+ </cluster>
+</room>
+<room id="danceroom" time="128887759124">
+ <cluster id="103" name="" x="1.61" y="0.46" vx="0.00" vy="0.00" size="0.00" magnitude="65.00" zones="1">
+  <m mcu="40976" sid="34" id="77" value="65.00"/>
+ </cluster>
+ <cluster id="104" name="" x="0.49" y="1.25" vx="0.00" vy="0.00" size="0.55" magnitude="39.00" zones="">
+  <m mcu="40976" sid="15" id="34" value="23.00"/>
+  <m mcu="40976" sid="3" id="15" value="16.00"/>
+ </cluster>
+</room>
+<room id="danceroom" time="128887759157">
+ <cluster id="103" name="" x="1.61" y="0.46" vx="0.00" vy="0.00" size="-1.00" magnitude="0.00" zones="1">
+ </cluster>
+ <cluster id="104" name="" x="0.22" y="0.92" vx="0.00" vy="0.00" size="0.31" magnitude="34.00" zones="">
+  <m mcu="40976" sid="3" id="15" value="17.00"/>
+  <m mcu="40976" sid="2" id="16" value="17.00"/>
+ </cluster>
+</room>
+<room id="danceroom" time="128887759190">
+ <cluster id="103" name="" x="1.61" y="0.46" vx="0.00" vy="0.00" size="-1.00" magnitude="0.00" zones="1">
+ </cluster>
+ <cluster id="104" name="" x="0.22" y="1.01" vx="0.00" vy="0.00" size="0.31" magnitude="76.00" zones="">
+  <m mcu="40976" sid="3" id="15" value="61.00"/>
+  <m mcu="40976" sid="2" id="16" value="15.00"/>
+ </cluster>
+</room>
+<room id="danceroom" time="128887759224">
+ <cluster id="103" name="" x="1.61" y="0.46" vx="0.00" vy="0.00" size="-1.00" magnitude="0.00" zones="1">
+ </cluster>
+ <cluster id="104" name="" x="0.22" y="1.01" vx="0.00" vy="0.00" size="0.31" magnitude="78.00" zones="">
+  <m mcu="40976" sid="3" id="15" value="63.00"/>
+  <m mcu="40976" sid="2" id="16" value="15.00"/>
+ </cluster>
+</room>
+<room id="danceroom" time="128887759257">
+ <cluster id="103" name="" x="1.61" y="0.46" vx="0.00" vy="0.00" size="-1.00" magnitude="0.00" zones="1">
+ </cluster>
+ <cluster id="104" name="" x="0.22" y="1.01" vx="0.00" vy="0.00" size="0.31" magnitude="77.00" zones="">
+  <m mcu="40976" sid="3" id="15" value="63.00"/>
+  <m mcu="40976" sid="2" id="16" value="14.00"/>
+ </cluster>
+</room>
+<room id="danceroom" time="128887759290">
+ <cluster id="103" name="" x="1.61" y="0.46" vx="0.00" vy="0.00" size="-1.00" magnitude="0.00" zones="1">
+ </cluster>
+ <cluster id="104" name="" x="0.22" y="1.02" vx="0.00" vy="0.00" size="0.31" magnitude="75.00" zones="">
+  <m mcu="40976" sid="3" id="15" value="62.00"/>
+  <m mcu="40976" sid="2" id="16" value="13.00"/>
+ </cluster>
+</room>
+<event time="128887759324" room="danceroom" type="EXITROOM" zone="1"></event><room id="danceroom" time="128887759324">
+ <cluster id="104" name="" x="0.22" y="1.02" vx="0.00" vy="0.00" size="0.31" magnitude="74.00" zones="">
+  <m mcu="40976" sid="3" id="15" value="61.00"/>
+  <m mcu="40976" sid="2" id="16" value="13.00"/>
+ </cluster>
+</room>
+<room id="danceroom" time="128887759357">
+ <cluster id="104" name="" x="0.22" y="1.02" vx="0.00" vy="0.00" size="0.31" magnitude="74.00" zones="">
+  <m mcu="40976" sid="3" id="15" value="61.00"/>
+  <m mcu="40976" sid="2" id="16" value="13.00"/>
+ </cluster>
+</room>
+<room id="danceroom" time="128887759390">
+ <cluster id="104" name="" x="0.22" y="1.02" vx="0.00" vy="0.00" size="0.31" magnitude="72.00" zones="">
+  <m mcu="40976" sid="3" id="15" value="61.00"/>
+  <m mcu="40976" sid="2" id="16" value="11.00"/>
+ </cluster>
+</room>
+<room id="danceroom" time="128887759424">
+ <cluster id="104" name="" x="0.22" y="1.01" vx="0.00" vy="0.00" size="0.31" magnitude="73.00" zones="">
+  <m mcu="40976" sid="3" id="15" value="60.00"/>
+  <m mcu="40976" sid="2" id="16" value="13.00"/>
+ </cluster>
+</room>
+<room id="danceroom" time="128887759457">
+ <cluster id="104" name="" x="0.22" y="1.03" vx="0.00" vy="0.00" size="0.31" magnitude="70.00" zones="">
+  <m mcu="40976" sid="3" id="15" value="60.00"/>
+  <m mcu="40976" sid="2" id="16" value="10.00"/>
+ </cluster>
+</room>
+<room id="danceroom" time="128887759490">
+ <cluster id="104" name="" x="0.22" y="1.04" vx="0.00" vy="0.00" size="0.31" magnitude="65.00" zones="">
+  <m mcu="40976" sid="3" id="15" value="59.00"/>
+  <m mcu="40976" sid="2" id="16" value="6.00"/>
+ </cluster>
+</room>
+<room 
