@@ -1,4 +1,5 @@
 # Django settings for elsi project.
+import os
 
 DEBUG = True
 TEMPLATE_DEBUG = DEBUG
@@ -94,3 +95,8 @@ INSTALLED_APPS = (
     # Uncomment the next line to enable the admin:
     # 'django.contrib.admin',
 )
+
+
+CACHE_BACKEND = 'file://' + \
+                os.path.dirname(__file__) + \
+                '/django_cache?timeout=30&max_entries=50'
