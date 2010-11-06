@@ -7,6 +7,7 @@ from django.conf.urls.defaults import *
 urlpatterns = patterns('',
     # Example:
     (r'^pico/', include('elsi.pico.urls')),
+    (r'^battleship/', include('elsi.battleship.urls')),
 
     # Uncomment the admin/doc line below and add 'django.contrib.admindocs' 
     # to INSTALLED_APPS to enable admin documentation:
