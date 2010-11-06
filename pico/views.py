@@ -30,19 +30,3 @@ def xml_feed():
         if "</room>" in line:
             time.sleep(3)
             
-class PicoFeedHandler(ContentHandler):
-
-    def startDocument(self):
-        print "start document"
-    
-    def startElement(self, name, attrs):
-        print "start element"
-        print name
-        print attrs
-        
-    def endElement(self, name):
-        print "end element"
-        print name
-        if(name == "room"):
-            time.sleep(3)
-        
