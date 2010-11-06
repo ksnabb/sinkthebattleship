@@ -22,9 +22,7 @@ def feed(request, room):
 
 def xml_feed():
     f = open(os.path.join(os.path.dirname(__file__), 'templates/test_feed.xml'))
-    parser = make_parser()
-    parser.setContentHandler(PicoFeedHandler())
-
+    
     for line in f:
         yield line
         if "</room>" in line:
