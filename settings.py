@@ -92,6 +92,7 @@ INSTALLED_APPS = (
     'django.contrib.sites',
     'django.contrib.messages',
     'pico',
+    'battleship',
     # Uncomment the next line to enable the admin:
     # 'django.contrib.admin',
 )
@@ -99,4 +100,4 @@ INSTALLED_APPS = (
 
 CACHE_BACKEND = 'file://' + \
                 os.path.dirname(__file__) + \
-                '/django_cache?timeout=30&max_entries=50'
+                '/django_cache?timeout=120&max_entries=50'
