@@ -1,0 +1,18 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<title>Test for long polling</title>
+<script type="text/javascript" src="/static/jquery-1.4.3.min.js"></script>
+<script type="text/javascript">
+function long_poll() {
+    $.getJSON("{% url room_clusters %}");
+}
+</script>
+</head>
+<body>
+<div id="result">
+hello world
+</div>
+<input type="button" onclick="long_poll()" name="begin" value="begin"/>
+</body>
+</html>
