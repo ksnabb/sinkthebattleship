@@ -9,19 +9,22 @@ http://localhost:8000/pico
 
 PICO_URL = "http://10.10.10.254:8081"
 
-class pico_feed_handler(ContentHandler):
-    
-    def startDocument():
+class PicoFeedHandler(ContentHandler):
+
+    def startDocument(self):
         print "start document"
     
-    def startElement(name, attrs):
+    def startElement(self, name, attrs):
         print "start element"
         print name
         print attrs
         
-    def endElement(name):
+    def endElement(self, name):
         print "end element"
         print name
+        if(name == "room"):
+            time.sleep(3)
+        
         
 
 
