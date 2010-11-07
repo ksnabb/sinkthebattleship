@@ -1,0 +1,53 @@
+7.11.2010
+
+To test the current application you shuold do the following:
+
+1.
+Open the pico.py file inside the battleship application and change the PICO_URL to the pico servers url you want to connect to.
+
+If you do not have a live pico server around you can use the test server. The test server can be run like any other django application
+byt typing "python manage runserver"
+
+after this you can access a similar kind of REST as a real pico server:
+/pico/rooms
+/pico/info/<room_name>
+/pico/feed/<room_name>
+
+NOTICE!
+The room info is not complete
+The room_name has to be given but it has no effect on the result provided at the moment
+The rooms also gives just some example string
+
+2.
+There is no main function implemented yet so the battleship feed reader has to be run from the django shell:
+
+> python manage shell
+
+after this you run the following commands:
+
+>>> from battleship import pico
+>>> for room in pico.get_feed("danceroom"):
+...    print room
+...
+
+
+This running python generator reads the feed from the pico server(or pico test server) and saves the results in JSON format to django file cache.
+
+NOTICE! 
+The room name you give to the get_feed function does not matter at the moment as long as there is some string given to the function.
+The file cache was chosen for speed and simplicity compared to relational databases.
+The JSON format can be modified in the future to fit our needs better
+
+3.
+Run another django test server (if you have the test pico server running choose another port e.g.
+
+> python manage runserver 8080
+
+4.
+Open your browser and go to the address http://localhost:8080/battleship/test/
+
+By pressing the button "begin" the long polling begins and the values from the xml feed should show up where the hello world is located.
+
+NOTICE!
+It might take quite a long time as the test_feed.xml used has a lot of clutter in the beginning and the clutter is ignored at the moment
+Open up firebug or some similar debug program and check out the requests sent to get an idea of long polling functionallity
