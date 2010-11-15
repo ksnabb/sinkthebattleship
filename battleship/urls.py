@@ -6,10 +6,10 @@ from django.conf.urls.defaults import *
 
 urlpatterns = patterns('battleship.views',
     # Example:
-    url(r'^test/', 
-        'test_page',
-        name="test"),
-    url(r'^room_clusters/', 
+    url(r'^room/(?P<room_name>\w+)/$', 
+        'room',
+        name="room"),
+    url(r'^room_clusters/(?P<room_name>\w+)/$', 
         'room_clusters',
         name="room_clusters"),
 )

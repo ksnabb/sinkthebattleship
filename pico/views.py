@@ -15,7 +15,7 @@ def rooms(request):
     return render_to_response('list_of_rooms.txt', mimetype='text/plain')
 
 def info(request, room):
-    return render_to_response('room_info.xml', mimetype='text/xml')
+    return render_to_response('danceroom.xml', mimetype='text/xml')
 
 def feed(request, room):
     return HttpResponse(xml_feed(), mimetype="text/xml")
