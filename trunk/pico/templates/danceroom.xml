@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<room version="1.2" id="danceroom" plan="/rooms/danceroom/layout.png" updated="128956196780">
+  <mcu id="40976">
+    <sensor id="18" x="0.22" y="0.15"/>
+    <sensor id="17" x="0.22" y="0.46"/>
+    <sensor id="16" x="0.22" y="0.76"/>
+    <sensor id="15" x="0.22" y="1.07"/>
+    <sensor id="14" x="0.22" y="1.37"/>
+    <sensor id="13" x="0.22" y="1.68"/>
+    <sensor id="12" x="0.22" y="1.98"/>
+    <sensor id="11" x="0.22" y="2.29"/>
+    <sensor id="10" x="0.22" y="2.59"/>
+    <sensor id="9" x="0.22" y="2.90"/>
+    <sensor id="8" x="0.22" y="3.20"/>
+    <sensor id="38" x="0.68" y="0.15"/>
+    <sensor id="37" x="0.68" y="0.46"/>
+    <sensor id="36" x="0.68" y="0.76"/>
+    <sensor id="35" x="0.68" y="1.07"/>
+    <sensor id="34" x="0.68" y="1.37"/>
+    <sensor id="33" x="0.68" y="1.68"/>
+    <sensor id="32" x="0.68" y="1.98"/>
+    <sensor id="31" x="0.68" y="2.29"/>
+    <sensor id="30" x="0.68" y="2.59"/>
+    <sensor id="29" x="0.68" y="2.90"/>
+    <sensor id="28" x="0.68" y="3.20"/>
+    <sensor id="58" x="1.15" y="0.15"/>
+    <sensor id="57" x="1.15" y="0.46"/>
+    <sensor id="56" x="1.15" y="0.76"/>
+    <sensor id="55" x="1.15" y="1.07"/>
+    <sensor id="54" x="1.15" y="1.37"/>
+    <sensor id="53" x="1.15" y="1.68"/>
+    <sensor id="52" x="1.15" y="1.98"/>
+    <sensor id="51" x="1.15" y="2.29"/>
+    <sensor id="50" x="1.15" y="2.59"/>
+    <sensor id="49" x="1.15" y="2.90"/>
+    <sensor id="48" x="1.15" y="3.20"/>
+    <sensor id="78" x="1.61" y="0.15"/>
+    <sensor id="77" x="1.61" y="0.46"/>
+    <sensor id="76" x="1.61" y="0.76"/>
+    <sensor id="75" x="1.61" y="1.07"/>
+    <sensor id="74" x="1.61" y="1.37"/>
+    <sensor id="73" x="1.61" y="1.68"/>
+    <sensor id="72" x="1.61" y="1.98"/>
+    <sensor id="71" x="1.61" y="2.29"/>
+    <sensor id="70" x="1.61" y="2.59"/>
+    <sensor id="69" x="1.61" y="2.90"/>
+    <sensor id="68" x="1.61" y="3.20"/>
+
+  </mcu>
+  <zone id="0" type="bed" name="1">
+    <rect x="-0.03" y="2.73" width="1.40" height="1.39"/>
+  </zone>
+  <zone id="1" type="door" name="">
+    <rect x="1.10" y="-0.07" width="0.95" height="1.38"/>
+  </zone>
+</room>
