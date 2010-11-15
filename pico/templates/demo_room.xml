@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<room version="1.2" id="demo" plan="/rooms/demo/layout.png" updated="0">
+  <mcu id="40992">
+    <sensor id="19" x="0.22" y="0.15"/>
+    <sensor id="18" x="0.22" y="0.46"/>
+    <sensor id="17" x="0.22" y="0.76"/>
+    <sensor id="16" x="0.22" y="1.07"/>
+    <sensor id="15" x="0.22" y="1.37"/>
+    <sensor id="14" x="0.22" y="1.68"/>
+    <sensor id="13" x="0.22" y="1.98"/>
+    <sensor id="12" x="0.22" y="2.29"/>
+    <sensor id="11" x="0.22" y="2.59"/>
+    <sensor id="10" x="0.22" y="2.90"/>
+    <sensor id="39" x="0.68" y="0.15"/>
+    <sensor id="38" x="0.68" y="0.46"/>
+    <sensor id="37" x="0.68" y="0.76"/>
+    <sensor id="36" x="0.68" y="1.07"/>
+    <sensor id="35" x="0.68" y="1.37"/>
+    <sensor id="34" x="0.68" y="1.68"/>
+    <sensor id="33" x="0.68" y="1.98"/>
+    <sensor id="32" x="0.68" y="2.29"/>
+    <sensor id="31" x="0.68" y="2.59"/>
+    <sensor id="30" x="0.68" y="2.90"/>
+    <sensor id="59" x="1.15" y="0.15"/>
+    <sensor id="58" x="1.15" y="0.46"/>
+    <sensor id="57" x="1.15" y="0.76"/>
+    <sensor id="56" x="1.15" y="1.07"/>
+    <sensor id="55" x="1.15" y="1.37"/>
+    <sensor id="54" x="1.15" y="1.68"/>
+    <sensor id="53" x="1.15" y="1.98"/>
+    <sensor id="52" x="1.15" y="2.29"/>
+    <sensor id="51" x="1.15" y="2.59"/>
+    <sensor id="50" x="1.15" y="2.90"/>
+    <sensor id="79" x="1.61" y="0.15"/>
+    <sensor id="78" x="1.61" y="0.46"/>
+    <sensor id="77" x="1.61" y="0.76"/>
+    <sensor id="76" x="1.61" y="1.07"/>
+    <sensor id="75" x="1.61" y="1.37"/>
+    <sensor id="74" x="1.61" y="1.68"/>
+    <sensor id="73" x="1.61" y="1.98"/>
+    <sensor id="72" x="1.61" y="2.29"/>
+    <sensor id="71" x="1.61" y="2.59"/>
+    <sensor id="70" x="1.61" y="2.90"/>
+
+  </mcu>
+</room>
