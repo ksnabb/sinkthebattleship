@@ -97,6 +97,8 @@ INSTALLED_APPS = (
     # 'django.contrib.admin',
 )
 
+#PICO_URL = "http://10.10.10.254:8081"
+PICO_URL = "http://127.0.0.1:8080/pico"
 
 CACHE_BACKEND = 'file://' + \
                 os.path.dirname(__file__) + \

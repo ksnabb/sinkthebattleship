@@ -5,6 +5,7 @@ from django.shortcuts import render_to_response
 from battleship.pico import get_room_info
 import json
 import time
+import settings
 
 def test_page(request):
     return render_to_response('test.html')
@@ -17,11 +18,11 @@ def room(request, room_name):
     room_name -- The room to return the html presentation for
     """
     print room_name
-    room_json = cache.get(room_name + "_info")
+    room_json = cache.get(settings.PICO_URL + "/info/" + room_name)
     print room_json
     if(room_json == None):
-        get_room_info(room_name)
-        room_json = cache.get(room_name + "_info")
+        get_room_info(settings.PICO_URL, room_name)
+        room_json = cache.get(settings.PICO_URL + "/info/" + room_name)
     print room_json
     return render_to_response("room.html", json.loads(room_json))
     
