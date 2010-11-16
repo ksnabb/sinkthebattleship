@@ -1,3 +1,20 @@
 body {
-background-color: gray;
+    background-color: gray;
+    background-image:url('images/background.png');
+    background-repeat: no-repeat;
+}
+
+#toolbar {
+    background-image:url('images/toolbar.png');
+    background-repeat: no-repeat;
+    position: absolute;
+    height:164px;
+    width:960px;
+    top:0px;
+    left:0px;
+    padding:10px;
+}
+
+#gamearea {
+
 }
