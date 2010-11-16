@@ -102,4 +102,4 @@ PICO_URL = "http://127.0.0.1:8080/pico"
 
 CACHE_BACKEND = 'file://' + \
                 os.path.dirname(__file__) + \
-                '/django_cache?timeout=120&max_entries=50'
+                '/django_cache?timeout=300&max_entries=50'

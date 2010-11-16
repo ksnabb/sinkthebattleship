@@ -3,9 +3,11 @@ from django.core.cache import cache
 from django.http import HttpResponse
 from django.shortcuts import render_to_response
 from battleship.pico import get_room_info
+from battleship.pico import PicoFeedReader
 import json
 import time
 import settings
+import threading
 
 def test_page(request):
     return render_to_response('test.html')
@@ -17,12 +19,13 @@ def room(request, room_name):
 
     room_name -- The room to return the html presentation for
     """
-    print room_name
+    print settings.PICO_URL + "/info/" + room_name
     room_json = cache.get(settings.PICO_URL + "/info/" + room_name)
-    print room_json
+
     if(room_json == None):
         get_room_info(settings.PICO_URL, room_name)
         room_json = cache.get(settings.PICO_URL + "/info/" + room_name)
+
     print room_json
     return render_to_response("room.html", json.loads(room_json))
     
@@ -40,7 +43,20 @@ def room_clusters(request, room_name):
     server_clusters = cache.get(settings.PICO_URL + "/feed/" + room_name)
     print client_clusters
     print server_clusters
-    
+
+    print threading.enumerate()
+    create_new_thread = True
+    for t in threading.enumerate():
+        if(t.getName() == room_name):
+            create_new_thread = False
+            break
+
+    if(create_new_thread):
+        cache.set(settings.PICO_URL + "/feed/" + room_name, 
+                json.dumps({}))
+        pfr = PicoFeedReader(settings.PICO_URL, room_name, name=room_name)
+        pfr.start()
+
     while client_clusters == server_clusters:
         time.sleep(1)
         server_clusters = cache.get(settings.PICO_URL + "/feed/" + room_name)

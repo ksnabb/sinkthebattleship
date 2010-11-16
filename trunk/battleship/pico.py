@@ -6,6 +6,7 @@ import urllib
 import time
 import json
 import math
+import threading
 
 """
 http://10.10.10.254:8081/feed/danceroom
@@ -43,7 +44,6 @@ class PicoFeedHandler(ContentHandler):
         self.pico_server_url = pico_server_url
     
     def startElement(self, name, attrs):
-        print "start element"
     
         if(name == "room"):
             self.current_room = attrs.getValue("id")
@@ -53,14 +53,14 @@ class PicoFeedHandler(ContentHandler):
             self.current_cluster = attrs.getValue("id")
             self.dictionary[self.current_room][self.current_cluster] = \
                             {"id": self.current_cluster,
-                            "x": attrs.getValue("x"),
-                            "y": attrs.getValue("y"),
-                            "vx": attrs.getValue("vx"),
-                            "vy": attrs.getValue("vy")}
+                            "x": math.trunc(float(attrs.getValue("x")) * 200),
+                            "y": math.trunc(float(attrs.getValue("y")) * 200),
+                            "vx": math.trunc(float(attrs.getValue("vx")) * 200),
+                            "vy": math.trunc(float(attrs.getValue("vy")) * 200)}
             cache.set(self.pico_server_url + "/feed/" + self.current_room, 
                     json.dumps(self.dictionary))
             print "set into cache"
-            print self.current_room
+            print self.pico_server_url + "/feed/" + self.current_room
             print cache.get(self.current_room)
            
         elif(name == "m"):
@@ -69,8 +69,7 @@ class PicoFeedHandler(ContentHandler):
             pass
         
     def endElement(self, name):
-        print "end element"
-        print name
+        pass
 
 class PicoRoomHandler(ContentHandler):
     """
@@ -102,9 +101,6 @@ class PicoRoomHandler(ContentHandler):
         self.pico_server_url = pico_server_url
 
     def startElement(self, name, attrs):
-        print "start element"
-        print name
-        print attrs
 
         if name == "sensor":
             sensor_id = int(attrs.getValue("id"))
@@ -119,13 +115,11 @@ class PicoRoomHandler(ContentHandler):
 
         elif name == "room":
             self.room_name = attrs.getValue("id")
-            print self.room_name
 
             
         
     def endElement(self, name):
-        print "end element"
-        print name
+
         if name == "sensor":
             self.room_sensors.append(self.current_sensor)
         elif name == "room":
@@ -135,6 +129,9 @@ class PicoRoomHandler(ContentHandler):
                 }
             cache.set(self.pico_server_url + "/info/" + self.room_name, 
                     json.dumps(res_dict))
+            print "set into cache"
+            print self.pico_server_url + "/info/" + self.room_name
+            print cache.get(self.pico_server_url + "/info/" + self.room_name)
 
 
 def get_rooms(pico_server_url):
@@ -156,6 +153,7 @@ def get_room_info(pico_server_url, room):
     handler = PicoRoomHandler(pico_server_url)
     parseString(xml, handler)
     return xml
+
 
 def get_feed(pico_server_url, room):
     """
@@ -181,9 +179,18 @@ def get_feed(pico_server_url, room):
             try:
                 parseString(increment, handler)
             except SAXParseException:
-                print "SAXParseException"
                 pass
             increment = ""
             time.sleep(0.5)
      
+class PicoFeedReader(threading.Thread):
+    def __init__(self, pico_server_url, room, name="picofeed"):
+        threading.Thread.__init__(self, name=name)
+        self.pico_server_url = pico_server_url
+        self.room = room
 
+    def run(self):
+        print "start pico feed reader thread"
+        for line in get_feed(self.pico_server_url, self.room):
+            print line
+        
