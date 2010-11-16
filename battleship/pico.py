@@ -12,9 +12,6 @@ http://10.10.10.254:8081/feed/danceroom
 http://localhost:8000/pico
 """
 
-#PICO_URL = "http://10.10.10.254:8081"
-PICO_URL = "http://127.0.0.1:8080/pico"
-
 
 class PicoFeedHandler(ContentHandler):
     """
@@ -35,12 +32,15 @@ class PicoFeedHandler(ContentHandler):
                         }
                 }
     }
+
+    The feed is saved into the cache with the key <room_name>
     """
     
-    def __init__(self):
+    def __init__(self, pico_server_url):
         self.dictionary = {}
         self.current_room = ""
         self.current_cluster = ""
+        self.pico_server_url = pico_server_url
     
     def startElement(self, name, attrs):
         print "start element"
@@ -57,7 +57,7 @@ class PicoFeedHandler(ContentHandler):
                             "y": attrs.getValue("y"),
                             "vx": attrs.getValue("vx"),
                             "vy": attrs.getValue("vy")}
-            cache.set(self.current_room, 
+            cache.set(self.pico_server_url + "/feed/" + self.current_room, 
                     json.dumps(self.dictionary))
             print "set into cache"
             print self.current_room
@@ -89,14 +89,17 @@ class PicoRoomHandler(ContentHandler):
     "x": <x coordinate of sensor>,
     "y": <y coordinate of sensor>
     }
+
+    The room info is saved into the cache with the key "<room_name>_info"
     """
 
-    def __init__(self):
+    def __init__(self, pico_server_url):
         self.current_sensor = {}
         self.room_name = ""
         self.room_sensors = []
         self.last_x = 0
         self.last_y = 0
+        self.pico_server_url = pico_server_url
 
     def startElement(self, name, attrs):
         print "start element"
@@ -130,38 +133,41 @@ class PicoRoomHandler(ContentHandler):
                 "room_name": self.room_name,
                 "room_sensors": self.room_sensors
                 }
-            cache.set(self.room_name + "_info", 
+            cache.set(self.pico_server_url + "/info/" + self.room_name, 
                     json.dumps(res_dict))
 
 
-def get_rooms():
+def get_rooms(pico_server_url):
     """
     this function returns the list
-    of the rooms available
+    of the rooms available at the pico server given
     """
-    con = urllib.urlopen(PICO_URL + "/rooms")
+    con = urllib.urlopen(pico_server_url + "/rooms")
+    cache.set("rooms", con.read())
     return con.read()
 
-def get_room_info(room):
+def get_room_info(pico_server_url, room):
     """
     This functions returns the information of the
-    given room
+    given room at the pico server given
     """
-    con = urllib.urlopen(PICO_URL + "/info/" + room)
+    con = urllib.urlopen(pico_server_url + "/info/" + room)
     xml = con.read()
-    handler = PicoRoomHandler()
+    handler = PicoRoomHandler(pico_server_url)
     parseString(xml, handler)
     return xml
 
-def get_feed(room):
+def get_feed(pico_server_url, room):
     """
     This function returns a http ?! feed
-    for the room given as parameter
+    for the room given as parameter 
+
+    the pico_server_url is the pico servers url to connect to
     """
-    con = urllib.urlopen(PICO_URL + "/feed/" + room)
+    con = urllib.urlopen(pico_server_url + "/feed/" + room)
     last = ""
     increment = ""
-    handler = PicoFeedHandler()
+    handler = PicoFeedHandler(pico_server_url)
     while True:
         character = con.read(1)
         last = last + character
