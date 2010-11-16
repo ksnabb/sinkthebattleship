@@ -1,0 +1,30 @@
+7.11.2010
+
+To test the current application you shuold do the following:
+
+1.
+Open the pico.py file inside the battleship application and change the PICO_URL to the pico servers url you want to connect to.
+
+If you do not have a live pico server around you can use the test server. The test server can be run like any other django application
+byt typing "python manage runserver 8080"
+
+after this you can access a similar kind of REST as a real pico server on your localhost port 8080:
+/pico/rooms
+/pico/info/<room_name>
+/pico/feed/<room_name>
+
+NOTICE!
+The room info might be incomplete
+The room_name has to be given but it has no effect on the result provided at the moment
+The rooms also gives just some example string
+
+3.
+Run another django test server (if you have the test pico server running choose another port e.g.
+
+> python manage runserver 8000
+
+4.
+
+Open your browser and go to address http://localhost:8000/battleship/room/danceroom/
+
+You should now see an HTMl page with a room and its sensors.
