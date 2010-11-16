@@ -5,9 +5,9 @@
 <script type="text/javascript" src="/static/jquery-1.4.3.min.js"></script>
 <script type="text/javascript">
 var CURRENT_CLUSTERS = {};
-/*
+
 function long_poll() {
-    $.get("", 
+    $.get("http://localhost:8000/room_clusters/danceroom/", 
             CURRENT_CLUSTERS,
             function (data, textStatus, xhr) {
                     console.log(data);
@@ -19,13 +19,16 @@ function long_poll() {
                 }
             );
 }
-*/
 </script>
 </head>
 <body>
 {% for sensor in room_sensors %}
-<div id="{{ sensor.id }}" style="position:absolute;top:30px;left:30px;height:{{ sensor.x }}px;width:{{ sensor.y }}px;
+<div id="{{ sensor.id }}" style="position:absolute;top:50px;left:30px;height:{{ sensor.x }}px;width:{{ sensor.y }}px;
 border: 1px solid black;"></div>
 {% endfor %}
+<div class="right">
+<input type="button" value="begin" onclick="long_poll()" />
+<div id="result"></div>
+</div>
 </body>
 </html>
