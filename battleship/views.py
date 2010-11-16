@@ -37,13 +37,13 @@ def room_clusters(request, room_name):
     else:
         client_clusters = client_clusters.keys()[0]
         
-    server_clusters = cache.get("danceroom")
+    server_clusters = cache.get(settings.PICO_URL + "/feed/" + room_name)
     print client_clusters
     print server_clusters
     
     while client_clusters == server_clusters:
         time.sleep(1)
-        server_clusters = cache.get("danceroom")
+        server_clusters = cache.get(settings.PICO_URL + "/feed/" + room_name)
         print client_clusters
         print server_clusters
     
