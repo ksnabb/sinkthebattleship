@@ -56,20 +56,25 @@ class PicoFeedHandler(ContentHandler):
                             "x": math.trunc(float(attrs.getValue("x")) * 200),
                             "y": math.trunc(float(attrs.getValue("y")) * 200),
                             "vx": math.trunc(float(attrs.getValue("vx")) * 200),
-                            "vy": math.trunc(float(attrs.getValue("vy")) * 200)}
+                            "vy": math.trunc(float(attrs.getValue("vy")) * 200),
+                            "sensors": []}
+           
+        elif(name == "m"):
+            if self.current_room == "" or self.current_cluster == "":
+                pass
+            else:
+                self.dictionary[self.current_room][self.current_cluster]["sensors"].append(attrs.getValue("id"))
+        elif(name == "clutter"):
+            self.current_cluster = ""
+            pass
+        
+    def endElement(self, name):
+        if(name == "cluster"):
             cache.set(self.pico_server_url + "/feed/" + self.current_room, 
                     json.dumps(self.dictionary))
             print "set into cache"
             print self.pico_server_url + "/feed/" + self.current_room
             print cache.get(self.current_room)
-           
-        elif(name == "m"):
-            pass
-        elif(name == "clutter"):
-            pass
-        
-    def endElement(self, name):
-        pass
 
 class PicoRoomHandler(ContentHandler):
     """
