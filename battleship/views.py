@@ -26,8 +26,11 @@ def room(request, room_name):
         get_room_info(settings.PICO_URL, room_name)
         room_json = cache.get(settings.PICO_URL + "/info/" + room_name)
 
-    print room_json
-    return render_to_response("room.html", json.loads(room_json))
+    room_dict = json.loads(room_json)
+    #do modifications to value here if needed
+
+    print room_dict
+    return render_to_response("room.html", room_dict)
     
 def room_clusters(request, room_name):
     """
@@ -62,6 +65,8 @@ def room_clusters(request, room_name):
         server_clusters = cache.get(settings.PICO_URL + "/feed/" + room_name)
         print client_clusters
         print server_clusters
+
+    #do modifications to value here if needed
     
     return HttpResponse(server_clusters)
     
