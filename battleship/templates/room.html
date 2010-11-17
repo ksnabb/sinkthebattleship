@@ -22,15 +22,15 @@ function long_poll() {
                     }
                     
                     var clusters = data['danceroom'];
-                    console.log(clusters);
                     if(clusters !== undefined) {
                         for(cluster in clusters) {
                             cluster_json = clusters[cluster];
-                            console.log(cluster_json);
-                            var sids = data['danceroom'][cluster].sensors;
+                            var sids = cluster_json.sensors;
+                            console.log(sids);
                             for(var j = 0; j < sids.length; j++) {
-                                var sid = sids = data['danceroom'][cluster].sensors[j];
-                                var selector = "#" + sid + " .step"; 
+                                var sid = sids[j];
+                                var selector = "#" + sid + " .step";
+                                console.log(selector);
                                 $(selector)[0].style.visibility = "visible";                      
                             }
                         }
