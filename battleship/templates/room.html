@@ -44,8 +44,12 @@ function long_poll() {
 </script>
 </head>
 <body>
+<div id="toolbar">
+    <input type="button" value="begin" onclick="long_poll()" />
+</div>
+
 {% for sensor in room_sensors %}
-<div id="{{ sensor.id }}" class="sensor" style="position:absolute;top:50px;left:30px;height:{{ sensor.x }}px;width:{{ sensor.y }}px;
+<div id="{{ sensor.id }}" class="sensor" style="position:absolute;top:{{ sensor.x }}px;left:{{ sensor.y }}px;height:95px;width:95px;
 border: 1px solid black;"><div class="step">{{ sensor.id }}</div></div>
 {% endfor %}
 <div class="right">
