@@ -45,7 +45,28 @@ function long_poll() {
 </head>
 <body>
 <div id="toolbar">
-    <input type="button" value="begin" onclick="long_poll()" />
+    <div id="player1">
+        <img src="/static/images/player_1.png" alt="player1"/>
+    </div>
+    <div id="player1_score">
+        <img src="/static/images/explosion_2.png" alt="player1_hits"/>
+        0
+        <img src="/static/images/miss_1.png" alt="player1_hits"/>
+        0
+    </div>
+    <div id="player2">
+        <img src="/static/images/player_2.png" alt="player2"/>
+    </div>
+     <div id="player2_score">
+        <img src="/static/images/explosion_1.png" alt="player1_hits"/>
+        0
+        <img src="/static/images/miss_2.png" alt="player1_hits"/>
+        0
+    </div>
+    
+    <div id="controls">
+        <input type="button" value="begin" onclick="long_poll()" />
+    </div>
 </div>
 
 {% for sensor in room_sensors %}
@@ -53,7 +74,6 @@ function long_poll() {
 border: 1px solid black;"><div class="step">{{ sensor.id }}</div></div>
 {% endfor %}
 <div class="right">
-<input type="button" value="begin" onclick="long_poll()" />
 <div id="result"></div>
 </div>
 </body>
