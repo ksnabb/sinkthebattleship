@@ -21,14 +21,14 @@ function long_poll() {
                         steps[i].style.visibility = "hidden";
                     }
                     
-                    var clusters = data['danceroom'];
+                    var clusters = data['clusters'];
                     if(clusters !== undefined) {
-                        for(cluster in clusters) {
-                            cluster_json = clusters[cluster];
-                            var sids = cluster_json.sensors;
-                            console.log(sids);
-                            for(var j = 0; j < sids.length; j++) {
-                                var sid = sids[j];
+                        for(var k = 0; k < clusters.length; k++) {
+                            cluster_json = clusters[k];
+                            var sarr = cluster_json.sensors;
+                            console.log(sarr);
+                            for(var j = 0; j < sarr.length; j++) {
+                                var sid = sarr[j].id;
                                 var selector = "#" + sid + " .step";
                                 console.log(selector);
                                 $(selector)[0].style.visibility = "visible";                      
@@ -69,7 +69,7 @@ function long_poll() {
     </div>
 </div>
 
-{% for sensor in room_sensors %}
+{% for sensor in sensors %}
 <div id="{{ sensor.id }}" class="sensor" style="position:absolute;top:{{ sensor.x }}px;left:{{ sensor.y }}px;height:95px;width:95px;
 border: 1px solid black;"><div class="step">{{ sensor.id }}</div></div>
 {% endfor %}

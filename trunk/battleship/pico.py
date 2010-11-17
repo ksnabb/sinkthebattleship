@@ -21,70 +21,114 @@ class PicoFeedHandler(ContentHandler):
     The feed is saved as JSON into the django cache.
 
     The JSON is saved in the form:
+
+    room:
     {
-    "<room_name>": 
-                {
-                "<cluster_id>": {
-                            "id": <id of cluster>,
-                            "x": <x coordinate of cluster>,
-                            "y": <y coordingate of cluster>,
-                            "vx": <x speed of cluster>,
-                            "vy": <y speed of cluster>
-                        }
-                }
+    "id": "<room_id>",
+    "clusters" : <array of clusters>
+    }
+
+    cluster in array of clusters:
+    {
+    "<cluster_id>": {
+            "id": "<id of cluster>",
+            "x": <x coordinate of cluster>,
+            "y": <y coordingate of cluster>,
+            "vx": <x speed of cluster>,
+            "vy": <y speed of cluster>,
+            "magnitude": <magnitude of the cluster>,
+            "size": <size of the cluster>,
+            "sensors": <array of sensors>
+        }
+    }
+
+    sensor in array of sensors:
+    {
+        "id": "<id of sensor>",
+        "value": <value of sensor>
     }
 
     The feed is saved into the cache with the key <room_name>
     """
     
     def __init__(self, pico_server_url):
-        self.dictionary = {}
-        self.current_room = ""
-        self.current_cluster = ""
+        self.room_id = ""
+        self.room_clusters = []
+        self.cluster_id = ""
+        self.cluster_x = ""
+        self.cluster_y = ""
+        self.cluster_vx = ""
+        self.cluster_vy = ""
+        self.cluster_magnitude = ""
+        self.cluster_size = ""
+        self.cluster_sensors = []
+        self.sensor_id = ""
+        self.sensor_value = ""
         self.pico_server_url = pico_server_url
     
     def startElement(self, name, attrs):
     
         if(name == "room"):
-            self.current_room = attrs.getValue("id")
-            self.dictionary[self.current_room] = {}
+            self.room_id = attrs.getValue("id")
+            self.room_clusters = []
                 
         elif(name == "cluster"):
-            self.current_cluster = attrs.getValue("id")
-            self.dictionary[self.current_room][self.current_cluster] = \
-                            {"id": self.current_cluster,
-                            "x": math.trunc(float(attrs.getValue("x")) * 200),
-                            "y": math.trunc(float(attrs.getValue("y")) * 200),
-                            "vx": math.trunc(float(attrs.getValue("vx")) * 200),
-                            "vy": math.trunc(float(attrs.getValue("vy")) * 200),
-                            "sensors": []}
-           
+            self.cluster_id = attrs.getValue("id")
+            self.cluster_x = math.trunc(float(attrs.getValue("x")) * 100)
+            self.cluster_y = math.trunc(float(attrs.getValue("y")) * 100)
+            self.cluster_vx = math.trunc(float(attrs.getValue("vx")) * 100)
+            self.cluster_vy = math.trunc(float(attrs.getValue("vy")) * 100)
+            self.cluster_magnitude = math.trunc(float(attrs.getValue("magnitude")) * 100)
+            self.cluster_size = math.trunc(float(attrs.getValue("size")) * 100)
+            self.cluster_sensors = []
+          
         elif(name == "m"):
-            if self.current_room == "" or self.current_cluster == "":
-                pass
-            else:
-                self.dictionary[self.current_room][self.current_cluster]["sensors"].append(attrs.getValue("id"))
-        elif(name == "clutter"):
-            self.current_cluster = ""
-            pass
+            self.sensor_id = attrs.getValue("id")
+            self.sensor_value = math.trunc(float(attrs.getValue("value")) * 100)
         
     def endElement(self, name):
-        if(name == "cluster"):
-            cache.set(self.pico_server_url + "/feed/" + self.current_room, 
-                    json.dumps(self.dictionary))
+        if(name == "room"):
+            room_dict = {
+                    "id": self.room_id,
+                    "clusters": self.room_clusters
+                    }
             print "set into cache"
-            print self.pico_server_url + "/feed/" + self.current_room
-            print cache.get(self.current_room)
+            print room_dict
+            cache.set(self.pico_server_url + "/feed/" + self.room_id, 
+                    json.dumps(room_dict))
+
+        elif(name == "cluster"):
+            cluster_dict = {
+                        "id": self.cluster_id,
+                        "x": self.cluster_x,
+                        "y": self.cluster_y,
+                        "vx": self.cluster_vx,
+                        "vy": self.cluster_vy,
+                        "magnitude": self.cluster_magnitude,
+                        "size": self.cluster_size,
+                        "sensors": self.cluster_sensors,
+                        }
+            self.room_clusters.append(cluster_dict)
+        elif(name == "m"):
+            self.cluster_sensors.append({
+                                "id": self.sensor_id,
+                                "value": self.sensor_value
+                            })
+            
 
 class PicoRoomHandler(ContentHandler):
     """
     This handler handles the xml description from a pico server
     and saves it in JSON format to the django cache.
 
+    The JSON format is mapped straight from the room xml
+    file
+
     The JSON format takes the following format:
     {
-    "room_name": "<name of the room>",
-    "room_sensors": [<array of room sensors>]
+    "id": <id of the room>,
+    "plan": "<url to the room plan>",
+    "sensors": [<array of room sensors>]
     }
     
     JSON for a sensor has the following format:
@@ -98,45 +142,47 @@ class PicoRoomHandler(ContentHandler):
     """
 
     def __init__(self, pico_server_url):
-        self.current_sensor = {}
-        self.room_name = ""
+        self.room_id = ""
+        self.room_plan = ""
         self.room_sensors = []
-        self.last_x = 0
-        self.last_y = 0
+        self.sensor_id = ""
+        self.sensor_x = 0
+        self.sensor_y = 0
         self.pico_server_url = pico_server_url
 
     def startElement(self, name, attrs):
+        if name == "room":
+            self.room_id = attrs.getValue("id")
+            self.room_plan = attrs.getValue("plan")
+            self.room_sensors = []
 
-        if name == "sensor":
-            sensor_id = int(attrs.getValue("id"))
-            sensor_x = math.trunc(float(attrs.getValue("x")) * 200)
-            sensor_y = math.trunc(float(attrs.getValue("y")) * 200)
+        elif name == "sensor":
+            self.sensor_id = attrs.getValue("id")
+            self.sensor_x = math.trunc(float(attrs.getValue("x")) * 100)
+            self.sensor_y = math.trunc(float(attrs.getValue("y")) * 100)
 
-            self.current_sensor = {
-                        "id": sensor_id, 
-                        "x": sensor_x,
-                        "y": sensor_y
-                        }
-
-        elif name == "room":
-            self.room_name = attrs.getValue("id")
 
             
         
     def endElement(self, name):
-
-        if name == "sensor":
-            self.room_sensors.append(self.current_sensor)
-        elif name == "room":
-            res_dict = {
-                "room_name": self.room_name,
-                "room_sensors": self.room_sensors
+        
+        if name == "room":
+            room_dict = {
+                "id": self.room_id,
+                "plan": self.room_plan,
+                "sensors": self.room_sensors
                 }
-            cache.set(self.pico_server_url + "/info/" + self.room_name, 
-                    json.dumps(res_dict))
             print "set into cache"
-            print self.pico_server_url + "/info/" + self.room_name
-            print cache.get(self.pico_server_url + "/info/" + self.room_name)
+            print room_dict
+            cache.set(self.pico_server_url + "/info/" + self.room_id, 
+                    json.dumps(room_dict))
+
+        elif name == "sensor":
+            self.room_sensors.append({
+                                "id": self.sensor_id,
+                                "x": self.sensor_x,
+                                "y": self.sensor_y
+                                })
 
 
 def get_rooms(pico_server_url):

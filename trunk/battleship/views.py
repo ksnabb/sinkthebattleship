@@ -19,7 +19,6 @@ def room(request, room_name):
 
     room_name -- The room to return the html presentation for
     """
-    print settings.PICO_URL + "/info/" + room_name
     room_json = cache.get(settings.PICO_URL + "/info/" + room_name)
 
     if(room_json == None):
@@ -29,7 +28,6 @@ def room(request, room_name):
     room_dict = json.loads(room_json)
     #do modifications to value here if needed
 
-    print room_dict
     return render_to_response("room.html", room_dict)
     
 def room_clusters(request, room_name):
