@@ -26,5 +26,5 @@ def xml_feed():
     for line in f:
         yield line
         if "</room>" in line:
-            time.sleep(3)
+            time.sleep(1)
             

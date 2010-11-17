@@ -14,8 +14,29 @@ function long_poll() {
                     console.log(data);
                     console.log(textStatus);
                     console.log(xhr);
-                    CURRENT_CLUSTERS = data;
-                    $("#result")[0].innerHTML = CURRENT_CLUSTERS;
+                    data_str = data;
+                    data = jQuery.parseJSON(data);
+                    var steps = $(".step");
+                    for(var i = 0; i < steps.length; i++) {
+                        steps[i].style.visibility = "hidden";
+                    }
+                    
+                    var clusters = data['danceroom'];
+                    console.log(clusters);
+                    if(clusters !== undefined) {
+                        for(cluster in clusters) {
+                            cluster_json = clusters[cluster];
+                            console.log(cluster_json);
+                            var sids = data['danceroom'][cluster].sensors;
+                            for(var j = 0; j < sids.length; j++) {
+                                var sid = sids = data['danceroom'][cluster].sensors[j];
+                                var selector = "#" + sid + " .step"; 
+                                $(selector)[0].style.visibility = "visible";                      
+                            }
+                        }
+                    }
+                    CURRENT_CLUSTERS = data_str;
+                    //$("#result")[0].innerHTML = CURRENT_CLUSTERS;
                     long_poll();
                 }
             );
@@ -24,8 +45,8 @@ function long_poll() {
 </head>
 <body>
 {% for sensor in room_sensors %}
-<div id="{{ sensor.id }}" style="position:absolute;top:50px;left:30px;height:{{ sensor.x }}px;width:{{ sensor.y }}px;
-border: 1px solid black;"></div>
+<div id="{{ sensor.id }}" class="sensor" style="position:absolute;top:50px;left:30px;height:{{ sensor.x }}px;width:{{ sensor.y }}px;
+border: 1px solid black;"><div class="step">{{ sensor.id }}</div></div>
 {% endfor %}
 <div class="right">
 <input type="button" value="begin" onclick="long_poll()" />
