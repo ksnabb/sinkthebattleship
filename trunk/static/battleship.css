@@ -1,18 +1,67 @@
 body {
     background-color: gray;
     background-image:url('images/background.png');
-    background-repeat: no-repeat;
+    background-repeat: repeat-x;
 }
 
 #toolbar {
     background-image:url('images/toolbar.png');
-    background-repeat: no-repeat;
+    background-repeat: repeat-x;
     position: absolute;
     height:164px;
-    width:960px;
+    width:100%;
     top:0px;
     left:0px;
     padding:10px;
+}
+#player1 {
+    position: absolute;
+    height:156px;
+    width:420px;
+    top:0px;
+    left:0px;
+    margin:4px;
+}
+#player1_score {
+    position: absolute;
+    height:100px;
+    width:420px;
+    top:56px;
+    left:0px;
+    margin-left:4px;
+    color:white;
+    font-size:97px;
+    font-family:sans-serif;
+    text-shadow: #000000 2px 2px 2px;
+}
+
+#player2 {
+    position: absolute;
+    height:156px;
+    width:420px;
+    top:0px;
+    left:420px;
+    margin:4px;
+}
+#player2_score {
+    position: absolute;
+    height:100px;
+    width:420px;
+    top:56px;
+    left:420px;
+    margin-left:4px;
+    color:white;
+    font-size:97px;
+    font-family:sans-serif;
+    text-shadow: #000000 2px 2px 2px;
+}
+
+#controls {
+    position: absolute;
+    height:156px;
+    width:200px;
+    top:0px;
+    left:840px;
 }
 
 #gamearea {
