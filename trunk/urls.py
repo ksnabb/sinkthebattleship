@@ -7,8 +7,8 @@ import os
 
 urlpatterns = patterns('',
     # Example:
-    (r'^pico/', include('elsi.pico.urls')),
-    (r'^battleship/', include('elsi.battleship.urls')),
+    (r'^pico/', include('pico.urls')),
+    (r'^battleship/', include('battleship.urls')),
     (r'^static/(?P<path>.*)$', 'django.views.static.serve',
         {'document_root': os.path.dirname(__file__) + '/static'}),
 
