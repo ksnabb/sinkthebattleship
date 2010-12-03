@@ -7,6 +7,7 @@ import time
 import json
 import math
 import threading
+import logging
 
 """
 http://10.10.10.254:8081/feed/danceroom
@@ -67,7 +68,6 @@ class PicoFeedHandler(ContentHandler):
         self.pico_server_url = pico_server_url
     
     def startElement(self, name, attrs):
-    
         if(name == "room"):
             self.room_id = attrs.getValue("id")
             self.room_clusters = []
@@ -92,8 +92,6 @@ class PicoFeedHandler(ContentHandler):
                     "id": self.room_id,
                     "clusters": self.room_clusters
                     }
-            print "set into cache"
-            print room_dict
             cache.set(self.pico_server_url + "/feed/" + self.room_id, 
                     json.dumps(room_dict))
 
@@ -172,8 +170,6 @@ class PicoRoomHandler(ContentHandler):
                 "plan": self.room_plan,
                 "sensors": self.room_sensors
                 }
-            print "set into cache"
-            print room_dict
             cache.set(self.pico_server_url + "/info/" + self.room_id, 
                     json.dumps(room_dict))
 
@@ -229,7 +225,8 @@ def get_feed(pico_server_url, room):
             yield(increment)
             try:
                 parseString(increment, handler)
-            except SAXParseException:
+            except SAXParseException as e:
+                #cache.set("http://10.10.10.200:8081/feed/mide", "error " + str(e))
                 pass
             increment = ""
             time.sleep(0.5)

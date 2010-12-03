@@ -76,7 +76,7 @@ MIDDLEWARE_CLASSES = (
     'django.contrib.messages.middleware.MessageMiddleware',
 )
 
-ROOT_URLCONF = 'elsi.urls'
+ROOT_URLCONF = 'urls'
 
 TEMPLATE_DIRS = (
     # Put strings here, like "/home/html/django_templates" or 
@@ -98,7 +98,8 @@ INSTALLED_APPS = (
 )
 
 #PICO_URL = "http://10.10.10.254:8081"
-PICO_URL = "http://127.0.0.1:8080/pico"
+#PICO_URL = "http://127.0.0.1:8080/pico"
+PICO_URL = "http://10.10.10.200:8081"
 
 CACHE_BACKEND = 'file://' + \
                 os.path.dirname(__file__) + \
