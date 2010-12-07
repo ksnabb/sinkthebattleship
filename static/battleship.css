@@ -22,17 +22,59 @@ body {
     left:0px;
     margin:4px;
 }
+
+#player1_hitlogo {
+    position: absolute;
+    height:100px;
+    width:100px;
+    top:56px;
+    left:0px;
+}
+
 #player1_score {
     position: absolute;
     height:100px;
-    width:420px;
+    width:100px;
     top:56px;
-    left:0px;
+    left:100px;
     margin-left:4px;
+    margin-top:6px;
+    text-align:right;
     color:white;
     font-size:97px;
     font-family:sans-serif;
     text-shadow: #000000 2px 2px 2px;
+}
+
+#player1_misslogo {
+    position: absolute;
+    height:100px;
+    width:100px;
+    top:56px;
+    left:200px;
+}
+
+#player1_miss {
+    position: absolute;
+    height:100px;
+    width:100px;
+    top:56px;
+    left:300px;
+    margin-left:4px;
+    margin-top:6px;
+    text-align:right;
+    color:white;
+    font-size:97px;
+    font-family:sans-serif;
+    text-shadow: #000000 2px 2px 2px;
+}
+
+#player2_hitlogo {
+    position: absolute;
+    height:100px;
+    width:100px;
+    top:56px;
+    left:400px;
 }
 
 #player2 {
@@ -46,10 +88,33 @@ body {
 #player2_score {
     position: absolute;
     height:100px;
-    width:420px;
+    width:100px;
     top:56px;
-    left:420px;
+    left:500px;
     margin-left:4px;
+    margin-top:6px;
+    text-align:right;
+    color:white;
+    font-size:97px;
+    font-family:sans-serif;
+    text-shadow: #000000 2px 2px 2px;
+}
+#player2_misslogo {
+    position: absolute;
+    height:100px;
+    width:100px;
+    top:56px;
+    left:600px;
+}
+#player2_miss {
+    position: absolute;
+    height:100px;
+    width:100px;
+    top:56px;
+    left:700px;
+    margin-left:4px;
+    margin-top:6px;
+    text-align:right;
     color:white;
     font-size:97px;
     font-family:sans-serif;

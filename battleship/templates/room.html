@@ -73,21 +73,36 @@ function long_poll() {
     <div id="player1">
         <img src="/static/images/player_1.png" alt="player1"/>
     </div>
+    <div id="player1_hitlogo">
+        <img src="/static/images/explosionlogo_2.png" alt="player1_hits"/>
+    </div>
     <div id="player1_score">
-        <img src="/static/images/explosion_2.png" alt="player1_hits"/>
-        0
-        <img src="/static/images/miss_1.png" alt="player1_hits"/>
+        11
+    </div>
+    <div id="player1_misslogo">
+        <img src="/static/images/misslogo_1.png" alt="player1_miss"/>
+    </div>
+    <div id="player1_miss">
         0
     </div>
+    
     <div id="player2">
         <img src="/static/images/player_2.png" alt="player2"/>
     </div>
+    
+     <div id="player2_hitlogo">
+        <img src="/static/images/explosionlogo_1.png" alt="player2_hits"/>
+     </div>
+     
      <div id="player2_score">
-        <img src="/static/images/explosion_1.png" alt="player1_hits"/>
         0
-        <img src="/static/images/miss_2.png" alt="player1_hits"/>
+     </div>
+     <div id="player2_misslogo">
+        <img src="/static/images/misslogo_2.png" alt="player2_miss"/>
+     </div>
+     <div id="player2_miss">
         0
-    </div>
+     </div>
     
     <div id="controls">
         <input type="button" value="begin" onclick="long_poll()" />
@@ -95,7 +110,7 @@ function long_poll() {
 </div>
 
 {% for sensor in sensors %}
-<div id="{{ sensor.id }}" class="sensor" style="position:absolute;top:{{ sensor.x }}px;left:{{ sensor.y }}px;height:15px;width:15px;
+<div id="{{ sensor.id }}" class="sensor" style="position:absolute;top:{{ sensor.x }}px;left:{{ sensor.y }}px;height:60px;width:60px;
 border: 1px solid black;"><div class="step">{{ sensor.id }}</div></div>
 {% endfor %}
 <div class="right">
