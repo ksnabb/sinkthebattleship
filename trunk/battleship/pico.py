@@ -167,7 +167,7 @@ class PicoRoomHandler(ContentHandler):
 
         elif name == "sensor":
             self.sensor_id = attrs.getValue("id")
-            self.sensor_x = math.trunc(float(attrs.getValue("x")) * 100+165)
+            self.sensor_x = math.trunc(float(attrs.getValue("x")) * 100)
             self.sensor_y = math.trunc(float(attrs.getValue("y")) * 100)
                         
 

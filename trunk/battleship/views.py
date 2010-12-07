@@ -30,7 +30,8 @@ def room(request, room_name):
     #do modifications to value here if needed
     print room_dict
     for sensor in room_dict['sensors']:
-        sensor['x'] = 820 - sensor['x']
+        sensor['x'] = 820 - (sensor['x']*1.4)
+        sensor['y'] = (sensor['y'] * 2)-20
     print room_dict
 
     return render_to_response("room.html", room_dict)
