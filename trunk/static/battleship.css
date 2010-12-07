@@ -142,8 +142,13 @@ body {
     background-color: blue;
 }
 
-.hit {
+.hit1 {
     background-image: url("/static/images/explosion_1.png");
+    height: 60px;
+    width: 60px;
+}
+.hit2 {
+    background-image: url("/static/images/explosion_2.png");
     height: 60px;
     width: 60px;
 }
