@@ -167,9 +167,9 @@ class PicoRoomHandler(ContentHandler):
 
         elif name == "sensor":
             self.sensor_id = attrs.getValue("id")
-            self.sensor_x = math.trunc(float(attrs.getValue("x")) * 100)
+            self.sensor_x = math.trunc(float(attrs.getValue("x")) * 100+165)
             self.sensor_y = math.trunc(float(attrs.getValue("y")) * 100)
-
+                        
 
             
         
@@ -211,9 +211,11 @@ def get_room_info(pico_server_url, room):
     con = urllib.urlopen(pico_server_url + "/info/" + room)
     xml = con.read()
     handler = PicoRoomHandler(pico_server_url)
-    parseString(xml, handler)
+    try:
+        parseString(xml, handler)
+    except SAXParseException:
+        pass
     return xml
-
 
 def get_feed(pico_server_url, room):
     """

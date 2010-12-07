@@ -21,7 +21,7 @@ function long_poll() {
                         steps[i].style.visibility = "hidden";
                     }
                     
-                    var clusters = data['clusters'];
+                    var clusters = data['mide'];
                     if(clusters !== undefined) {
                         for(var k = 0; k < clusters.length; k++) {
                             cluster_json = clusters[k];
@@ -41,6 +41,7 @@ function long_poll() {
                 }
             );
 }
+
 </script>
 </head>
 <body>
@@ -70,7 +71,7 @@ function long_poll() {
 </div>
 
 {% for sensor in sensors %}
-<div id="{{ sensor.id }}" class="sensor" style="position:absolute;top:{{ sensor.x }}px;left:{{ sensor.y }}px;height:95px;width:95px;
+<div id="{{ sensor.id }}" class="sensor" style="position:absolute;top:{{ sensor.x }}px;left:{{ sensor.y }}px;height:15px;width:15px;
 border: 1px solid black;"><div class="step">{{ sensor.id }}</div></div>
 {% endfor %}
 <div class="right">
