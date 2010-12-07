@@ -42,10 +42,10 @@ def room_clusters(request, room_name):
         client_clusters = client_clusters.keys()[0]
         
     server_clusters = cache.get(settings.PICO_URL + "/feed/" + room_name)
-    print client_clusters
-    print server_clusters
+    #print client_clusters
+    #print server_clusters
 
-    print threading.enumerate()
+    #print threading.enumerate()
     create_new_thread = True
     for t in threading.enumerate():
         if(t.getName() == room_name):
@@ -53,21 +53,21 @@ def room_clusters(request, room_name):
             break
 
     if(create_new_thread):
-        print "create new thread"
+        #print "create new thread"
         cache.set(settings.PICO_URL + "/feed/" + room_name, 
                 json.dumps({}))
         pfr = PicoFeedReader(settings.PICO_URL, room_name, name=room_name)
         pfr.start()
 
     while client_clusters == server_clusters or server_clusters == None:
-        time.sleep(1)
+        time.sleep(0.1)
         server_clusters = cache.get(settings.PICO_URL + "/feed/" + room_name)
-        print "client"
-        print client_clusters
-        print "server"
-        print server_clusters
-        print settings.PICO_URL
-        print room_name
+        #print "client"
+        #print client_clusters
+        #print "server"
+        #print server_clusters
+        #print settings.PICO_URL
+        #print room_name
 
     #do modifications to value here if needed
     
