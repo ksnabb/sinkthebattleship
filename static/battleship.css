@@ -141,3 +141,9 @@ body {
     width: 20px;
     background-color: blue;
 }
+
+.hit {
+    background-image: url("/static/images/explosion_1.png");
+    height: 60px;
+    width: 60px;
+}
