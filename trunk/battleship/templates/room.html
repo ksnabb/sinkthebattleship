@@ -16,7 +16,7 @@ function randomize_ships() {
     var random = Math.floor(Math.random()*sensors.length);
     for(var i = 0; i < 15; i++) {
         var random = Math.floor(Math.random()*sensors.length);
-        ships[random] = true; //the key is the id and the value is the size
+        ships[sensors[random].id] = true; //the key is the id and the value is the size
     }
 }
 
@@ -52,8 +52,11 @@ function long_poll() {
                                     //console.log(r);
                                     //console.log(sid);
                                     //console.log(ships);
-                                    if(Number(r) === Number(sid)) {
-                                        console.log("hit");
+                                    if(ships[r] = true) {
+                                        if(Number(r) === Number(sid)) {
+                                            console.log("hit");
+                                            $("#" + sid).addClass("hit");
+                                        }
                                     }
                                 }
                             }
