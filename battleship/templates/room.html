@@ -8,6 +8,9 @@
 var CURRENT_CLUSTERS = {};
 var player_colors = ["#0000FF","#00FF00","#FF0000"]; //colors for the players, is modulated from the cluster/player id
 var ships = {}; //sensor ids where the ships have been randomized
+var explosion_snd = new Audio("/static/Explosion_16bit.wav");
+var miss_snd = new Audio("/static/Miss_16bit.wav");
+
 
 function randomize_ships() {
     var sensors = $(".sensor");
@@ -47,6 +50,7 @@ function long_poll() {
                                 var color = cluster_json.id % 3;
                                 $(selector)[0].style.backgroundColor = player_colors[color];
                                 $(selector)[0].style.visibility = "visible";
+                                miss_snd.play();
                                 
                                 for(var r in ships) {
                                     //console.log(r);
@@ -55,7 +59,9 @@ function long_poll() {
                                     if(ships[r] = true) {
                                         if(Number(r) === Number(sid)) {
                                             console.log("hit");
+                                            explosion_snd.play();
                                             $("#" + sid).addClass("hit");
+                                            
                                         }
                                     }
                                 }
