@@ -6,6 +6,7 @@
 <script type="text/javascript" src="/static/jquery-1.4.3.min.js"></script>
 <script type="text/javascript">
 var CURRENT_CLUSTERS = {};
+var player_colors = ["#0000FF","#00FF00","#FF0000"];
 
 function long_poll() {
     $.get("http://localhost:8000/battleship/room_clusters/mide/", 
@@ -31,7 +32,9 @@ function long_poll() {
                                 var sid = sarr[j].id;
                                 var selector = "#" + sid + " .step";
                                 console.log(selector);
-                                $(selector)[0].style.visibility = "visible";                      
+                                var color = cluster_json.id % 3;
+                                $(selector)[0].style.backgroundColor = player_colors[color];
+                                $(selector)[0].style.visibility = "visible";                    
                             }
                         }
                     }
