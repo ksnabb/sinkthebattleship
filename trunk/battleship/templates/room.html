@@ -49,6 +49,7 @@ function randomize_ships() {
 
 
 function long_poll() {
+
     $.get("http://localhost:8000/battleship/room_clusters/mide/", 
             CURRENT_CLUSTERS,
             function (data, textStatus, xhr) {
@@ -153,7 +154,7 @@ function long_poll() {
         <img src="/static/images/player_1.png" alt="player1"/>
     </div>
     <div id="player1_hitlogo">
-        <img src="/static/images/explosionlogo_2.png" alt="player1_hits"/>
+        <img src="/static/images/explosionlogo_1.png" alt="player1_hits"/>
     </div>
     <div id="player1_score">
         0
@@ -170,7 +171,7 @@ function long_poll() {
     </div>
     
      <div id="player2_hitlogo">
-        <img src="/static/images/explosionlogo_1.png" alt="player2_hits"/>
+        <img src="/static/images/explosionlogo_2.png" alt="player2_hits"/>
      </div>
      
      <div id="player2_score">

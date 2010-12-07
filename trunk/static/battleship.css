@@ -34,9 +34,9 @@ body {
 #player1_score {
     position: absolute;
     height:100px;
-    width:100px;
+    width:150px;
     top:56px;
-    left:100px;
+    left:90px;
     margin-left:4px;
     margin-top:6px;
     text-align:right;
@@ -51,15 +51,15 @@ body {
     height:100px;
     width:100px;
     top:56px;
-    left:200px;
+    left:260px;
 }
 
 #player1_miss {
     position: absolute;
     height:100px;
-    width:100px;
+    width:150px;
     top:56px;
-    left:300px;
+    left:350px;
     margin-left:4px;
     margin-top:6px;
     text-align:right;
@@ -74,7 +74,7 @@ body {
     height:100px;
     width:100px;
     top:56px;
-    left:400px;
+    left:520px;
 }
 
 #player2 {
@@ -82,15 +82,15 @@ body {
     height:156px;
     width:420px;
     top:0px;
-    left:420px;
+    left:520px;
     margin:4px;
 }
 #player2_score {
     position: absolute;
     height:100px;
-    width:100px;
+    width:150px;
     top:56px;
-    left:500px;
+    left:610px;
     margin-left:4px;
     margin-top:6px;
     text-align:right;
@@ -104,14 +104,14 @@ body {
     height:100px;
     width:100px;
     top:56px;
-    left:600px;
+    left:780px;
 }
 #player2_miss {
     position: absolute;
     height:100px;
-    width:100px;
+    width:150px;
     top:56px;
-    left:700px;
+    left:870px;
     margin-left:4px;
     margin-top:6px;
     text-align:right;
@@ -126,7 +126,7 @@ body {
     height:156px;
     width:200px;
     top:0px;
-    left:840px;
+    left:1020px;
 }
 
 #gamearea {
