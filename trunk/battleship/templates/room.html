@@ -6,15 +6,27 @@
 <script type="text/javascript" src="/static/jquery-1.4.3.min.js"></script>
 <script type="text/javascript">
 var CURRENT_CLUSTERS = {};
-var player_colors = ["#0000FF","#00FF00","#FF0000"];
+var player_colors = ["#0000FF","#00FF00","#FF0000"]; //colors for the players, is modulated from the cluster/player id
+var ships = {}; //sensor ids where the ships have been randomized
+
+function randomize_ships() {
+    var sensors = $(".sensor");
+    //console.log(sensors);
+    //console.log(sensors.length);
+    var random = Math.floor(Math.random()*sensors.length);
+    for(var i = 0; i < 15; i++) {
+        var random = Math.floor(Math.random()*sensors.length);
+        ships[random] = true; //the key is the id and the value is the size
+    }
+}
 
 function long_poll() {
     $.get("http://localhost:8000/battleship/room_clusters/mide/", 
             CURRENT_CLUSTERS,
             function (data, textStatus, xhr) {
-                    console.log(data);
-                    console.log(textStatus);
-                    console.log(xhr);
+                    //console.log(data);
+                    //console.log(textStatus);
+                    //console.log(xhr);
                     data_str = data;
                     data = jQuery.parseJSON(data);
                     var steps = $(".step");
@@ -27,14 +39,23 @@ function long_poll() {
                         for(var k = 0; k < clusters.length; k++) {
                             cluster_json = clusters[k];
                             var sarr = cluster_json.sensors;
-                            console.log(sarr);
+                            //console.log(sarr);
                             for(var j = 0; j < sarr.length; j++) {
                                 var sid = sarr[j].id;
                                 var selector = "#" + sid + " .step";
-                                console.log(selector);
+                                //console.log(selector);
                                 var color = cluster_json.id % 3;
                                 $(selector)[0].style.backgroundColor = player_colors[color];
-                                $(selector)[0].style.visibility = "visible";                    
+                                $(selector)[0].style.visibility = "visible";
+                                
+                                for(var r in ships) {
+                                    //console.log(r);
+                                    //console.log(sid);
+                                    //console.log(ships);
+                                    if(Number(r) === Number(sid)) {
+                                        console.log("hit");
+                                    }
+                                }
                             }
                         }
                     }
@@ -80,5 +101,8 @@ border: 1px solid black;"><div class="step">{{ sensor.id }}</div></div>
 <div class="right">
 <div id="result"></div>
 </div>
+<script type="text/javascript">
+randomize_ships();
+</script>
 </body>
 </html>
