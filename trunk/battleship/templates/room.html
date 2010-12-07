@@ -21,6 +21,8 @@ var player1_miss = 0;
 var player2_miss = 0;
 var player1_steps = 0;
 var player2_steps = 0;
+var player1_previous_step = {}; //set of sensors
+var player2_previous_step = {}; //set of sensors
 
 function randomize_ships() {
     var sensors = $(".sensor");
@@ -82,10 +84,10 @@ function long_poll() {
                         }
                         if(!p1c) {
                             player1_cluster = extra_cluster;
-                            player1_steps++;
+                            //player1_steps++;
                         } else if(!p2c) {
                             player2_cluster = extra_cluster;
-                            player2_steps++;
+                            //player2_steps++;
                         }
                         
                         
@@ -99,7 +101,13 @@ function long_poll() {
                                 var selector = "#" + sid + " .step";
                                 //console.log(selector);
                                 var color = cluster_json.id % 3;
-                                $(selector)[0].style.backgroundColor = player_colors[color];
+                                if(cluster_json.id === player1_cluster) {
+                                    $(selector)[0].style.backgroundColor = "#FF0000";
+                                } else if (cluster_json.id === player2_cluster) {
+                                    $(selector)[0].style.backgroundColor = "#0000FF";
+                                } else {
+                                    $(selector)[0].style.backgroundColor = "#FFFFFF";
+                                }
                                 $(selector)[0].style.visibility = "visible";
                                 miss_snd.play();
                                 
