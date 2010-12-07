@@ -8,20 +8,45 @@
 var CURRENT_CLUSTERS = {};
 var player_colors = ["#0000FF","#00FF00","#FF0000"]; //colors for the players, is modulated from the cluster/player id
 var ships = {}; //sensor ids where the ships have been randomized
-var explosion_snd = new Audio("/static/Explosion_16bit.wav");
+var players = {}; //cluster id's as keys and player id's as values
+var player1_ships = {};
+var player2_ships = {};
 var miss_snd = new Audio("/static/Miss_16bit.wav");
-
+var explosion_snd = new Audio("/static/Explosion_16bit.wav");
+var player1_cluster = 0;
+var player2_cluster = 0;
+var player1_score = 0;
+var player2_score = 0;
+var player1_miss = 0;
+var player2_miss = 0;
+var player1_steps = 0;
+var player2_steps = 0;
 
 function randomize_ships() {
     var sensors = $(".sensor");
     //console.log(sensors);
     //console.log(sensors.length);
     var random = Math.floor(Math.random()*sensors.length);
-    for(var i = 0; i < 15; i++) {
+    for(var i = 0; i < 30; i++) {
         var random = Math.floor(Math.random()*sensors.length);
-        ships[sensors[random].id] = true; //the key is the id and the value is the size
+        if(ships[sensors[random].id]) {
+            i--;
+        } else {
+            ships[sensors[random].id] = true; //the key is the id and the value is the size
+        }
+    }
+    var t = 1;
+    for(ship in ships) {
+        if(t % 2 === 0) {
+            player1_ships[ship] = true;
+        } else {
+            player2_ships[ship] = true;
+        }
+        t++;
+        console.log(ship);
     }
 }
+
 
 function long_poll() {
     $.get("http://localhost:8000/battleship/room_clusters/mide/", 
@@ -39,9 +64,34 @@ function long_poll() {
                     
                     var clusters = data['clusters'];
                     if(clusters !== undefined) {
+                        //check clusters for players
+                        var p1c = false;
+                        var p2c = false;
+                        var extra_cluster = 0;
+                        for(var l = 0; l < clusters.length; l++) {
+                            if(clusters[l].id === player1_cluster) {
+                                p1c = true;
+                                player1_steps++;
+                            } else if(clusters[l].id === player2_cluster) {
+                                p2c = true;
+                                player2_steps++;
+                            } else {
+                                extra_cluster = clusters[l].id;
+                            }
+                        }
+                        if(!p1c) {
+                            player1_cluster = extra_cluster;
+                            player1_steps++;
+                        } else if(!p2c) {
+                            player2_cluster = extra_cluster;
+                            player2_steps++;
+                        }
+                        
+                        
                         for(var k = 0; k < clusters.length; k++) {
                             cluster_json = clusters[k];
                             var sarr = cluster_json.sensors;
+                            
                             //console.log(sarr);
                             for(var j = 0; j < sarr.length; j++) {
                                 var sid = sarr[j].id;
@@ -56,18 +106,38 @@ function long_poll() {
                                     //console.log(r);
                                     //console.log(sid);
                                     //console.log(ships);
-                                    if(ships[r] = true) {
-                                        if(Number(r) === Number(sid)) {
-                                            console.log("hit");
-                                            explosion_snd.play();
-                                            $("#" + sid).addClass("hit");
-                                            
+                                    //test which players cluster we are testing
+                                    if(cluster_json.id === player1_cluster) {
+                                        if(ships[r] === true) {
+                                            if(Number(r) === Number(sid)) {
+                                                console.log("hit");
+                                                explosion_snd.play();
+                                                $("#" + sid).addClass("hit1");
+                                                ships[r] = false;
+                                                player1_score++;
+                                            }
+                                        }  
+                                    } else if(cluster_json.id === player2_cluster) {
+                                        if(ships[r] === true) {
+                                            if(Number(r) === Number(sid)) {
+                                                console.log("hit");
+                                                explosion_snd.play();
+                                                $("#" + sid).addClass("hit2");
+                                                ships[r] = false;
+                                                player2_score++;
+                                            }
                                         }
                                     }
                                 }
                             }
                         }
                     }
+                    player1_miss = player1_steps - player1_score;
+                    player2_miss = player2_steps - player2_score;
+                    $("#player1_score")[0].innerHTML = player1_score;
+                    $("#player2_score")[0].innerHTML = player2_score;
+                    $("#player1_miss")[0].innerHTML = player1_miss;
+                    $("#player2_miss")[0].innerHTML = player2_miss;
                     CURRENT_CLUSTERS = data_str;
                     //$("#result")[0].innerHTML = CURRENT_CLUSTERS;
                     long_poll();
@@ -86,7 +156,7 @@ function long_poll() {
         <img src="/static/images/explosionlogo_2.png" alt="player1_hits"/>
     </div>
     <div id="player1_score">
-        11
+        0
     </div>
     <div id="player1_misslogo">
         <img src="/static/images/misslogo_1.png" alt="player1_miss"/>
