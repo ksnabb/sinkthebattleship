@@ -49,6 +49,19 @@ function randomize_ships() {
     }
 }
 
+function start_game(cnt) {
+    //show the starting animation
+    if(cnt >= 0) {
+        $('#infofloat')[0].innerHTML = '<img src="/static/images/start_' + cnt + '.png">';
+        $('#infofloat').fadeIn(800, function() {
+            $('#infofloat').fadeOut(800, function() { }); 
+        });
+        cnt--;
+        setTimeout("start_game(" + cnt + ")",1620); 
+    } else {
+        long_poll();
+    }
+}
 
 function long_poll() {
 
@@ -193,8 +206,9 @@ function long_poll() {
      </div>
     
     <div id="controls">
-        <input type="button" value="begin" onclick="long_poll()" />
+        <input type="button" value="begin" onclick="start_game(5)" />
     </div>
+    
 </div>
 
 {% for sensor in sensors %}
@@ -204,8 +218,12 @@ border: 1px solid black;"><div class="step">{{ sensor.id }}</div></div>
 <div class="right">
 <div id="result"></div>
 </div>
+<div id="infofloat">
+</div>
+
 <script type="text/javascript">
 randomize_ships();
 </script>
+
 </body>
 </html>
